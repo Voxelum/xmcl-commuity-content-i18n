@@ -1,0 +1,14 @@
+{
+  "name": "get-build-number",
+  "private": true,
+  "scripts": {
+    "build": "esbuild src.js --bundle --outfile=index.js --platform=node --target=node16"
+  },
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "mongodb": "^5.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.17"
+  }
+}
