@@ -24,7 +24,11 @@ function processLocaleType(locale, type) {
 
   const fileContent = readFileSync(csvFile, 'utf-8')
 
-  for (const line of fileContent.split('\n')) {
+  const lines = fileContent.split('\n')
+
+  lines.shift() // remove the header
+
+  for (const line of lines) {
     const [name, modrinthId, curseforgeId, description] = line.split(',')
     db.run(`INSERT INTO i18n (curseforgeId, modrinthId, name, description) VALUES (?, ?, ?)`, [curseforgeId, modrinthId, name, description])
   }
