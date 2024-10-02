@@ -30,7 +30,11 @@ function processLocaleType(locale, type) {
 
   for (const line of lines) {
     const [name, modrinthId, curseforgeId, description] = line.split(',')
-    db.run(`INSERT INTO i18n (curseforgeId, modrinthId, name, description) VALUES (?, ?, ?)`, [curseforgeId, modrinthId, name, description])
+    try {
+      db.run(`INSERT INTO i18n (curseforgeId, modrinthId, name, description) VALUES (?, ?, ?)`, [curseforgeId, modrinthId, name, description])
+    } catch (e) {
+      console.error(e)
+    }
   }
 
   db.close()
