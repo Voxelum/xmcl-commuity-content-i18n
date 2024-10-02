@@ -2,6 +2,10 @@
 
 This repo contains the i18n for community content like mods, resource packs, and shaders for XMCL.
 
+## Why we need this repo?
+
+Since many users are more used to seeing localized names rather than English original names. The purpose of this repo is to allow more users to better use XMCL, and even provide reference for other peers.
+
 ## How to contribute
 
 We just use git to manage the translations. You can fork this repo and submit a pull request to contribute your translations.
