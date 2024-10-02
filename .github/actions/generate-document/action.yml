@@ -1,6 +1,0 @@
-name: Prepare PR
-description: Prepare Pull Request for the current change
-runs:
-  using: 'node16'
-  main: dist/index.js
-  

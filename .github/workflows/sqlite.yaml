@@ -1,0 +1,29 @@
+on:
+  # cron job per day
+  # schedule:
+    # - cron: "0 0 * * *"
+  # manual trigger
+  workflow_dispatch:
+name: Create SQLite database
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Run genreate sqlite action
+        uses: ./.github/actions/generate-sqlite
+      - name: Draft Release
+        id: create_release
+        uses: voxelum/create-release@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ github.run_number }}
+          release_name: v${{ github.run_number }}
+          draft: false
+          prerelease: false
+          body: v${{ github.run_number }}
+          asset_dir_path: ./build
