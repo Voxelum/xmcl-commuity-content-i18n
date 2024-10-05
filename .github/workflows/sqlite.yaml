@@ -24,7 +24,7 @@ jobs:
         run: pnpm install
       - name: Run genreate sqlite action
         run: 
-          node ./generate-sqlite.mjs
+          pnpm build
       - name: Draft Release
         id: create_release
         uses: voxelum/create-release@master
@@ -37,3 +37,11 @@ jobs:
           prerelease: false
           body: v${{ github.run_number }}
           asset_dir_path: ./build
+      - name: Upload to Azure
+        uses: ci010/upload-blob-to-azure@master
+        env:
+          AZURE_ACCOUNT_KEY: ${{ secrets.AZURE_ACCOUNT_KEY }}
+        with:
+          account: xmcl
+          container: project-mapping
+          directory: ./build

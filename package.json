@@ -4,7 +4,8 @@
   "scripts": {
     "sort": "node sort.mjs",
     "sync": "node sync.mjs",
-    "validate": "node validate.mjs"
+    "validate": "node validate.mjs",
+    "build": "node generate-sqlite.js"
   },
   "dependencies": {
     "node-sqlite3-wasm": "^0.8.16"
