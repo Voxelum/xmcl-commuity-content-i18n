@@ -1,0 +1,20 @@
+on:
+  push:
+    branches:
+      - main
+name: Validate
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Run script
+        run: 
+          node ./validate.mjs

@@ -6,15 +6,25 @@ on:
   workflow_dispatch:
 name: Create SQLite database
 jobs:
-  sync:
+  sqlite:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
         with:
           persist-credentials: false
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 9.3.0
+      - name: Install
+        run: pnpm install
       - name: Run genreate sqlite action
-        uses: ./.github/actions/generate-sqlite
+        run: 
+          node ./generate-sqlite.mjs
       - name: Draft Release
         id: create_release
         uses: voxelum/create-release@master
