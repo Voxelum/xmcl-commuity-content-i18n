@@ -4,6 +4,29 @@ import { join } from 'path'
 import { gzipSync } from 'zlib'
 import { createHash } from 'crypto'
 
+function splitCsvLine(line) {
+  // respect the quotes
+  const result = []
+  let current = ''
+  let inQuote = false
+  for (const char of line) {
+    if (char == ',') {
+      if (inQuote) {
+        current += char
+      } else {
+        result.push(current)
+        current = ''
+      }
+    } else if (char == '"') {
+      inQuote = !inQuote
+    } else {
+      current += char
+    }
+  }
+  result.push(current)
+  return result
+}
+
 /**
  * @param {string} locale locale code like zh-cn
  * @param {string} type mods, modpacks, or resourcepacks
@@ -29,7 +52,7 @@ function processLocaleType(locale, type) {
   lines.shift() // remove the header
 
   for (const line of lines) {
-    const [name, modrinthId, curseforgeId, description] = line.split(',')
+    const [name, modrinthId, curseforgeId, description] = splitCsvLine(line)
     try {
       db.run(`INSERT INTO i18n (curseforgeId, modrinthId, name, description) VALUES (?, ?, ?)`, [curseforgeId, modrinthId, name, description])
     } catch (e) {
