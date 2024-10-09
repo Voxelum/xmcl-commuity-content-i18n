@@ -6,6 +6,12 @@ settings:
 
 importers:
 
+  .:
+    dependencies:
+      node-sqlite3-wasm:
+        specifier: ^0.8.16
+        version: 0.8.22
+
   .github/actions/generate-sqlite:
     dependencies:
       '@actions/core':
