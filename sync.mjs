@@ -24,6 +24,8 @@ async function sync() {
         return acc
     }, {})
 
+    console.log('domains', Object.entries(groupByDomain).map(v => [v[0], v[1].length]))
+
     for (const locale of readdirSync('src')) {
         const path = join('src', locale)
         for (const file of readdirSync(path)) {
@@ -33,6 +35,11 @@ async function sync() {
                 const lines = fileContent.split('\n')
 
                 const byDomain = groupByDomain[file.split('.')[0]]
+
+                if (!byDomain) {
+                    console.log('No domain for', file)
+                    continue
+                }
 
                 // csvContent is name,modrinthId,curseforgeId,description
                 const csvContent = lines.map(l => l.split(','))
