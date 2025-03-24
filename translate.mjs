@@ -75,16 +75,25 @@ async function main() {
         const files = fs.readdirSync(`src/${dir}`);
         for (const file of files) {
             if (file.endsWith(".csv")) {
+                let buffer = []
+                const size = 32
                 const csvFile = fs.readFileSync(`src/${dir}/${file}`, "utf-8");
                 const lines = csvFile.split("\n");
                 const csvContentLines = lines.map((l) => l.split(","));
                 const header = csvContentLines.shift(); // remove the header
 
-                // bat handle 32 lines
-                for (let i = 0; i < csvContentLines.length; i += 32) {
-                    const chunk = csvContentLines.slice(i, i + 32)
-                    // filter only for modrinth and no description
-                    const descriptions = chunk.filter((row) => !!row[1] && !row[3])
+                for (let i = 0; i < csvContentLines.length; i += 1) {
+                    const line = csvContentLines[i];
+                    if (!!line[3] || !line[1]) {
+                        continue
+                    }
+                    if (buffer.length < size) {
+                        buffer.push(line)
+                        continue
+                    }
+
+                    const descriptions = buffer
+                    buffer = []
 
                     const results = await getModrinthDescription(descriptions.map((row) => row[1]));
 
