@@ -64,7 +64,7 @@ async function getModrinthDescription(ids) {
         },
     });
     const projects = await resp.json();
-    return projects.map((p) => [p.id, p.description]);
+    return Object.fromEntries(projects.map((p) => [p.id, p.description]));
 }
 
 async function main() {
@@ -82,9 +82,7 @@ async function main() {
                 const csvFile = readFileSync(`src/${dir}/${file}`, "utf-8");
                 const lines = csvFile.split("\n");
                 const csvContentLines = lines.map((l) => l.split(","));
-                const header = csvContentLines.shift(); // remove the header
-
-                for (let i = 0; i < csvContentLines.length; i += 1) {
+                for (let i = 1; i < csvContentLines.length; i += 1) {
                     const line = csvContentLines[i];
                     if (!!line[3] || !line[1]) {
                         continue
@@ -97,23 +95,29 @@ async function main() {
                     const descriptions = buffer
                     buffer = []
 
-                    const results = await getModrinthDescription(descriptions.map((row) => row[1]));
+                    const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
 
-                    const dict = Object.fromEntries(results)
+                    console.log('dict', dict)
 
                     const resolvedDescriptions = descriptions.map((row) => ({ row, descrption: dict[row[1]] }))
 
-                    const translated = await translateByDS(locale, resolvedDescriptions.map((resolved) => resolved.row[1]));
+                    console.log('resolvedDescriptions', resolvedDescriptions)
 
-                    console.log(translated)
+                    const translated = await translateByDS(locale, resolvedDescriptions.map((resolved) => resolved.descrption));
+
+                    console.log('translated', translated)
 
                     for (const { row, descrption } of resolvedDescriptions) {
-                        row[3] = translated[descrption] || descrption
+                        let d = translated[descrption] || descrption
+                        if (d.indexOf(',') !== -1) {
+                            d = `"${d}"`
+                        }
+                        row[3] = d
                     }
                     break
                 }
 
-                writeFileSync(`src/${dir}/${file}`, [header, ...csvContentLines.map((l) => l.join(",")).join("\n")].join("\n"));
+                writeFileSync(`src/${dir}/${file}`, csvContentLines.map((l) => l.join(",")).join("\n"));
             }
         }
     }

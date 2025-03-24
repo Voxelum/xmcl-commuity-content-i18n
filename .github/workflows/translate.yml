@@ -28,12 +28,11 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Sync with database"
-          title: "Sync with database"
-          body: "Sync with database"
-          branch: "sync"
+          commit-message: "Translate description"
+          title: "Translate description"
+          body: "Translate description"
+          branch: "translate-description"
           base: "main"
-          labels: "sync"
+          labels: "traslate"
           draft: false
-          branch-suffix: timestamp
   
