@@ -63,70 +63,70 @@ name,modrinth,curseforge,description
 ,sH9tXU9f,840734,将液体燃料泵入烈焰燃烧器
 ,twkfQtEc,499980,动态数据包和注册、村民活动、自定义地图标记等
 ,r0v8vy1s,548115,高效且非位置依赖的红石粉实现
-,Ha28R6CL,308769,
-,uLbm7CG6,527334,
-,G6VHtQr4,463826,
-,4fCwcdXD,299045,
-,ziOp6EO8,693313,
-,EiEOyeoL,368718,
-,yWSAtnfH,1084468,
-,tTPzEplo,494133,
-,40FYwb4z,397876,
-,z3TzcquW,925511,
-,bcOsQHnC,481655,
-,REH0O240,825617,
+,Ha28R6CL,308769,这是一个为Fabric模组启用Kotlin编程语言的模组。
+,uLbm7CG6,527334,减少加载时间并为语言提供回退支持
+,G6VHtQr4,463826,一个用于Minecraft模组间共享代码的库。
+,4fCwcdXD,299045,为神秘农业添加层级水晶。
+,ziOp6EO8,693313,一个包含Corgi Taco模组通用代码的库模组。
+,EiEOyeoL,368718,为Just Enough Items添加CraftTweaker支持
+,yWSAtnfH,1084468,BisectHosting服务器订购菜单
+,tTPzEplo,494133,电脑、键盘、RGB，真正的玩家还需要什么？！
+,40FYwb4z,397876,一个核心模组和API，为开发者提供通过实体属性访问鞘翅飞行机制的权限。
+,z3TzcquW,925511,修复画作渲染，提高性能并允许自定义模型
+,bcOsQHnC,481655,女性性别模组引入了额外的玩家模型自定义选项，包括为你的角色添加个性化特色的独特功能。
+,REH0O240,825617,通过在游戏中查找模组服务器，使它们更容易被发现！
 ,eUbrlzyb,284523,
-,ZsrrjDbP,953637,
-,vvuO3ImH,394941,
-,yD9qW65f,931925,
-,P0Mu4wcQ,401236,
-,VZWuyRVr,441114,
-,t5W7Jfwy,319596,
-,e0M1UDsY,526606,
-,Ib1hetHL,451558,
-,edU0NbZZ,681606,
-,fgmhI8kH,623908,
-,nkTZHOLD,704136,
-,Fnrzx9Jl,676811,
-,JuksLGBQ,619986,
-,3mW8PdUo,646464,
-,gedNE4y2,658587,
-,FTeXqI9v,905861,
-,2u6LRnMa,704113,
-,DPyowF4K,690674,
-,fzSKSXVK,583228,
-,eNNKPxg3,913405,
-,r4Knci2k,906239,
-,xSfkjdDu,377448,
-,qRidloO4,345023,
-,J5CVo2fm,356349,
-,rOUBggPv,454372,
-,cKLIJfSz,605554,
-,abooMhox,367178,
-,o6qsdrrQ,927564,
-,nrJ2NpD0,552277,
-,dCKRaeBC,912441,
-,SFO4Ca80,525510,
-,lhGA9TYQ,419699,
-,72GXx2MO,284324,
-,TLZe11Uj,620928,
-,KX1XC0Oo,915324,
-,TyTPFOiF,429926,
-,Tg5fXO1x,577850,
-,zFCKsjVY,901658,
-,2eT495vq,670986,
-,FGlHZl7X,687497,
-,xl3myxch,550778,
-,Lq6ojcWv,574409,
-,WXDvMkR5,429291,
-,IKARgflD,458048,
-,lo90fZoB,845831,
-,VXgaJQ9n,386320,
-,KuQueJOG,635510,
-,eXrl5E3G,656526,
-,DjLobEOy,626761,
-,T3yEYSUT,880620,
-,a7yNQPzW,579177,
+,ZsrrjDbP,953637,优雅——可能充满敌意——迷失在七大洋中的船只...
+,vvuO3ImH,394941,一个灵活且可扩展的饰品/装备API，供用户和开发者使用。
+,yD9qW65f,931925,为Embeddium/Sodium提供额外的性能和质量功能，带来更精致的体验
+,P0Mu4wcQ,401236,添加各种可以通过探索找到的宝藏物品
+,VZWuyRVr,441114,为Minecraft中的每一本附魔书赋予独特纹理！
+,t5W7Jfwy,319596,让你改变大多数实体的尺寸，缩小或放大它们的比例
+,e0M1UDsY,526606,🎓 Collective是Serilum所有模组的共享库，包含通用代码。
+,Ib1hetHL,451558,Lyøn Mods所有模组的核心组件。
+,edU0NbZZ,681606,添加能够以3x3、3x3x3、5x5x1、5x5x3和最终的5x5x5范围挖掘的锤子！它们非常棒。
+,fgmhI8kH,623908,增强并创建新的村庄和掠夺者前哨站，完美融入你的Minecraft世界。
+,nkTZHOLD,704136,一个支持不同模组加载器的API，是像Factocrafty这样的模组的基础
+,Fnrzx9Jl,676811,允许模组包开发者定义默认服务器属性。通常用于默认世界类型等设置
+,JuksLGBQ,619986,在Fabric和Quilt上实现极速自定义GUI纹理，内置OptiFine自定义GUI资源包支持
+,3mW8PdUo,646464,一个基础模组，在游戏内HUD上显示你的坐标。
+,gedNE4y2,658587,为玩家添加动画效果
+,FTeXqI9v,905861,Create: New Age是Create模组的扩展，添加了与电力的整合。
+,2u6LRnMa,704113,一个跨平台API，为开发者简化物品、流体和能量的传输与存储，以及其他实用功能
+,DPyowF4K,690674,MrCrayfish枪械模组的扩展，添加大量逼真枪械
+,fzSKSXVK,583228,一个简单的模组，用于创建定时备份
+,eNNKPxg3,913405,Expanded Combat的插件模组，添加与暮色森林的兼容性
+,r4Knci2k,906239,Create模组的补充，添加新家具。
+,xSfkjdDu,377448,飞向其他星球及更远的地方！
+,qRidloO4,345023,🥛 允许绵羊、羊驼、猪、驴、马和骡子产出一桶牛奶。
+,J5CVo2fm,356349,一个修复某些复制漏洞的模组。
+,rOUBggPv,454372,SuperMartijn642的核心库添加了大量基础实现，允许在不同Minecraft版本间使用相似代码！
+,cKLIJfSz,605554,以樱花树为主题的新生物群系，包含自定义结构和新型村庄！
+,abooMhox,367178,🌲 用斧头瞬间砍倒整棵树和巨型蘑菇。包含快速树叶腐烂和树苗放置。
+,o6qsdrrQ,927564,Nolij制作的过度设计的缩放模组
+,nrJ2NpD0,552277,允许你在游戏中控制和显示音乐！
+,dCKRaeBC,912441,Litematica的非官方(Neo)Forge移植版。一个现代的Minecraft客户端示意图模组。
+,SFO4Ca80,525510,为Masa模组系列添加了一些功能。
+,lhGA9TYQ,419699,一个旨在简化多平台模组开发的中间API。
+,72GXx2MO,284324,在Minecraft中添加表情符号
+,TLZe11Uj,620928,Fabric版Apotheosis移植，修改并扩展了许多系统
+,KX1XC0Oo,915324,Formations Overworld为主世界添加了大量新结构！
+,TyTPFOiF,429926,在你离开世界或服务器时截取游戏画面，并在重新加入时显示。
+,Tg5fXO1x,577850,添加多种便携式工作台，比如便携式合成台
+,zFCKsjVY,901658,动态渲染盔甲纹饰图案！
+,2eT495vq,670986,一个旨在优化Minecraft内存使用的性能模组。
+,FGlHZl7X,687497,End Remastered的前身，The Lost Castle引入了一座巨大的城堡。内部藏有无尽的财富和一个早已消失的文明留下的谜团...
+,xl3myxch,550778,ApexStudios所有模组必需的库模组
+,Lq6ojcWv,574409,Enderman Overhaul 添加了20多种新末影人变种，各有独特音效、模型和动画！
+,WXDvMkR5,429291,禁用"实验性世界设置"警告界面
+,IKARgflD,458048,栅栏可以斜向连接？等等，这不合法。
+,lo90fZoB,845831,一个树形任务模组，允许包制作者为玩家创建和包含可完成的任务
+,VXgaJQ9n,386320,一个基于FPS游戏A.V.A的模组，添加了枪械等内容
+,KuQueJOG,635510,Warden Tools添加新的监守者装备并彻底重制远古城市战利品。
+,eXrl5E3G,656526,数据驱动的方块和物品揭示系统。边探索边发现！
+,DjLobEOy,626761,用新的村庄、掠夺者前哨站甚至新船只为你的世界增添趣味！
+,T3yEYSUT,880620,Luna Pixel Studios所有模组包的核心模组。
+,a7yNQPzW,579177,ProjectE的非官方扩展，提供EMC显示、更多被动生成EMC的方式等。
 ,oHGMwNDR,809542,
 ,WwbubTsV,374274,
 ,m3pkVbY8,857972,
