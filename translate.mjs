@@ -18,7 +18,7 @@ export const chat = (messages) => {
     }).then((resp) => resp.json());
 };
 
-async function translateByDS(descriptions) {
+async function translateByDS(locale, descriptions) {
     const resp = await chat([
         {
             role: "system",
@@ -72,6 +72,7 @@ async function main() {
         if (!allowedLocales.includes(dir)) {
             continue;
         }
+        const locale = dir;
 
         const files = readdirSync(`src/${dir}`);
         for (const file of files) {
@@ -102,7 +103,7 @@ async function main() {
 
                     const resolvedDescriptions = descriptions.map((row) => ({ row, descrption: dict[row[1]] }))
 
-                    const translated = await translateByDS(resolvedDescriptions.map((resolved) => resolved.row[1]));
+                    const translated = await translateByDS(locale, resolvedDescriptions.map((resolved) => resolved.row[1]));
 
                     console.log(translated)
 
