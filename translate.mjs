@@ -64,7 +64,7 @@ async function getModrinthDescription(ids) {
         },
     });
     const projects = await resp.json();
-    return Object.fromEntries(projects.map((p) => [p.id, p.description]));
+    return Object.fromEntries(projects.map((p) => [p.id, p.description.replaceAll("\n", " ")]));
 }
 
 async function main() {
@@ -78,22 +78,15 @@ async function main() {
         for (const file of files) {
             if (file.endsWith(".csv")) {
                 let buffer = []
-                const size = 32
-                const csvFile = readFileSync(`src/${dir}/${file}`, "utf-8");
-                const lines = csvFile.split("\n");
-                const csvContentLines = lines.map((l) => l.split(","));
-                for (let i = 1; i < csvContentLines.length; i += 1) {
-                    const line = csvContentLines[i];
-                    if (!!line[3] || !line[1]) {
-                        continue
-                    }
-                    if (buffer.length < size) {
-                        buffer.push(line)
-                        continue
-                    }
+                const size = 64
 
+                const flush = async () => {
                     const descriptions = buffer
                     buffer = []
+
+                    if (descriptions.length === 0) {
+                        return
+                    }
 
                     const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
 
@@ -109,14 +102,32 @@ async function main() {
 
                     for (const { row, descrption } of resolvedDescriptions) {
                         let d = translated[descrption] || descrption
-                        if (d.indexOf(',') !== -1) {
-                            d = `"${d}"`
+                        if (d) {
+                            if (d.indexOf(',') !== -1) {
+                                d = `"${d}"`
+                            }
+                            row[3] = d
                         }
-                        row[3] = d
                     }
-                    break
                 }
 
+                const csvFile = readFileSync(`src/${dir}/${file}`, "utf-8");
+                const lines = csvFile.split("\n");
+                const csvContentLines = lines.map((l) => l.split(","));
+                for (let i = 1; i < csvContentLines.length; i += 1) {
+                    const line = csvContentLines[i];
+                    if (!!line[3] || !line[1]) {
+                        continue
+                    }
+                    if (buffer.length < size) {
+                        buffer.push(line)
+                        continue
+                    }
+
+                    await flush()
+                    break
+                }
+                await flush()
                 writeFileSync(`src/${dir}/${file}`, csvContentLines.map((l) => l.join(",")).join("\n"));
             }
         }
