@@ -18,25 +18,38 @@ export const chat = (messages) => {
     }).then((resp) => resp.json());
 };
 
+const example = JSON.stringify({
+    xl3myxch: "Library Mod required by all of ApexStudios' mods",
+    Lq6ojcWv: "Enderman Overhaul adds over 20 new enderman variants, each with their own sounds, models, and animations!",
+    WXDvMkR5: 'Disable the "experimental world settings" warning screen',
+})
+
+const exampleOut = JSON.stringify({
+    xl3myxch: "ApexStudios所有模组必需的库模组",
+    Lq6ojcWv: "Enderman Overhaul 添加了20多种新末影人变种，各有独特音效、模型和动画！",
+    WXDvMkR5: '禁用"实验性世界设置"警告界面',
+})
+
 async function translateByDS(locale, descriptions) {
     const resp = await chat([
         {
             role: "system",
             content:
-                "You are an asistant of a Minecraft mod developer. You are asked to translate the mod description into different languages by locale code. Please do not add locale prefix to output. Users will input multiple description split by line feed. You should translate each description into the target locale and output them in the same order.",
+                "You are an asistant of a Minecraft mod developer. You are asked to translate the mod description into different languages by locale code. Users will input a json, which key is the project id, and the value is description. You should translate each description into the target locale and output a json raw text directly.",
         },
         {
             role: "user",
             content:
-                "Translate following into zh-CN:\nThis is an example\nThis is the second description!\nHello world~",
+                "Translate following into zh-CN:```json\n" + example + "\n```",
         },
         {
             role: "assistant",
-            content: "这是一个例子\n这是第二个简介！\n你好世界~",
+            content: exampleOut,
         },
         {
             role: "user",
-            content: `Translate following text into ${locale}:\n${descriptions.join("\n")}`,
+            content:
+                "Translate following into " + locale + ":```json\n" + JSON.stringify(descriptions) + "\n```",
         },
     ]);
     if ("error" in resp) {
@@ -51,7 +64,7 @@ async function translateByDS(locale, descriptions) {
         content = content.substring(locale.length);
     }
     console.log('translate raw', content)
-    return content.split("\n").filter((l) => l.trim().length > 0).map(r => r.trim());
+    return JSON.parse(content)
 }
 
 async function getModrinthDescription(ids) {
@@ -104,12 +117,12 @@ async function main() {
 
                     console.log('resolvedDescriptions', resolvedDescriptions)
 
-                    const translated = await translateByDS(locale, resolvedDescriptions.map((resolved) => resolved.descrption));
+                    const translated = await translateByDS(locale, Object.fromEntries(resolvedDescriptions.map((resolved) => [resolved.row[1], resolved.descrption])));
 
                     for (let i = 0; i < resolvedDescriptions.length; i += 1) {
                         const { row, descrption } = resolvedDescriptions[i]
-                        let d = translated[i] || descrption
-                        console.log(descrption, translated[i])
+                        let d = translated[row[1]] || descrption
+                        console.log(descrption, d)
                         if (d) {
                             if (d.indexOf(',') !== -1) {
                                 d = `"${d}"`
