@@ -56,8 +56,10 @@ async function translateByDS(locale, descriptions) {
         return resp;
     }
     let content = resp.choices[0].message.content;
-    if (content.startsWith('```' + locale)) {
-        content = content.substring(('```' + locale).length);
+    if (content.startsWith('```json')) {
+        content = content.substring('```json'.length);
+    }
+    if (content.endsWith('```')) {
         content = content.substring(0, content.length - 3);
     }
     if (content.startsWith(locale)) {
