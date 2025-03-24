@@ -23,7 +23,7 @@ async function translateByDS(locale, descriptions) {
         {
             role: "system",
             content:
-                "You are an asistant of a Minecraft mod developer. You are asked to translate the mod description into different languages by locale code. Please do not add locale prefix to output. Users will input multiple description split by line feed. You should translate each description into the target locale and output them in the same order with \t spliting original text and translated text.",
+                "You are an asistant of a Minecraft mod developer. You are asked to translate the mod description into different languages by locale code. Please do not add locale prefix to output. Users will input multiple description split by line feed. You should translate each description into the target locale and output them in the same order.",
         },
         {
             role: "user",
@@ -32,7 +32,7 @@ async function translateByDS(locale, descriptions) {
         },
         {
             role: "assistant",
-            content: "This is an example\t这是一个例子\nThis is the second description!\t这是第二个简介！\nHello world~\t你好世界~",
+            content: "这是一个例子\n这是第二个简介！\n你好世界~",
         },
         {
             role: "user",
@@ -51,7 +51,7 @@ async function translateByDS(locale, descriptions) {
         content = content.substring(locale.length);
     }
     console.log('translate raw', content)
-    return Object.fromEntries(content.split("\n").filter((l) => l.trim().length > 0).map(r => r.split("\t")));
+    return content.split("\n").filter((l) => l.trim().length > 0).map(r => r.trim());
 }
 
 async function getModrinthDescription(ids) {
@@ -106,11 +106,10 @@ async function main() {
 
                     const translated = await translateByDS(locale, resolvedDescriptions.map((resolved) => resolved.descrption));
 
-                    console.log('translated', translated)
-
                     for (let i = 0; i < resolvedDescriptions.length; i += 1) {
                         const { row, descrption } = resolvedDescriptions[i]
-                        let d = translated[descrption] || descrption
+                        let d = translated[i] || descrption
+                        console.log(descrption, translated[i])
                         if (d) {
                             if (d.indexOf(',') !== -1) {
                                 d = `"${d}"`
