@@ -1,6 +1,6 @@
-const fs = require("fs");
+import { readFileSync, writeFileSync, readdirSync } from "fs"
 
-const dirs = fs.readdirSync("src");
+const dirs = readdirSync("src");
 const allowedLocales = ["zh-cn"];
 
 export const chat = (messages) => {
@@ -18,7 +18,7 @@ export const chat = (messages) => {
     }).then((resp) => resp.json());
 };
 
-async function translateByDS(descriptions) {
+async function translateByDS(locale, descriptions) {
     const resp = await chat([
         {
             role: "system",
@@ -55,54 +55,80 @@ async function translateByDS(descriptions) {
 
 async function getModrinthDescription(ids) {
     // fetch projects by modrinth ids
-    const resp = await fetch("https://api.modrinth.com/api/v1/projects", {
-        method: "POST",
+    const url = new URL("https://api.modrinth.com/v2/projects");
+    url.searchParams.append("ids", JSON.stringify(ids));
+    const resp = await fetch(url.toString(), {
+        method: "GET",
         headers: {
             "Content-Type": "application/json",
         },
-        body: JSON.stringify(ids),
     });
     const projects = await resp.json();
-    return projects.map((p) => [p.id, p.description]);
+    return Object.fromEntries(projects.map((p) => [p.id, p.description.replaceAll("\n", " ")]));
 }
 
+const batchSize = process.env.CRON === 'true' ? 500 : 64
 async function main() {
     for (const dir of dirs) {
         if (!allowedLocales.includes(dir)) {
             continue;
         }
+        const locale = dir;
 
-        const files = fs.readdirSync(`src/${dir}`);
+        const files = readdirSync(`src/${dir}`);
         for (const file of files) {
             if (file.endsWith(".csv")) {
-                const csvFile = fs.readFileSync(`src/${dir}/${file}`, "utf-8");
-                const lines = csvFile.split("\n");
-                const csvContentLines = lines.map((l) => l.split(","));
-                const header = csvContentLines.shift(); // remove the header
+                let buffer = []
 
-                // bat handle 32 lines
-                for (let i = 0; i < csvContentLines.length; i += 32) {
-                    const chunk = csvContentLines.slice(i, i + 32)
-                    // filter only for modrinth and no description
-                    const descriptions = chunk.filter((row) => !!row[1] && !row[3])
+                const flush = async () => {
+                    const descriptions = buffer
+                    buffer = []
 
-                    const results = await getModrinthDescription(descriptions.map((row) => row[1]));
+                    if (descriptions.length === 0) {
+                        return
+                    }
 
-                    const dict = Object.fromEntries(results)
+                    const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
+
+                    console.log('dict', dict)
 
                     const resolvedDescriptions = descriptions.map((row) => ({ row, descrption: dict[row[1]] }))
 
-                    const translated = await translateByDS(resolvedDescriptions.map((resolved) => resolved.row[1]));
+                    console.log('resolvedDescriptions', resolvedDescriptions)
 
-                    console.log(translated)
+                    const translated = await translateByDS(locale, resolvedDescriptions.map((resolved) => resolved.descrption));
+
+                    console.log('translated', translated)
 
                     for (const { row, descrption } of resolvedDescriptions) {
-                        row[3] = translated[descrption] || descrption
+                        let d = translated[descrption] || descrption
+                        if (d) {
+                            if (d.indexOf(',') !== -1) {
+                                d = `"${d}"`
+                            }
+                            row[3] = d
+                        }
                     }
-                    break
                 }
 
-                fs.writeFileSync(`src/${dir}/${file}`, [header, ...csvContentLines.map((l) => l.join(",")).join("\n")].join("\n"));
+                const csvFile = readFileSync(`src/${dir}/${file}`, "utf-8");
+                const lines = csvFile.split("\n");
+                const csvContentLines = lines.map((l) => l.split(","));
+                for (let i = 1; i < csvContentLines.length; i += 1) {
+                    const line = csvContentLines[i];
+                    if (!!line[3] || !line[1]) {
+                        continue
+                    }
+                    if (buffer.length < batchSize) {
+                        buffer.push(line)
+                        continue
+                    }
+
+                    await flush()
+                    break
+                }
+                await flush()
+                writeFileSync(`src/${dir}/${file}`, csvContentLines.map((l) => l.join(",")).join("\n"));
             }
         }
     }
