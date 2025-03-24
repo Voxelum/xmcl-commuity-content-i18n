@@ -55,7 +55,7 @@ async function translateByDS(descriptions) {
 
 async function getModrinthDescription(ids) {
     // fetch projects by modrinth ids
-    const url = new URL("https://api.modrinth.com/api/v2/projects");
+    const url = new URL("https://api.modrinth.com/v2/projects");
     url.searchParams.append("ids", JSON.stringify(ids));
     const resp = await fetch(url.toString(), {
         method: "GET",
