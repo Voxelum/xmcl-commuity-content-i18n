@@ -1,6 +1,6 @@
-const fs = require("fs");
+import { readFileSync, writeFileSync, readdirSync } from "fs"
 
-const dirs = fs.readdirSync("src");
+const dirs = readdirSync("src");
 const allowedLocales = ["zh-cn"];
 
 export const chat = (messages) => {
@@ -72,12 +72,12 @@ async function main() {
             continue;
         }
 
-        const files = fs.readdirSync(`src/${dir}`);
+        const files = readdirSync(`src/${dir}`);
         for (const file of files) {
             if (file.endsWith(".csv")) {
                 let buffer = []
                 const size = 32
-                const csvFile = fs.readFileSync(`src/${dir}/${file}`, "utf-8");
+                const csvFile = readFileSync(`src/${dir}/${file}`, "utf-8");
                 const lines = csvFile.split("\n");
                 const csvContentLines = lines.map((l) => l.split(","));
                 const header = csvContentLines.shift(); // remove the header
@@ -111,7 +111,7 @@ async function main() {
                     break
                 }
 
-                fs.writeFileSync(`src/${dir}/${file}`, [header, ...csvContentLines.map((l) => l.join(",")).join("\n")].join("\n"));
+                writeFileSync(`src/${dir}/${file}`, [header, ...csvContentLines.map((l) => l.join(",")).join("\n")].join("\n"));
             }
         }
     }
