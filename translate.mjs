@@ -50,6 +50,7 @@ async function translateByDS(locale, descriptions) {
     if (content.startsWith(locale)) {
         content = content.substring(locale.length);
     }
+    console.log('translate raw', content)
     return Object.fromEntries(content.split("\n").filter((l) => l.trim().length > 0).map(r => r.split("\t")));
 }
 
@@ -67,7 +68,9 @@ async function getModrinthDescription(ids) {
     return Object.fromEntries(projects.map((p) => [p.id, p.description.replaceAll("\n", " ")]));
 }
 
-const batchSize = process.env.CRON === 'true' ? 500 : 64
+const batchSize = 64
+let quota = process.env.CRON === 'true' ? 640 : batchSize
+
 async function main() {
     for (const dir of dirs) {
         if (!allowedLocales.includes(dir)) {
@@ -87,6 +90,11 @@ async function main() {
                     if (descriptions.length === 0) {
                         return
                     }
+                    if (quota <= 0) {
+                        return
+                    }
+
+                    quota -= descriptions.length
 
                     const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
 
@@ -100,7 +108,8 @@ async function main() {
 
                     console.log('translated', translated)
 
-                    for (const { row, descrption } of resolvedDescriptions) {
+                    for (let i = 0; i < resolvedDescriptions.length; i += 1) {
+                        const { row, descrption } = resolvedDescriptions[i]
                         let d = translated[descrption] || descrption
                         if (d) {
                             if (d.indexOf(',') !== -1) {
@@ -115,6 +124,9 @@ async function main() {
                 const lines = csvFile.split("\n");
                 const csvContentLines = lines.map((l) => l.split(","));
                 for (let i = 1; i < csvContentLines.length; i += 1) {
+                    if (quota <= 0) {
+                        break
+                    }
                     const line = csvContentLines[i];
                     if (!!line[3] || !line[1]) {
                         continue
@@ -123,9 +135,7 @@ async function main() {
                         buffer.push(line)
                         continue
                     }
-
                     await flush()
-                    break
                 }
                 await flush()
                 writeFileSync(`src/${dir}/${file}`, csvContentLines.map((l) => l.join(",")).join("\n"));
