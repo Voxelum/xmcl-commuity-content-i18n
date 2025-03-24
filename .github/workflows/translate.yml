@@ -1,0 +1,39 @@
+on:
+  # cron job per day
+  # schedule:
+  # - cron: "0 0 * * *"
+  # manual trigger
+  workflow_dispatch:
+name: Translate description
+jobs:
+  translate-description:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run translate
+        run: 
+          node ./translate.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      - name: Send PR
+        id: create_pull_request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Sync with database"
+          title: "Sync with database"
+          body: "Sync with database"
+          branch: "sync"
+          base: "main"
+          labels: "sync"
+          draft: false
+          branch-suffix: timestamp
+  
