@@ -111,26 +111,30 @@ async function main() {
 
                     quota -= descriptions.length
 
-                    const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
-
-                    console.log('dict', dict)
-
-                    const resolvedDescriptions = descriptions.map((row) => ({ row, descrption: dict[row[1]] }))
-
-                    console.log('resolvedDescriptions', resolvedDescriptions)
-
-                    const translated = await translateByDS(locale, Object.fromEntries(resolvedDescriptions.map((resolved) => [resolved.row[1], resolved.descrption])));
-
-                    for (let i = 0; i < resolvedDescriptions.length; i += 1) {
-                        const { row, descrption } = resolvedDescriptions[i]
-                        let d = translated[row[1]] || descrption
-                        console.log(descrption, d)
-                        if (d) {
-                            if (d.indexOf(',') !== -1) {
-                                d = `"${d}"`
+                    try {
+                        const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
+                        
+                        console.log('dict', dict)
+                        
+                        const resolvedDescriptions = descriptions.map((row) => ({ row, descrption: dict[row[1]] }))
+                        
+                        console.log('resolvedDescriptions', resolvedDescriptions)
+                        
+                        const translated = await translateByDS(locale, Object.fromEntries(resolvedDescriptions.map((resolved) => [resolved.row[1], resolved.descrption])));
+                        
+                        for (let i = 0; i < resolvedDescriptions.length; i += 1) {
+                            const { row, descrption } = resolvedDescriptions[i]
+                            let d = translated[row[1]] || descrption
+                            console.log(descrption, d)
+                            if (d) {
+                                if (d.indexOf(',') !== -1) {
+                                    d = `"${d}"`
+                                }
+                                row[3] = d
                             }
-                            row[3] = d
                         }
+                    } catch (e) {
+                        console.error(e)
                     }
                 }
 
