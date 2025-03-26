@@ -84,7 +84,7 @@ async function getModrinthDescription(ids) {
 }
 
 const batchSize = 64
-let quota = process.env.CRON === 'true' ? 1280 : batchSize
+let quota = process.env.CRON === 'true' ? 1280 * 2 : batchSize
 
 async function main() {
     for (const dir of dirs) {
