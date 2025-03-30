@@ -113,15 +113,20 @@ async function main() {
 
                     try {
                         const dict = await getModrinthDescription(descriptions.map((row) => row[1]));
-                        
+
                         console.log('dict', dict)
-                        
+
+                        if (Object.keys(dict).length === 0) {
+                            console.log('no description')
+                            return
+                        }
+
                         const resolvedDescriptions = descriptions.map((row) => ({ row, descrption: dict[row[1]] }))
-                        
+
                         console.log('resolvedDescriptions', resolvedDescriptions)
-                        
+
                         const translated = await translateByDS(locale, Object.fromEntries(resolvedDescriptions.map((resolved) => [resolved.row[1], resolved.descrption])));
-                        
+
                         for (let i = 0; i < resolvedDescriptions.length; i += 1) {
                             const { row, descrption } = resolvedDescriptions[i]
                             let d = translated[row[1]] || descrption
