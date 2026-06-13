@@ -4278,8 +4278,8 @@ name,modrinth,curseforge,description
 ,k6aAChpa,737481,Lassen Sie den Nachrichtenbefehl /ftbteams automatisch ein Präfix hinzufügen (anpassbarer Schalter).
 ,F0mzextg,629858,Stellen Sie eine JEI-Syntheseformel und eine Nutzungsabfrage für den aktuell angezeigten Block oder die aktuell angezeigte Flüssigkeit bereit
 "„Die Biome, zu denen du gehen wirst“ Fix-Mod",,518623,
-"Ara-Brücke: Das Biom, zu dem Sie gehen werden",s4B19O5h,535960,"Erkennen Sie die Kompatibilität zwischen dem Ara-Modul und verschiedenen Holz- und Steinmaterialien in „Das Biom, in das Sie gehen werden/Wir sind gegangen“"
-"Ara-Möbel: Das Biom, in das Sie gehen werden",z9puNODX,714367,Macaw-Möbel sind mit BYG-Holz kompatibel
+"Ara-Brücke: Das Biom, zu dem Sie gehen werden",535960,535960,"Erkennen Sie die Kompatibilität zwischen dem Ara-Modul und verschiedenen Holz- und Steinmaterialien in „Das Biom, in das Sie gehen werden/Wir sind gegangen“"
+"Ara-Möbel: Das Biom, in das Sie gehen werden",714367,714367,Macaw-Möbel sind mit BYG-Holz kompatibel
 "Behalten Sie sie im Auge, bis sie reif sind!",,404087,
 "Berge, Felsen",,376298,
 "Biome, die Sie besuchen werden+",,488573,
@@ -4290,22 +4290,22 @@ name,modrinth,curseforge,description
 "Einfacher, klarer Chat",,64970,
 "Elemente, die platziert werden können",,227951,
 "Epischer Ritter: Schilde, Rüstungen und Waffen",,509041,
-"Epischer Ritter: Schilde, Rüstungen und Waffen",L6jvzao4,509041,Mittelalterliche Rüstungen und Waffen hinzugefügt
+"Epischer Ritter: Schilde, Rüstungen und Waffen",509041,509041,Mittelalterliche Rüstungen und Waffen hinzugefügt
 „Fluss“-Maschinen,,395269,
-"Fühlen Sie sich frei, das Problem zu beheben",JmtW1Cr5,396245,"Umfassendes Patch-Set: Enthält Korrekturen und Optimierungen wie konfigurierbare Verbindungs-Timeouts, Geschwindigkeitsbegrenzungen für Spieler und mehr"
+"Fühlen Sie sich frei, das Problem zu beheben",396245,396245,"Umfassendes Patch-Set: Enthält Korrekturen und Optimierungen wie konfigurierbare Verbindungs-Timeouts, Geschwindigkeitsbegrenzungen für Spieler und mehr"
 "Fühlen Sie sich frei, die Feinabstimmung vorzunehmen",,258205,
-"Ich weiß, was ich tue",S5ivha5X,271492,Blockieren Sie Tutorial-Eingabeaufforderungen für neue Archive
-"Ja, Steve-Modell",86xjpqqS,784675,"Ein Modul, das das ursprüngliche Spielermodell modifiziert"
+"Ich weiß, was ich tue",271492,271492,Blockieren Sie Tutorial-Eingabeaufforderungen für neue Archive
+"Ja, Steve-Modell",784675,784675,"Ein Modul, das das ursprüngliche Spielermodell modifiziert"
 "Klicken Sie mit der rechten Maustaste, um zu ernten",,517494,
 "Komprimiertes, verbessertes Kupfer",,560139,
 "Leider haben wir nicht genug Geld, um Ihnen einen Ender-Drachen zur Verfügung zu stellen",yCRIA162,0,"Töte den Enderdrachen automatisch, wenn die Welt generiert wird"
-"Macaw's Rooftops: Das Biom, zu dem Sie gehen werden",smN4zlYE,577356,Fügen Sie BYG-Holz zum Ara-Dach hinzu
+"Macaw's Rooftops: Das Biom, zu dem Sie gehen werden",577356,577356,Fügen Sie BYG-Holz zum Ara-Dach hinzu
 "Pssst, wecken Sie den Hund nicht",,334098,
 "Super Veränderung, Veränderung",,250075,
 "Verdammt, ich wollte das nicht machen, aber ich habe es geschafft ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",2Cmqga2h,0,"Moment, ich wollte das nicht tun, aber irgendwie... Nein——————!"
 "Verloren, aber gefangen",tHXHhTuc,570855,Holen Sie verlorene Gegenstände durch Angeln zurück!
 "Waffen, Kanonen, Atombomben!",,405952,
-"Zäune und Mauern des Aras: Die Biome, die Sie besuchen werden",YwnqoRu0,620582,Fügen Sie BYG-Holz zum Ara-Zaun hinzu
+"Zäune und Mauern des Aras: Die Biome, die Sie besuchen werden",620582,620582,Fügen Sie BYG-Holz zum Ara-Zaun hinzu
 "Zusätzlicher Spieler, der die Rift-Version rendert",UgsSxscN,0,Fügen Sie dem Bildschirm einen zusätzlichen Player-Renderer hinzu
 [AS]Verlorene Ruinen,TWsbC6jW,297680,"Über 200 neue architektonische Strukturen hinzugefügt, die sich perfekt in die Welt einfügen"
 [CEI] Mechanische Kraft: Verzauberungsindustrie,JWGBpFUP,688768,"Verwenden Sie „Erstellen“, um eine automatische Verzauberung zu implementieren"

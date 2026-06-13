@@ -4280,19 +4280,19 @@ name,modrinth,curseforge,description
 "Biomy, które odwiedzisz+",,488573,
 "Cholera, nie chciałem tego robić, ale zrobiłem to ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",2Cmqga2h,0,"Czekaj, nie chciałam tego robić, ale jakoś… Nie——————!"
 "Cii, nie budź psa",,334098,
-"Dachy Ary: biom, do którego się udasz",smN4zlYE,577356,Dodaj drewno BYG do dachu Ara
+"Dachy Ary: biom, do którego się udasz",577356,577356,Dodaj drewno BYG do dachu Ara
 "Dynamiczne drzewa: dołączone do biomów, które odwiedzasz",,562143,
 "Epic Knight: Shields, Armor and Weapons",,509041,
-"Epic Knight: Shields, Armor and Weapons",L6jvzao4,509041,Added medieval armor and weapons
+"Epic Knight: Shields, Armor and Weapons",509041,509041,Added medieval armor and weapons
 "Jesteś ekspertem, Harry!",,309413,
 "Kliknij prawym przyciskiem myszy, aby zebrać plony",,517494,
 "Kliknij prawym przyciskiem myszy, aby wyczyścić tekst",,332548,
-"Meble Ary: biom, do którego się udasz",z9puNODX,714367,Meble Ara są kompatybilne z drewnem BYG
+"Meble Ary: biom, do którego się udasz",714367,714367,Meble Ara są kompatybilne z drewnem BYG
 "Mod naprawiający „Biemy, do których pójdziesz”.",,518623,
-"Most Ary: biom, do którego się udasz",s4B19O5h,535960,"Sprawdź kompatybilność modułu Macaw z różnymi materiałami z drewna i kamienia w „Biomie, do którego pójdziesz / Poszliśmy”"
+"Most Ary: biom, do którego się udasz",535960,535960,"Sprawdź kompatybilność modułu Macaw z różnymi materiałami z drewna i kamienia w „Biomie, do którego pójdziesz / Poszliśmy”"
 "Naprawa lufy Axolotla, edycja kuźnicza",xzRkNaTy,701644,"Sprawiono, że wiadro aksolotla prawidłowo wyświetlało gatunki aksolotla"
 "Obserwuj je, aż dojrzeją!",,404087,
-"Ogrodzenia i ściany Ary: biomy, które odwiedzisz",YwnqoRu0,620582,Dodaj drewno BYG do płotu Ara
+"Ogrodzenia i ściany Ary: biomy, które odwiedzisz",620582,620582,Dodaj drewno BYG do płotu Ara
 "Pistolety, armaty, bomby atomowe!",,405952,
 "Płynny, automatyczny podjazd",,239236,
 "Prosty, przejrzysty czat",,64970,
@@ -4306,7 +4306,7 @@ name,modrinth,curseforge,description
 "tak, Steve, model",86xjpqqS,784675,Moduł modyfikujący oryginalny model odtwarzacza
 "Ten sam cykl dnia i nocy, co w rzeczywistości",,298342,
 "Warianty strukturalne: pakiety zgodności z biomami, które wybierzesz",tqtqwUe3,694918,Dodano chatę zbieracza BYG w wiosce RS
-"Wazon Czasu, edycja tkaninowa",dQCBl2Ht,440243,"Wykorzystaj akumulację czasu gry, aby przyspieszyć wzrost bloku"
+"Wazon Czasu, edycja tkaninowa",440243,440243,"Wykorzystaj akumulację czasu gry, aby przyspieszyć wzrost bloku"
 "Wiadra, bębny, przechowywanie i nie tylko",,319404,
 "Wizualny, nieskończony edytor przepisów",,301144,
 "Wszechstronny, kompatybilny z gospodarstwem rolnym",,265462,
@@ -7570,3 +7570,4 @@ Zwykłe monety,,281246,
 Żywiołowy Creeper,,71270,
 żywy kocioł,5okEW6TG,402616,"Wieloblokowa struktura w stylu Beacon, która zapobiega pojawianiu się mobów"
 亖溜,,261218,
+,86xjpqqS,784675,
