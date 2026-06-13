@@ -2,7 +2,7 @@
 
 本仓库包含 XMCL 社区内容（如模组、资源包和光影包）的国际化翻译。
 
-[English README is here](./README.en.md) [Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md)
+[English README is here](./README.en.md) [Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md) [日本語 READMEはこちら](./README.ja.md) [Version française ici](./README.fr.md)
 
 ## 为什么要搞这个仓库？
 

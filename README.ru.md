@@ -2,7 +2,7 @@
 
 Этот репозиторий содержит контент сообщества i18n, таковой есть моды, ресурс-паки и шейдеры для XMCL.
 
-[English README here](./README.en.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md) [简体中文 README](./README.md)
+[English README here](./README.en.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md) [日本語 READMEはこちら](./README.ja.md) [Version française ici](./README.fr.md) [简体中文 README](./README.md)
 
 ## Зачем нужен этот репозиторий?
 

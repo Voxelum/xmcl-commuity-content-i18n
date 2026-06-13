@@ -2,7 +2,7 @@
 
 To repozytorium zawiera lokalizację (i18n) dla zawartości społeczności, takiej jak modyfikacje, paczki zasobów i shadery dla XMCL.
 
-[English README here](./README.en.md) [Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [简体中文 README](./README.md)
+[English README here](./README.en.md) [Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [日本語 READMEはこちら](./README.ja.md) [Version française ici](./README.fr.md) [简体中文 README](./README.md)
 
 ## Dlaczego potrzebujemy tego repozytorium?
 

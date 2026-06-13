@@ -2,7 +2,7 @@
 
 Цей репозиторій містить інтернаціоналізацію (i18n) для контенту спільноти, такого як моди, пакети ресурсів та шейдери для XMCL.
 
-[English README тут](./README.en.md) [Русский README здесь](./README.ru.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md) [简体中文 README](./README.md)
+[English README тут](./README.en.md) [Русский README здесь](./README.ru.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md) [日本語 READMEはこちら](./README.ja.md) [Version française ici](./README.fr.md) [简体中文 README](./README.md)
 
 ## Навіщо потрібен цей репозиторій?
 

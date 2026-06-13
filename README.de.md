@@ -2,7 +2,7 @@
 
 Dieses Repository enthält die i18n-Übersetzungen für Community-Inhalte wie Mods, Ressourcenpakete und Shader für XMCL.
 
-[English README here](./README.en.md) [Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Polskie README tutaj](./README.pl.md) [简体中文 README](./README.md)
+[English README here](./README.en.md) [Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Polskie README tutaj](./README.pl.md) [日本語 READMEはこちら](./README.ja.md) [Version française ici](./README.fr.md) [简体中文 README](./README.md)
 
 ## Warum brauchen wir dieses Repository?
 
