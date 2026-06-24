@@ -413,10 +413,6 @@ name,modrinth,curseforge,description
 ,OaWx51mi,1068292,"Remplacez l'icône ordinaire de valeur de faim de viande par une carotte dorée (restaurez fidèlement la texture de la carotte dorée dans le jeu, compatible avec AppleSkin)"
 ,7Rq0ipFz,573998,Supprimez le logo ennuyeux du pack de textures Icônes
 ,9E0mswEP,679026,Matériel du module Biomes o' Plenty rénové !
-Écran Redstone XeKr,4ueVo9s5,310448,Affichage du niveau d'énergie du fil Redstone/affichage de l'état d'activation du bloc Redstone/indication de la direction du bloc de direction/affichage de la valeur d'expérience de la balle d'expérience/feuilles connectées à l'affichage du journal/amélioration de l'affichage de l'état des cultures
-monde de l'animation,50dA9Sha,453763,Faites ressembler votre jeu à une animation vidéo promotionnelle ! Nécessite les fonctionnalités du modèle d'entité Mod
-Monde de l'animation (étendu),,813608,Ce pack de textures est un pack d'extension et doit être chargé sur FreshAnimations pour une utilisation normale.
-Motif carré XeKr,rq4lDGdf,338808,"Ajout de plus de textures carrées et d'affichage de l'état des blocs, pas besoin d'OptiFine !"
 ,QTBR20BE,503047,
 ,85Qf7nOT,974032,
 ,J4cajZTT,850907,
@@ -535,49 +531,53 @@ Motif carré XeKr,rq4lDGdf,338808,"Ajout de plus de textures carrées et d'affic
 ,F2D7CupJ,947373,
 ,qNrmtXAJ,976493,
 ,Hg9I7jyY,229788,
-,wRGAqH6L,1114805,
-,ri5ZLOYS,908432,
-,ZmyjTSjb,345860,
-,orgtdk9U,862295,
-,YbwPPde4,1152769,
-,WfUVCgib,1061801,
-,IR9SLmt3,864851,
-,vSkjVF7G,966850,
-,ybSB27ca,983151,
-,9NXbHzs3,983201,
-,XZhhYcY0,1090911,
-,sLNjRsFF,1027082,
-,5ekfW0sy,1296530,
-,tRnWk5eY,1089184,
-,6k66yAqN,422744,
-,RgVos2bo,1159131,
-,3tXcbjvK,861104,
-,YoZjigqW,846276,
-,lBQSreft,557454,
-,AFl4lkap,1102852,
-,uSUkeiw6,1050626,
-,unF1UIT0,1058061,
-,eJB0aDIf,1128934,
-,abPebRRB,1098749,
-,Wfi30LiS,963059,
-,BBx79tDa,849788,
-,8vfIIrYM,1040251,
-,bYcjtBki,1068335,
-,mBOrTfBq,1108988,
+,wRGAqH6L,1114805,Un pack qui remodèle certains modèles d'objets Let's Do pour les rapprocher de leurs sprites.
+,ri5ZLOYS,908432,"Pack de ressources PvP qui remplace les armes Minecraft comme les épées, l'arc, l'arbalète, etc. par des armes de CS:GO"
+,ZmyjTSjb,345860,Libérez de l'espace à l'écran avec des objets deux fois plus petits
+,orgtdk9U,862295,Apporte un design frais tout en conservant la simplicité de l'interface par défaut
+,YbwPPde4,1152769,"Ajoutez une touche spéciale au ciel de Minecraft avec Sun and Moon Circular, qui transforme le soleil et les phases de lune en formes arrondies et plus douces pour un horizon unique et élégant."
+,WfUVCgib,1061801,Compatibilité STONEBORN avec le mod Mod Menu
+,IR9SLmt3,864851,Rend le totem plus petit.
+,vSkjVF7G,966850,Traduction espagnole non officielle du mod Aether Redux. Inclut tous les argots et variantes.
+,ybSB27ca,983151,Met à jour les squelettes pour un aspect plus réaliste avec des animations plus vivantes
+,9NXbHzs3,983201,Interface sombre avec textures uniques pour les blocs fonctionnels. Version différente de Unique Dark
+,XZhhYcY0,1090911,Ajoute de la physique aux squelettes — maintenant avec Fresh Animations !
+,sLNjRsFF,1027082,Rend la Soul Stone fabricable avec de la Soul Soil et du Soul Sand.
+,5ekfW0sy,1296530,Verre connecté sans OptiFine.
+,tRnWk5eY,1089184,Un add-on Fresh Animations pour Better Cats !
+,6k66yAqN,422744,Modèles de créatures retravaillés
+,RgVos2bo,1159131,Pack de textures Fullbright SP (Sodium avec PolyTone)
+,3tXcbjvK,861104,Pack permettant de transformer les épées Minecraft ennuyeuses en majestueuses armes de fantasy !
+,YoZjigqW,846276,Interface en mode sombre pour le mod Pixelmon.
+,lBQSreft,557454,"Diverses refontes et ajouts de textures animées, avec prise en charge PBR !"
+,AFl4lkap,1102852,Réinvente les textures de Tom Simple Storage pour un style plus vanilla !
+,uSUkeiw6,1050626,Donne à tous les modèles de torches un nouveau look frais et élégant
+,unF1UIT0,1058061,Rend les armures vanilla en 3D avec ETF + EMF
+,eJB0aDIf,1128934,Donne un nouveau look à toutes les interfaces modées ennuyeuses
+,abPebRRB,1098749,Un pack de ressources qui transforme les modèles de toutes les armes uniques du mod Simply Swords en versions épiques et 3D !
+,Wfi30LiS,963059,Supprime le Runic Grimoire à la première connexion dans Simply Swords
+,BBx79tDa,849788,"Rend l'armure moins intrusive, avec trims, 1.20, façon Limited Life"
+,8vfIIrYM,1040251,Compatibilité non officielle de Custom Mandala's GUI - Dark Mode avec des mods
+,bYcjtBki,1068335,Remplace les œufs d'apparition par des créatures dans des caisses
+,mBOrTfBq,1108988,"Une combinaison de dix-sept add-ons Cobblemon différents, ajoutant près de 160 Cobblemon."
 ,TM6bvxX6,1027227,
-,UlSCqtop,1104926,
-,4XVKh1GK,284370,
-,N7Eq8Y7N,996858,
-,7VDyaMyP,646979,
-,8TU6o1es,897427,
-,B4uFCmul,1029868,
-,VsX5R47V,1117593,
-,iKIcN9kc,916492,
-,ecvZ19Jw,906620,
-,EM3an8Tk,639090,
-,BOgQ3bcY,1004413,
-,uJC1fwNH,892893,
-,etbi6jFn,386377,
-,yhG3oUCc,896714,
-,FA4ebMMU,1079595,
-,bt01VSR0,1056358,
+,UlSCqtop,1104926,Traduction espagnole non officielle du mod Accessories. Inclut tous les argots et variantes.
+,4XVKh1GK,284370,Ajoute des modèles d'armes 3D à Minecraft ! (Custom Item Textures)
+,N7Eq8Y7N,996858,Villageois et Illageois avec un style rafraîchi !
+,7VDyaMyP,646979,Une petite réinterprétation du mod Create
+,8TU6o1es,897427,Retrouvez les sons classiques de Minecraft dans la dernière version avec Kartixx's Alpha Sound Pack.
+,B4uFCmul,1029868,Remplace le totem par une croix en bois
+,VsX5R47V,1117593,Un petit pack 16x ajoutant la compatibilité entre Ashen 16x et Prominence Original Soundtrack
+,iKIcN9kc,916492,Un pack qui rend AL's Zombies Revamped compatible avec Fresh Animations de Fresh_LX !
+,ecvZ19Jw,906620,Un pack de ressources pour le modpack « Conquest of Hunterra »
+,EM3an8Tk,639090,Creepers façon chats
+,BOgQ3bcY,1004413,Une nouvelle façon d'imaginer les textures de Create New Age
+,uJC1fwNH,892893,Armures avec un style rafraîchi !
+,etbi6jFn,386377,De petits outils dans vos mains !
+,yhG3oUCc,896714,Remplace le Totem of Undying par une montre.
+,FA4ebMMU,1079595,"Ce pack remplace les lettres minuscules par une version plus petite des majuscules, comme sur certains serveurs. 🫐"
+,bt01VSR0,1056358,Rend les outils plus petits dans vos mains.
+Écran Redstone XeKr,4ueVo9s5,310448,Affichage du niveau d'énergie du fil Redstone/affichage de l'état d'activation du bloc Redstone/indication de la direction du bloc de direction/affichage de la valeur d'expérience de la balle d'expérience/feuilles connectées à l'affichage du journal/amélioration de l'affichage de l'état des cultures
+monde de l'animation,50dA9Sha,453763,Faites ressembler votre jeu à une animation vidéo promotionnelle ! Nécessite les fonctionnalités du modèle d'entité Mod
+Monde de l'animation (étendu),,813608,Ce pack de textures est un pack d'extension et doit être chargé sur FreshAnimations pour une utilisation normale.
+Motif carré XeKr,rq4lDGdf,338808,"Ajout de plus de textures carrées et d'affichage de l'état des blocs, pas besoin d'OptiFine !"
