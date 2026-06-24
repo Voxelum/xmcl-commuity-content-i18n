@@ -2,11 +2,6 @@ name: Translate Japanese Shards
 
 on:
   workflow_dispatch:
-    inputs:
-      shards:
-        description: 'Shards to translate (comma-separated)'
-        required: false
-        default: 'ja-011,ja-012,ja-013'
 
 jobs:
   translate:
@@ -20,15 +15,25 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Translate Shards
+      - name: Translate ja-011
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: |
-          node translate-ja.mjs ${{ github.event.inputs.shards }}
+        run: node translate-shard.mjs ja-011
       
-      - name: Upload Results
-        uses: actions/upload-artifact@v4
-        with:
-          name: translated-shards
-          path: build/cache/out/ja-*.json
-          retention-days: 1
+      - name: Translate ja-012
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node translate-shard.mjs ja-012 ja
+      
+      - name: Translate ja-013
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node translate-shard.mjs ja-013 ja
+      
+      - name: Commit and Push Results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add build/cache/out/ja-*.json
+          git commit -m "Translate ja-011, ja-012, ja-013 shards" || echo "No changes to commit"
+          git push
