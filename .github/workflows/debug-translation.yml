@@ -1,0 +1,40 @@
+name: Debug Translation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Debug Info
+        run: |
+          echo "Node version:"
+          node --version
+          echo ""
+          echo "Files in repo root:"
+          ls -la *.mjs
+          echo ""
+          echo "Build cache structure:"
+          find build/cache -type f -name "*.json" | head -5
+      
+      - name: Check translate-shard.mjs
+        run: |
+          echo "Script exists:"
+          test -f translate-shard.mjs && echo "YES" || echo "NO"
+          echo ""
+          echo "First 20 lines:"
+          head -20 translate-shard.mjs
+      
+      - name: Try translation (will fail without API key, but we'll see the error)
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node translate-shard.mjs ja-011 2>&1 | head -30
