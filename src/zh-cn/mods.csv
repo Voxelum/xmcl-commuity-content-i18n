@@ -75,7 +75,7 @@ name,modrinth,curseforge,description
 ,z3TzcquW,925511,修复画作渲染，提高性能并允许自定义模型
 ,bcOsQHnC,481655,女性性别模组引入了额外的玩家模型自定义选项，包括为你的角色添加个性化特色的独特功能。
 ,REH0O240,825617,通过在游戏中查找模组服务器，使它们更容易被发现！
-,eUbrlzyb,284523,
+,,284523,
 ,ZsrrjDbP,953637,优雅——可能充满敌意——迷失在七大洋中的船只...
 ,vvuO3ImH,394941,一个灵活且可扩展的饰品/装备API，供用户和开发者使用。
 ,yD9qW65f,931925,为Embeddium/Sodium提供额外的性能和质量功能，带来更精致的体验
@@ -357,7 +357,7 @@ name,modrinth,curseforge,description
 ,jSV9w0J5,891324,灾厄村民卷土重来！迎战新版敌人（灾厄扩展移植版）
 ,QuI1PKt5,373693,基于《关于我转生变成史莱姆这档事》的奇幻主题模组
 ,BzOTnuqM,568372,添加《盗贼之海》全鱼类，当个捕鱼海盗吧！
-,FmdVhCBv,388172,
+,,388172,
 ,B10lMHiA,324553,🐮🍄 允许红/棕蘑菇牛在对应生物群系自然生成
 ,5IIKsxiL,363363,极端消音器：客户端选择性屏蔽指定音效
 ,6wP3NByD,965954,自定义任何物品的基础属性（支持模组物品）
@@ -463,7 +463,7 @@ name,modrinth,curseforge,description
 ,rBDJ4pR9,835485,为Create: Astral整合包优化Vinery模组
 ,Vt8TI045,875744,用改良版锻造界面替换原版简陋UI
 ,ufdDoWPd,549404,Minecraft模组开发库
-,MLraAtg1,303119,
+,,303119,
 ,GcWjdA9I,1356854,客户端模组共享库（包含masa系列模组通用代码与联动支持）
 ,a378ICDH,541753,南瓜雕刻/玉米食物/村民万圣节捣蛋系统（兼容农夫乐事与秋原模组）
 ,YQenrte2,403764,Minecraft 1.16+ 背包物品
@@ -500,7 +500,7 @@ name,modrinth,curseforge,description
 ,rGWEHQrP,450659,原版友好船只模组（含火炮系统）
 ,cnIatHrN,705362,全版本通用的服务器商店模组
 ,muf0XoRe,391366,添加丛林要塞等原版结构变体
-,YTYAZC0A,900231,
+,,900231,
 ,z6sMEexp,615948,为工具添加等级/修饰系统
 ,YX0eip4b,645185,击杀玩家可夺取对方生命值的模组
 ,wtk2r10e,559894,生物头顶血条显示
@@ -681,7 +681,7 @@ name,modrinth,curseforge,description
 ,w4an97C2,502372,添加原版风格的灯具、街灯、纸灯笼、墙灯、半砖等照明方块
 ,qBYjphri,917726,显示按键操作与CPS的Forge模组
 ,70pj2OCh,891647,洞穴居民模组的改进分支版本
-,6EibeJqS,920096,
+,,920096,
 ,9TbXlAut,846544,Fabric/Quilt的温度与环境库模组（被Frostiful和Scorchful使用）
 ,qthuEuVy,840788,树叶渲染性能提升9%
 ,qQpWCN75,341448,添加乐谱、乐器等音乐创作设备
@@ -732,7 +732,7 @@ name,modrinth,curseforge,description
 ,eldBwa5V,462672,Fabric版计算机工艺重制版
 ,2obPz7jf,850946,Cobblemon的宝可梦图鉴（基于Patchouli）
 ,iYVih5qu,575248,蜜蜂授粉使树叶绽放苹果！
-,Syo65yU2,622514,
+,,622514,
 ,ZVzW5oNS,591388,下界生态大修+挑战性结构/独特武器/棘手怪物
 ,T38eAZQC,429371,KubeJS机械动力联动
 ,TkC4Gtkt,928687,Indium的Forge移植版（提供FRAPI支持）
@@ -771,7 +771,7 @@ name,modrinth,curseforge,description
 ,RhzuAoZx,908730,用于模组兼容性的小型库模组
 ,2NEKo1EX,233258,禁止指定生物生成的模组
 ,kYywajl8,659264,可插入经验物品/显示连接的存储设备经验等级/添加特殊物品与装饰方块
-,26nL5g7F,968006,
+,,968006,
 ,lAyCdN8C,931198,这个Cobblemon附属模组让你能抚摸宝可梦
 ,d47NdDkH,936730,对原版及模组主世界生物群的细致优化
 ,ns0BvMIG,896385,每个方块都该有台阶版本！现在玩家可获得200+纹理风格统一的新台阶
@@ -1080,13 +1080,13 @@ name,modrinth,curseforge,description
 ,lMRqnKVq,636067,可拾取村民并作为物品存放，随时重新放置
 ,sml2FMaA,511697,轻量级反矿物透视模组（服务器专用）
 ,uMcyUgtO,938767,守护地表家园，开启地底冒险！
-,iGv4wEHP,922902,
+,,922902,
 ,2H1rLgy4,879846,MrTroot自动钓鱼模组精神续作，含修复与新功能
 ,KpICtuVx,257356,生物生成控制系统
 ,vVXPbodS,485654,为1.12.2添加高度可定制的流体记录库模组
 ,ytk7UEym,225781,游戏注册表转储工具：可导出手持/注视的方块/实体数据，统计世界中的方块/生物群系/实体等
 ,gHkzYDn7,656453,动态可升级多功能工具！
-,VJebF49r,322385,
+,,322385,
 ,oZiSDGCi,849817,使Watchdog崩溃时显示所有线程的运行代码
 ,rYlnn25U,883352,新增100+建筑结构增强世界探索
 ,N9OZtLAj,914713,Ars Nouveau扩展：新增魔法护甲与源能宝石
@@ -1140,7 +1140,7 @@ name,modrinth,curseforge,description
 ,o51LXm0t,395158,元素工艺是一个基于火、水、土、风四大元素的魔法模组。
 ,8FdYDHF5,618433,自动填充部分物品、方块等标签（用于模组兼容性）
 ,yUBXc3AH,841617,Globox_Z多个模组的开源库
-,HTSaaFuA,807397,
+,,807397,
 ,X661i40C,678295,本模组旨在通过添加受热门僵尸类游戏启发的新敌人和感染机制，提升原版游戏难度。
 ,ORiydwz3,463248,人鱼模组新增魔法项链，可在水中将你变为人鱼！
 ,CDbpcSM6,695354,🔍 新增望远镜物品的移动缩放功能快捷键
@@ -1273,7 +1273,7 @@ name,modrinth,curseforge,description
 ,Gets2lU8,222908,ephys系列模组的共享库
 ,4RdRpt7i,403434,支持多种方式存储经验的模组
 ,51shyZVL,630104,通过优化多种剔除处理方式提升性能
-,dbigkc0P,334873,
+,,334873,
 ,KseM6VIg,1054538,修复草丛等小方块阻碍凋灵生成的问题
 ,ClQLN4h7,442960,使耐久附魔真正让工具永不损坏
 ,bPTEaC7v,225280,添加名为陆行鸟的生物，包含不同颜色变种...
@@ -1296,7 +1296,7 @@ name,modrinth,curseforge,description
 ,9q4wtMjp,877545,群峦传说拓展：新增树木/木材与采树脂配方
 ,pxcPUxNg,355910,以冒险探索为核心添加Herobrine
 ,uRSeGBg3,582149,村民简易化模组（服务端可用）
-,YDOf2ZPv,902233,禁用村庄生成
+,,902233,禁用村庄生成
 ,DNECjG17,887125,我的模组共享代码库
 ,PGBgocFc,347635,🚪 自动开关周围的门（延迟可配置）
 ,tG6HkcWx,410743,🐝 可调节蜜蜂体型/群组生成/蜂巢容量/螫刺功能等
@@ -1368,7 +1368,7 @@ name,modrinth,curseforge,description
 ,2PaVx3ow,967867,Let's Do系列扩展：添加主题化预制结构
 ,VbCjkvcq,577002,📝 使末地传送门可合成/移动/生存模式可用，并含其他调整
 ,JctaN1xb,418299,Mo' Glowstone官方扩展：添加彩色萤石灯
-,YCiEMCiJ,557796,
+,,557796,
 ,oNqn5GfR,436934,便捷附魔管理
 ,x3s69afN,859716,让猫咪跟着音乐唱片节奏摇摆 :3
 ,HWHl8Evb,351914,个人模组通用工具库
@@ -1403,7 +1403,7 @@ name,modrinth,curseforge,description
 ,ekzqyEZL,850891,为其他模组的电缆添加沉浸工程风格的线缆类型
 ,vEila6nl,437717,为Create模组添加CraftTweaker支持
 ,9lbfIPsl,947258,当心！这个强化版灾厄村民——突变冰术师堪称战斗机器，稍不留神你就会度过一段「冰」爽时光！
-,KMcbUd0l,932927,
+,,932927,
 ,3aeFezQk,857799,高度可定制的服务端模组，可在玩家列表显示当前所处维度
 ,LwcpSm6L,1011593,通过多种镜头倾斜效果提升游戏沉浸感（可配置）
 ,MyfCcqiE,1058326,使用VS2重写Create的机械装置系统，支持在现有装置上扩建、装置堆叠、列车脱轨等新特性！
@@ -1459,7 +1459,7 @@ name,modrinth,curseforge,description
 ,pcPXJeZi,556381,Fabric客户端模组：通过粒子/视觉效果/音效增强环境氛围
 ,W5YZ6MDn,244451,洲际弹道导弹模组(ICBM)：现代战争主题的PVP向爆炸物与导弹系统
 ,2wqICE0p,646241,新增幽匿主题的起源设定
-,dyUSeB0p,316395,
+,,316395,
 ,b93awgkg,687609,Hermitcraft服务器使用的状态模组。
 ,4TSI7dRt,662374,Minecraft动态环境模组的Fabric重制版
 ,8k7QiW7U,656551,让灵魂火以蓝色火焰灼烧实体而非普通火焰
@@ -1486,7 +1486,7 @@ name,modrinth,curseforge,description
 ,Rjl8pCZ9,374240,🍽 使大量原料可食用，食用后获得短暂状态效果
 ,6ABF6Pv3,903292,实现OptiFine/MCPatcher动画纹理格式
 ,UEBvC2bZ,537901,回溯荒野更新的特性
-,1mJDt7SI,934890,
+,,934890,
 ,6Na0gn2c,699933,轻量且深度整合的体力值机制
 ,7zu3jG0v,432817,数据包铁砧——用于简化数据包驱动模组开发的库
 ,UWxXQFc7,961271,蟹钳工具可实现8格超远距离操作！
@@ -1519,7 +1519,7 @@ name,modrinth,curseforge,description
 ,H1wYX09T,841586,灾厄进化：新增具备独特能力的劫掠者变种
 ,H5Ouel08,639186,主要用于caveopolis模组包的辅助模组
 ,yfFO13fh,525466,颠覆Minecraft门的概念！现在它们可以...
-,r7fc4gfQ,573962,
+,,573962,
 ,ltRggnDx,883029,厌倦钓鱼？新增可被动收集鱼类的渔网陷阱
 ,IwCkru1D,989574,令人困惑、有趣且高度兼容的开发辅助工具
 ,3IAJcJXa,480715,用全新地牢与结构为游戏增添趣味
@@ -1539,7 +1539,7 @@ name,modrinth,curseforge,description
 ,3WAUHe3k,396568,移植基岩版多种群系水体特性！
 ,BL7ADJ7w,870275,本模组旨在扩展Mojang新版盔甲纹饰系统，现在每种纹饰都能赋予特殊效果。
 ,Bg6Ed4OL,625281,用美食与装饰点亮你的世界！
-,BRzYzJex,981369,寂静岭——我的世界恐怖模组
+,,981369,寂静岭——我的世界恐怖模组
 ,9kNC5Mrh,432036,4700+即时建筑模板，秒建梦想世界
 ,EQGqfQ69,634227,村民不再受浆果丛伤害，且浆果丛刺穿不再无视护甲
 ,JDtt43My,970291,Temporal团队模组的核心库，其他项目亦可使用
@@ -1563,9 +1563,9 @@ name,modrinth,curseforge,description
 ,3JYl8URa,596730,更多装饰件：免费可定制的帽子/翅膀/盾牌/斗篷等外观
 ,55ByH6In,951521,为项目提供通用工具代码库
 ,eUw8l2Vi,914586,更多徽章！！！
-,TaBRp5JT,934791,
+,,934791,
 ,9CUu68EQ,901020,Simple Shops的ComputerCraft联动
-,YnkZj7uF,957475,
+,,957475,
 ,8nh1ehhB,688888,GTNH风味Mixin库
 ,t7fAFQ7M,397080,生成无尽海洋与岛屿的全新世界类型
 ,MR1VIQJJ,643052,友好提示Mixin冲突错误
@@ -1663,8 +1663,8 @@ name,modrinth,curseforge,description
 ,xUTHly0N,968689,将准星精确对准屏幕正中央
 ,ulY7WPQy,280200,允许将鞘翅附加到胸甲上
 ,Bmda4Rq4,238048,在不添加新物品的前提下，新增原版风格优化机制！
-,FSzRTvY9,436715,
-,e4uFcbDl,867286,为CC:Tweaked提供更多红石捆线缆支持
+,,436715,
+,,867286,为CC:Tweaked提供更多红石捆线缆支持
 ,w6JSkKSH,550678,移除"移动过快"警告与橡皮筋效应
 ,vKYhdfqW,911255,在配置维度/生物群系/结构中禁用飞行
 ,UoWImNDD,698475,新增绿宝石、石英、钻石及幽匿晶洞！
@@ -1848,7 +1848,7 @@ name,modrinth,curseforge,description
 ,p5wmRC3H,909723,添加可3x3范围挖掘的多种锤子
 ,P4FVY4ll,701347,右键一键收割作物
 ,IDOSfa6c,483538,优化命令方块GUI，支持批量编辑多个命令方块
-,nRL5uFe0,1030285,FastBoot专为大幅缩短游戏加载时间而设计
+,,1030285,FastBoot专为大幅缩短游戏加载时间而设计
 ,FjBGB4sU,1089065,为现代工业化模组添加新机器
 ,1Nde79GO,458358,Floralis新增可种植仙人掌与花卉，实现染料自动化生产
 ,49C5QgTK,1123974,跨平台Obscuria系列模组的核心框架
@@ -1988,7 +1988,7 @@ name,modrinth,curseforge,description
 ,tOoh2eQm,539627,🐈 为可驯养的幼年动物预设名称
 ,L4X0nLCx,886841,简约食物拓展模组，添加符合逻辑又不失简洁的配方，适合旅行探险使用
 ,rONcvWzZ,1017767,书本升级！支持更多页数和更长标题
-,s5Igmyc6,1012027,将1.21版本的方块与物品反向移植至Forge 1.20.1，重构试炼大厅玩法
+,,1012027,将1.21版本的方块与物品反向移植至Forge 1.20.1，重构试炼大厅玩法
 ,Xht4wlLG,946157,显示附魔台将获得的所有附魔效果
 ,9WJeSpTH,658722,移除游戏菜单中的聊天举报按钮
 ,WYvV2Kci,999031,使Caelum模组兼容并采用TerraFirmaCraft的日历与季节系统
@@ -2131,9 +2131,9 @@ name,modrinth,curseforge,description
 ,gKU2sJEW,953635,实现Better Combat与Tetra的兼容
 ,Q7dNt3PU,844019,为Astikor马车与TerraFirmaCraft添加联动支持
 ,XDDw6edF,1090260,为村庄与世界生成独特原版风结构，融合Create科技元素
-,5EbA5aZn,1083162,AnCore是Anchor Studios模组的核心库，提供定制GUI组件与增强功能支持
+,,1083162,AnCore是Anchor Studios模组的核心库，提供定制GUI组件与增强功能支持
 ,rtu7uERF,1007788,在MC中烧烤肉串，多种调味料提升美味度！
-,18Eei09v,1007669,
+,,1007669,
 ,sDhbZgv7,629017,采用1.13+格式移除生物群系/物品/方块的ID限制
 ,rxYaglEe,1084104,AE2扩展模组，添加大量实用功能与优化体验
 ,GDmztpJg,938661,赢得袭击后获得勋章，让村民永远铭记你的英雄事迹！
@@ -2172,7 +2172,7 @@ name,modrinth,curseforge,description
 ,Q5UvqqQd,545613,视角动画·自动第三人称·鞘翅翻滚镜头
 ,aT3Teaxa,864574,进入托尔金传奇宇宙——从《魔戒》到《霍比特人》的奇幻世界！
 ,wOl8aLro,1100323,数据驱动式修改物品默认组件！服务端支持，通过/reload即时生效
-,J6y5L5vM,538686,睡觉时床铺会治疗玩家
+,,538686,睡觉时床铺会治疗玩家
 ,b2T42hfY,844270,兼容多人游戏的模组，允许玩家无需告示牌即可为箱子、潜影盒、木桶等容器设置图标和标签
 ,JIUF2Wb5,1049882,为状态效果图标添加药效强度与持续时间显示
 ,OC5Zubbe,547961,🌱 收获后保持瓜藤下方耕地仍为湿润状态（西瓜/南瓜）
@@ -2415,7 +2415,7 @@ name,modrinth,curseforge,description
 ,gt6jUoio,872440,让矿车在乘坐时能被烟花推进，类似鞘翅机制
 ,i8eTQgbq,903017,船只推开睡莲而非破坏，更接近现实物理
 ,MPAgKQOE,900435,添加各类装饰性与功能性模型的魔法氛围模组，支持Fabric/Forge双平台，所有物品均可用原版材料合成
-,jCCPlP3c,978068,新增多种储物容器，包括双层铁质箱子
+,,978068,新增多种储物容器，包括双层铁质箱子
 ,Q9iBNX4O,380456,按需生成方块/物品的PNG渲染图
 ,5G4fpXXj,1028068,将NAE2部分特性移植至现代应用能源2
 ,GnU07giL,1100379,遗物与神器模组的兼容扩展
@@ -2661,7 +2661,7 @@ name,modrinth,curseforge,description
 ,vskzdsyT,1116812,为灯笼添加动态光源与饰品支持（含物理效果）
 ,TDGQvsXp,490284,通过经验值提升生命值上限
 ,z7YR5Db9,1031991,为施法者新增法术属性与相关附魔
-,ja77RbgE,1046916,新增法术、独特武器、装备等！兼容灾变、Alex洞穴等模组
+,,1046916,新增法术、独特武器、装备等！兼容灾变、Alex洞穴等模组
 ,az6UOmOZ,634475,允许竖直放置强化深板岩
 ,psWlhG7n,1075723,为Jinryuu的DBC模组新增NPC
 ,wOVCyncE,919773,为JER模组恢复被移除的档案指令
@@ -2766,7 +2766,7 @@ name,modrinth,curseforge,description
 ,8aeV5uJW,950721,击杀生物即可变身成它们！
 ,zQqsEeqy,1006270,「滚筒旋转」模组扩展：新增游泳与潜水动作支持
 ,BSVvfllR,436740,掌控Minecraft背景音乐！
-,AXvd6o1I,585263,
+,,585263,
 ,zQoJfY3W,460336,地下村庄
 ,AAiRU4aQ,1071657,野猪、鹿群等更多生物！让世界充满生机。
 ,hoN558ya,935749,镶金纹饰陶片！
@@ -2778,7 +2778,7 @@ name,modrinth,curseforge,description
 ,KCR6bnbY,1091599,简易摄像机API
 ,7ETmpdgC,847065,为群峦传说(TFC)世界添加自然形成的兽径
 ,pSfNeCCY,662186,增强方块后方名称标签的可见度
-,NfC2TBZe,971456,在Minecraft体验《黑暗之魂》与《艾尔登法环》！
+,,971456,在Minecraft体验《黑暗之魂》与《艾尔登法环》！
 ,HmXG2KTm,565051,将《合金装备崛起》武器与装备带入Minecraft
 ,PeZ4h4i0,1006892,驾驭元素之力击败敌人！「咒法引擎」扩展包
 ,QZFdnUQ5,494454,沉浸武器：不仅是武器模组，更为战斗体验增色
@@ -2843,7 +2843,7 @@ name,modrinth,curseforge,description
 ,vgvGqW1E,966312,轻量级JSON物品配置读写库
 ,9Y8sMRVG,511672,检测System.out调用的模组来源
 ,BBhCMftF,1057194,使机械动力喷气背包可在Curios/Trinkets背部槽位使用
-,AsPMQQYb,972044,
+,,972044,
 ,8KT9aVZC,1026067,用木材与金属打造各类机械装置
 ,qPzLkTsE,317590,MAmbience为MC添加动态环境效果：环境音效、粒子视觉效果及进阶脚步声，兼容原版客户端资源包
 ,7RvRWn6p,974774,进度系统优化（特别针对InventoryChangeTrigger）
@@ -2857,7 +2857,7 @@ name,modrinth,curseforge,description
 ,2JEAyza5,1037173,新增水气球道具，与好友享受夏日乐趣！
 ,SIqsxKh6,1002454,在这里你并不孤独，万物虽无生命却会低语。开启全新冒险篇章
 ,zQkTIKk3,709112,实现机械动力与电力系统的联动
-,mI4xkilT,970641,True Darkness模组1.20.1 Forge非官方分支
+,,970641,True Darkness模组1.20.1 Forge非官方分支
 ,3Nr0awh8,606648,选择年龄并体验衰老过程
 ,jv8hXuHT,1012074,添加可移动海盗船结构与可操作火炮
 ,pcvCiEEP,965089,WTHIT插件：提供超量信息悬浮提示（Forge版）
@@ -2866,7 +2866,7 @@ name,modrinth,curseforge,description
 ,CcL3MXyI,674907,增强资源包菜单：支持文件夹管理
 ,LIYB1RfI,1018536,完全自定义火焰视觉效果
 ,D2Q91keW,398022,将Minecraft Earth生物移植至Java版
-,JuYYY2JN,1091434,冒险不止于战斗！MTA通过新装备、食物、机制与方块全方位扩展冒险体验
+,,1091434,冒险不止于战斗！MTA通过新装备、食物、机制与方块全方位扩展冒险体验
 ,hYq29QmW,916852,Item Scroller非官方Forge移植版：客户端物品快捷移动方案
 ,bvgy8HrZ,958065,ComputerCraft与Valkyrien Skies的简易联动组件
 ,KjNUIZp9,813116,🌌 将末地转化为月球景观
@@ -2914,7 +2914,7 @@ name,modrinth,curseforge,description
 ,B1CBVXHX,626676,LDLib：自定义渲染与模块化GUI库
 ,DUaLBLVL,666944,别踩！疼痛程度堪比乐高积木...嗷
 ,Vr2eDeCw,678133,重生版NBT编辑器（支持1.19+）
-,s7MOoXsS,1052605,
+,,1052605,
 ,L5PDxO3G,922411,为洞穴潜伏者添加恐怖造型与动画
 ,oCTFqcH2,985441,新增椰子犬——水豚生物
 ,7JTDDmRT,1053225,沙漠神殿改造：4种变体/新战利品表/地下考古密室
@@ -2966,7 +2966,7 @@ name,modrinth,curseforge,description
 ,QSRtarks,319365,化学药剂Z+蜘蛛/猪人=？ 你能猜到结果吗？
 ,m5NB7FJE,580643,服务器专用UI模组：目标方块/实体提示与合成配方一体化
 ,S8mNuFSM,944522,彻底重制并升级僵尸类生物的模组
-,RQANGB0o,1084974,微型性能优化模组，降低Create组件运算频率
+,,1084974,微型性能优化模组，降低Create组件运算频率
 ,SpoXB0Dc,597907,添加受《RuneScape》启发的特殊饰品，提供独特效果
 ,4tkhj6x9,1032670,可储存多种流体的便携储罐
 ,FkRFuWlB,902825,通过Fabric移植原版Forge模组，添加21种可爱魔物娘生物，包括曼德拉草、水果曼德拉、蘑菇精灵等，可用曲奇驯养互动
@@ -2999,7 +2999,7 @@ name,modrinth,curseforge,description
 ,omwCdz6o,555300,适用于1.16.5/1.18/1.19/1.20.1的弩替换模组
 ,z5KH0yKE,417003,全游戏世界广播音效！
 ,C6R8uCNQ,737135,提供新型实验室方块，扩展现有科学主题方块种类与功能
-,mRT0wUQz,232791,
+,,232791,
 ,weDXQCzq,715108,添加特殊染料用于装备自定义
 ,BZ5vEM55,1107628,为CustomNPC+添加DBC支持 | 增强脚本 | 自定义形态/光环 | 玩法调整与状态效果
 ,Z58WQNTg,965353,新增夜视护目镜！（完美适配永恒经典枪械模组）
@@ -3056,7 +3056,7 @@ name,modrinth,curseforge,description
 ,vuISAWPc,986251,以铁砧为核心的原版生存扩展模组
 ,DqKMBArS,1093375,为Farmer's Delight添加更多饺子。新版移植版
 ,pAHachKW,1020430,新增魔法施法系统！
-,1PgWEhxA,1082365,该模组旨在制造恐怖氛围，建议搭配其他模组使用以增强恐怖体验（详情见描述）
+,,1082365,该模组旨在制造恐怖氛围，建议搭配其他模组使用以增强恐怖体验（详情见描述）
 ,bobSIZE9,1087826,提升Mekanism与TFMG的兼容性
 ,XwvK7Tzg,840027,使用望远镜观察生物/玩家时显示信息，并为望远镜添加独特附魔
 ,ZRT4oxpT,1046692,元素钉锤模组旨在扩展游戏中的钉锤种类，并添加多样化的特效
@@ -3130,7 +3130,7 @@ name,modrinth,curseforge,description
 ,U9iYRngS,456083,修复Industrial Foregoing 1.12.2的已知BUG（官方已停止维护）
 ,c2lpje52,655693,攀爬登顶，你能做到吗？
 ,rj8uLYP4,900238,追踪野生Cobblemon击倒/捕获数的工具模组
-,SGmlJpVM,526491,
+,,526491,
 ,4nXV6zEk,532877,额外空中跳跃
 ,N8s60DWW,999525,为Simple Voice Chat添加客户端音效板
 ,7lCr5INB,1020221,鞘翅控制模组：空中锁定/停止飞行等（类似基岩版）
@@ -3139,7 +3139,7 @@ name,modrinth,curseforge,description
 ,NJcJEXNc,1001584,物品清理模组(ICL)：定期清除地面物品以提升服务器性能
 ,n7CI2ifG,544671,便携式工作台
 ,HT2F6lNL,909107,用焕新的生物群系、新生物、装饰方块与可狩猎猛兽拓展原版体验！
-,u40fRXlK,1098166,芝麻开门——集体开门！
+,,1098166,芝麻开门——集体开门！
 ,tHmKhHkk,1013772,AE2附属：更大容量存储元件
 ,azhiHmUn,1116225,这是我构想中的1.22更新内容
 ,6udpuGCH,639779,附魔书独特纹理！
@@ -3170,10 +3170,10 @@ name,modrinth,curseforge,description
 ,I140DzGY,943100,将原版物品作为3D模型放置在地面（支持Forge/Fabric）
 ,JYgaA74n,558675,添加200多种新矿石的模组
 ,fO9XW8Jf,452000,将矿石研磨成粉并使产量翻倍
-,U8avpWmO,645755,通过清理未使用区块来减小世界体积
+,,645755,通过清理未使用区块来减小世界体积
 ,YndbKiX8,561493,为MC添加可收集品套装，集齐有额外奖励！
 ,TpKqzzMu,398407,为不可重绑定的按键添加键位设置
-,qiyZtwJs,965938,工具耗尽时获得经验值
+,,965938,工具耗尽时获得经验值
 ,otiSEfKe,470405,添加自动熔炼挖掘方块的附魔
 ,bqPNU46D,1039942,添加受《只狼》启发的武器/义肢工具/战斗技艺
 ,5GQG2cua,1011956,扩展世界高度，添加自定义洞穴/结构/植被，探索全新维度
@@ -3252,7 +3252,7 @@ name,modrinth,curseforge,description
 ,pJWTXnch,933090,高配置连锁采集模组，一键挖掘整片矿脉
 ,CIt53rI0,1055397,扩展竹制餐具与食物（原版风格）
 ,gc78ZRwD,949932,🐎 无需鞍具骑马（调整游戏机制）
-,Io0YMzKx,1022143,非官方移植版龙之瞳：以符合MC世界观的方式寻找冰与火之歌的龙族
+,,1022143,非官方移植版龙之瞳：以符合MC世界观的方式寻找冰与火之歌的龙族
 ,hcKuvuNu,1065071,1.12.2极致真实载具体验（坦克/飞机/舰船/直升机/炮塔），特别感谢Murachiki27移植Mcheli主模组！
 ,DoJ9HqFj,923372,屏蔽游戏内烦人的弹窗提示
 ,VNYXl8f7,1058442,多种木材与石材的砂轮变体
@@ -3260,7 +3260,7 @@ name,modrinth,curseforge,description
 ,9SyaPzp7,1005676,新增海晶石/珊瑚/铜的批量自动化处理方案
 ,hbKDMT6l,560752,可配置的真实火把/蜡烛/灯笼/营火/南瓜灯机制
 ,upBx6tuB,952176,史诗战斗兼容补丁：适配其他模组武器的动作体系
-,dzAvfm8y,936105,创造物品时获得经验值
+,,936105,创造物品时获得经验值
 ,Sh0YauEf,541320,简易MC-Discord聊天转发机器人（含白名单功能）
 ,fpsY92ff,1027918,简化GTM附属开发的库文件
 ,Boz7GXeA,1105414,添加可存储9种配方的自动合成机
@@ -3328,12 +3328,12 @@ name,modrinth,curseforge,description
 ,nUsNRn4i,856764,雪域生物群系新增生物Snuffles！
 ,oJkZIwJu,973078,扮演灵魂法师或闪电巫师！
 ,poGrqY8n,457043,添加高强度材料海绵
-,pVZL69w3,656420,饰品栏扩展：新增可装备饰品
+,,656420,饰品栏扩展：新增可装备饰品
 ,ygYU16dG,1065783,将图腾替换为玩家玩偶，重命名即可使用对应皮肤。支持3D/2D模式！
 ,LtZfKhel,1121215,云朵大修：新增云类型、震撼视觉效果与区域化天气系统
 ,hyTM8xtR,898164,起源：神与英雄模组 含闪电侠、氪星人、蜘蛛侠、铁匠等超20种起源
 ,xUTkDmEv,928372,为Minecraft添加新家具
-,KUvvZvJn,869951,书本与梯子的木材变体！
+,,869951,书本与梯子的木材变体！
 ,S6P4vaGq,1008328,服务端工具：新增锤子/挖掘器/锯子
 ,7ZeDFITF,658596,合成非原版配方：钻石/绿宝石/铁砧修复/锁链甲等
 ,c8HzJCul,969653,每5分钟随机传送全体玩家
@@ -3372,7 +3372,7 @@ name,modrinth,curseforge,description
 ,Cs83btto,908418,将护甲/工具/武器熔炼回对应锭
 ,4N322TJL,387197,创意傀儡：为世界注入RPG新体验！
 ,99zkNsfb,881838,食用金羽毛获得缓降/吸收/急迫效果
-,I5Zjqand,1090832,《白影》是添加恐怖实体的神秘模组，如同经典Herobrine般在暗处窥视玩家
+,,1090832,《白影》是添加恐怖实体的神秘模组，如同经典Herobrine般在暗处窥视玩家
 ,7No3zYTb,923510,修复鱿鱼多种原版问题的微型模组
 ,cpBmCs66,681955,为F3图表增强调试信息
 ,uoXnS5LM,654414,添加指环王/精灵宝钻等托尔金著作中的传奇武器与宝石
@@ -3483,7 +3483,7 @@ name,modrinth,curseforge,description
 ,d0f1a75r,523423,为Fabric/Forge添加物品分解台
 ,cChd25Tw,895670,Gargin所著洞穴居民模组的Fabric移植版
 ,BU2uaPfJ,884893,《拓展科技》是为Create模组新增功能的扩展包！
-,EOWTXenH,911798,添加蜘蛛侠生物、战衣与蛛丝发射器，还原蜘蛛侠体验！
+,,911798,添加蜘蛛侠生物、战衣与蛛丝发射器，还原蜘蛛侠体验！
 ,nNI4DwbW,332831,用骨粉扩散小型花朵
 ,32J251wv,664464,客户端模组，可自定义附魔光效颜色！
 ,hV76uW7M,823268,通过新的浮空岛地形生成与自定义生态群系彻底革新主世界
@@ -3554,11 +3554,11 @@ name,modrinth,curseforge,description
 ,WUvGZLgB,360916,随机放置快捷栏中的方块。
 ,lNttW2Xl,513402,为TerraFirmaGreg整合包开发的模组！
 ,SRvY3a39,624368,让云渲染得更远！
-,l1FZziEx,1023409,
+,,1023409,
 ,SRhXcqHZ,332910,全新猫咪，为你的Minecraft世界增添家的温馨。
 ,QRYqnI15,631922,通过多种背包「物理」扩展物品栏（增加格子）
 ,cC1LNyTQ,1121234,允许自定义抗性状态效果的减免公式（或调整伤害减免百分比）
-,RpguhJmg,947463,
+,,947463,
 ,V92cR3aK,955545,通过多线程分配负载优化服务器所有维度的性能
 ,AyU2qr1G,431279,素食主义者凭什么独占美食？金苹果？金胡萝卜？*呸* 来块黄金牛排吧！ :)
 ,EVaPMugz,330425,CraftTweaker扩展：可自定义食物属性
@@ -3640,7 +3640,7 @@ name,modrinth,curseforge,description
 ,2ots5RF5,374828,Ω 全面控制游戏内个体音效的唯一必备模组
 ,eXgdv1oC,224599,在Minecraft中重现神秘岛系列设定，可书写并穿越至称为「时代」的新维度
 ,nlFgvj7M,457826,添加未启用的气泡破裂粒子与音效的简单模组
-,SyFeNS3p,1082067,
+,,1082067,
 ,UqdL217I,917449,禁止玩家与实体进入特定维度
 ,MCF15nCy,1033985,用长矛爆头僵尸！用戟劈碎骷髅！用老式火枪轰烂史莱姆！还有更多！
 ,eevCqCjJ,878052,1.12.2版更好的下界ROTN版续作
@@ -3699,7 +3699,7 @@ name,modrinth,curseforge,description
 ,gSeQTNSE,921066,全新UI、功能与成就系统，全面增强信标机制
 ,aVja52oo,593568,通过直观GUI选择性屏蔽粒子效果，获得更清爽的游戏体验
 ,aclfPzta,1001031,《BURNT基础版》仅保留《Burnt》模组的火焰点燃与蔓延机制——无生物、无生态群系、无背景故事，更适合服务器使用
-,xacOfq1u,1078119,新增巫师塔建筑与巫师小Boss
+,,1078119,新增巫师塔建筑与巫师小Boss
 ,8YDc3LXD,1074735,招募人类士兵作为护卫参战，可执行防守、驻守等指令！搭配二战模组《Call to Battle》可为护卫配备300多种枪械武器！
 ,ajdfGxGU,507228,屏障可视化及其他地图制作辅助功能
 ,6tlt7WLY,1097243,为沙漠生态新增棕榈树、猴面包树、生物与新矿石
@@ -3724,11 +3724,11 @@ name,modrinth,curseforge,description
 ,NnMIY8We,711583,新增道路建设专用方块
 ,UoomXK5h,535033,枪刃武器系统
 ,T9R7YTnA,848698,记录玩家'技术问题'次数（不死图腾触发统计）
-,hi5FQaJy,945686,全新命名的巨龙，附带专属盔甲、战斗等内容
+,,945686,全新命名的巨龙，附带专属盔甲、战斗等内容
 ,6fRQa2pB,498747,Fabric/Forge通用模组，新增多种建筑装饰用门与活板门
 ,gRy0el9F,1024522,为《Cobblemon》添加场地技能的真实世界效果
 ,cYAo8OnA,1053237,《Enhanced Celestials》扩展模组：新增和平之月——当你需要宁静夜晚时
-,j0MYRfsz,885944,
+,,885944,
 ,l0tpiNe7,593740,雨天加速植物生长
 ,7MUJfTPy,962260,新增矿石熔铸与装备打造机制
 ,xDTL1KBC,277681,鹦鹉，开始你的舞蹈！
@@ -3837,7 +3837,7 @@ name,modrinth,curseforge,description
 ,PeW5XkPJ,326155,匠魂冶炼燃料与铸型扩展
 ,1AJ9nsvw,686733,2022生物投票落选生物合集模组（原名为'你在投什么？2022'）
 ,6vhHOIKw,861241,为附魔书/物品添加图标与彩色附魔名称
-,oXzIQwRj,1129397,阻止常见模组联网（不影响功能），避免网络问题导致的加载缓慢或崩溃
+,,1129397,阻止常见模组联网（不影响功能），避免网络问题导致的加载缓慢或崩溃
 ,dOrw4veV,948942,多功能商店系统：为模组包/服务器打造经济体系
 ,HMcaBYVS,382881,每夜随机诅咒玩家背包内可附魔物品（概率可配置）
 ,6i3MfNWc,1009455,更多自动化配方：辅助Create模组与附魔工业扩展
@@ -3919,7 +3919,7 @@ name,modrinth,curseforge,description
 ,Ne9jukgU,1094462,为Iron's Spells 'n Spellbooks和Farmer's Delight添加兼容性。保留原版风格。
 ,ep4qLPDu,1027031,建筑装饰用路径
 ,8K8WPv8S,226139,SimpleOres系列合金扩展
-,4o2qXTOl,1101933,
+,,1101933,
 ,syBx4RDU,809204,用钻石剑从羊身上获取羊毛/陶瓦/混凝土
 ,yjNrwxNh,948847,添加上古与中世纪早期的铁/青铜盔甲
 ,SgkdT9Ob,898232,将村民机制回滚至1.20.1前版本（含交易与袭击）
@@ -3975,7 +3975,7 @@ name,modrinth,curseforge,description
 ,zp6DtFf2,960082,优化非字母字符的自动换行效果
 ,twjW6Ggd,997888,全树种的书架
 ,ZT5K3j93,824852,功能完整的重生系统革新模组
-,kxsLz8N0,967560,
+,,967560,
 ,Q4F90RHI,1020165,使用机械动力材料修剪盔甲
 ,GkpgRKV2,838923,用世界生成的符文合成附魔书
 ,YRhAaADn,1087003,移除信标/潮涌核心的环境状态粒子效果（服务端/客户端通用）
@@ -4084,7 +4084,7 @@ name,modrinth,curseforge,description
 ,jRRBLkzK,421179,优化生物 AI 的模组
 ,nbg22QFg,371813,崩溃工具包：提供多种排查修复服务器问题的工具
 ,XX7fPDsr,961862,本模组通过与其他精品模组（包括自身）联动，提升 Minecraft 魔法体验
-,rC4bzCkO,487840,
+,,487840,
 ,Lrn5AhQ8,437747,老版本 Minecraft 切换游戏模式的最简方案：暂停游戏、功能化 GUI 及更多设置选项...
 ,7y4lnTPk,1083776,Wakes 模组的 Satin 免费版：添加水面航行的浪花效果，帧率提升 3 倍
 ,1LjfkWOR,636199,扩展并优化 Minecraft 音效系统的模组！
@@ -4163,7 +4163,7 @@ name,modrinth,curseforge,description
 ,XM0ifg8q,983234,新增农业与食品加工相关的机器和物品
 ,KXQSDZIy,390880,添加可同时熔炼多个物品的多方块熔炉
 ,n38qCKN4,430513,添加外观似玩家的敌对生物，支持Twitch订阅等远程名单
-,GtMli81M,716089,
+,,716089,
 ,Z08QSzMz,1020926,装饰阳台与露台的栏杆组件
 ,1XOtmpAD,363559,太空环境音效 - 为星系模组天体添加更多环境音乐
 ,OYOylz9t,917133,在游戏中添加中国传统节日的彩蛋内容
@@ -4330,7 +4330,7 @@ name,modrinth,curseforge,description
 ,YwmuwbXi,1224214,Goety 与 L_Ender's Cataclysm 的兼容模组
 ,pyFjCT3F,1211932,将 1.21.5 的新动物变种添加到旧版本。
 ,txMuoRai,925866,为 Epic Knights 模组添加更多中世纪内容。
-,fOku2spE,1124965,
+,,1124965,
 ,rIn55eeq,637359,允许浸没在液体中的方块被爆炸破坏。
 ,oEhQIkOs,1208896,Chill Minimal Config API
 ,2VLZ3B93,399615,Gilded ingot 是简单模组，可将 Gilded blackstone 熔炼成 gilded ingots，用来制作略强于铁的盔甲和工具套装，并添加若干其他小功能。
@@ -4412,7 +4412,7 @@ name,modrinth,curseforge,description
 ,8WDStXsH,875997,为 GrieferGames 和 Bausucht Citybuild 服务器提供自定义方块。
 ,nKcekY2P,440468,客户端模组，当营火下方有特定方块时抑制营火烟雾。
 ,XepXTAL4,908401,为 Isle of Berk 模组提供数据驱动的龙变体支持。
-,DDmSpICw,900364,
+,,900364,
 ,tZDbLYKJ,935217,几乎完全专注于添加新靴子，以及 Thaumcraft 附属中已有靴子的组合。
 ,QXU3UqPY,380314,会长出羊毛的树。
 ,cl5ec0Qm,1090999,用于简化模组间注册的库，尤其是 macaw 的 bridges/roofs/fences 等。
@@ -4576,7 +4576,7 @@ name,modrinth,curseforge,description
 ,HQNCq9HG,917880,可一击击败 Minecraft Boss 的 OP 剑。
 ,fLNnSWgM,1148008,适用于 1.8.9 的简单色彩饱和度模组。
 ,hCyAnqqq,1316631,Almost Unified 与 Immersive Engineering 的集成。
-,9SPugEhY,1074978,
+,,1074978,
 ,py6EMmAJ,663276,Yet Another World Protector，简称 YAWP，是一个服务端模组，可保护你的创作免受玩家、生物和环境的各种事件/行为影响。
 ,5wySvh3t,525333,更能融入环境的苦力怕。
 ,4jXlWFBu,1053250,Infinity 系列模组的基础库。
@@ -4690,7 +4690,7 @@ name,modrinth,curseforge,description
 ,8ynRnnKC,1085408,为 Create: Crafts and Additions 添加更多电灯
 ,UhW5uCKw,957920,用于渲染、注册和网络功能的代码库
 ,z0aFiDQz,422072,添加拥有独立生物群系、材料、生物，甚至新合成方式的维度
-,MxTvAQxY,641580,
+,,641580,
 ,XgPGTppa,1199808,他注视着你，了解你的一切；他会善待你，直到你犯下太多错误
 ,cOc4DOju,644899,Zombie Plague Mod 2 会大幅提高游戏难度！现在你的主要敌人是嗜血僵尸。
 ,xnn6vBkh,885292,面向整合包和地图制作者的区域管理与结构/地牢生成模组。
@@ -4706,7 +4706,7 @@ name,modrinth,curseforge,description
 ,rp7ooqvq,1150640,循光而行，获取战利品！
 ,qooYHuMw,1293188,准备迎接这些史前恐怖吧
 ,HQ1TzzI6,551523,Soul Shards 是一个简单模组，可将你击杀生物的灵魂收集进宝石碎片
-,GuqDtM35,1064956,
+,,1064956,
 ,DVph1325,1100833,Wynncraft 专用相机工具，灵感来自 Nimble 模组。
 ,g3ouhJY7,1212200,一个 Kubejs 扩展
 ,B3tEhlsj,1015138,Herobrine 毫不留情。你能先杀死他吗？？
@@ -4724,7 +4724,7 @@ name,modrinth,curseforge,description
 ,vtj6opjs,618103,此模组为游戏添加 Golden Berries 物品，与 Golden Carrot 非常相似。
 ,c9CEGwyC,1035901,添加 Alex's Caves 与 Farmer's Delight 的兼容，原版风格。
 ,dxqKAraL,1107833,为雪地生物群系添加温馨的雪地帐篷，内含可发现的物品
-,pAcsgLW2,1130998,
+,,1130998,
 ,FHMHF9Qr,1206040,Create 与 Occultism 的整合模组。
 ,qEr8xutG,1280678,为你的生存带来更多障碍。
 ,LTRHyjyc,1027317,可自定义的假 FPS 显示。
@@ -4782,7 +4782,7 @@ name,modrinth,curseforge,description
 ,yY9ix3J0,1134994,重制基础动作动画
 ,dFtMHqm5,942156,让选定状态效果无法被 Milk Bucket 移除，并允许选择可移除这些效果的物品
 ,WXCxpXEu,958639,Corpse Complex 面向现代 MC 的精神续作。配置玩家死亡的各个方面，如保留/掉落部分物品栏、饥饿、耐久、经验等。
-,GBiVBcky,327247,
+,,327247,
 ,Bqnfeesx,960382,重构 Minecraft 音乐，使其动态且有反应，并加入新的奇幻与凯尔特曲目，营造冒险氛围。
 ,vVkPfZUA,1081271,添加来自 Ender Dragon、Wither、Warden 的食物和菜肴。
 ,P5jUo1gr,1451825,ItemPhysic（Lite 或 Full）附属，修复 TaCZ 和 Superb Warfare 的 3D 枪械掉落时的渲染。
@@ -4810,7 +4810,7 @@ name,modrinth,curseforge,description
 ,2ygdYUcf,1155936,为海滩添加碎浪！
 ,Koee7vhY,1198527,为 Farmer's Delight 添加更多 1.20 更新相关食物
 ,NdwUq6vV,1130903,Oreganized! 模组附属，添加 Vigil Candles、Hollers、Sepulchers、Bone Piles 以及名为 Gravetender 的新村民！
-,d7tBNLJP,1289504,
+,,1289504,
 ,bWabfFX3,914215,此模组添加 Minecraft Dungeons 游戏中的 enchantsmith
 ,nwzdpMnQ,599276,Minecraft 中的 Funko-Pop
 ,Jal3lwVg,1062863,一个受 Stardew Valley 玩法启发的简单 Watering Cans 模组。
@@ -4835,7 +4835,7 @@ name,modrinth,curseforge,description
 ,W0UVc3e9,411384,💾 使用命令为自己或他人保存和加载玩家物品栏或套装。
 ,qvyoz8jh,943814,树苗现在需要特定温度才能生长
 ,TwYypE5e,1132220,移除恼人的失明/反胃/黑暗效果，以及水雾、南瓜、望远镜、传送门、火焰、暗角和定位栏等遮罩。兼容 Sodium，且高度可配置
-,wiZ8MoJ4,964436,
+,,964436,
 ,JCh0VpDj,377652,添加更多材料的 Tinkers' Construct 附属。
 ,hlSljRAv,911266,为树木、砖块、石头、水和更多方块添加颜色；可在世界中染色并使用无色变体
 ,RK0tTWG1,630689,防止你意外做傻事的模组。
@@ -4862,7 +4862,7 @@ name,modrinth,curseforge,description
 ,XIIGRXeq,980715,为“/data get”命令输出添加复制按钮
 ,UlfKEvQE,1092053,全局自定义 Minecraft 文本阴影渲染
 ,qXJrNBas,860769,让你的睡眠地点更具装饰性
-,wj0EvN9T,1172424,
+,,1172424,
 ,btPzz1Xc,1135835,一个 Minecraft 模组，会根据你过去合成过的物品推荐配方，让你用一键或快捷键快速合成。
 ,pTfszyXD,1180196,Create Big Cannons Mod 的附属，添加新火炮和机制
 ,uUXwaFR5,883194,添加 Gilded Armor，让 Piglin 保持友好
@@ -4880,7 +4880,7 @@ name,modrinth,curseforge,description
 ,pkdHZGfL,560578,重新启用皮肤透明渲染。
 ,bMdS1gMo,1190578,允许 Cobblemon 以不同尺寸生成。
 ,dVxU9eTq,1215231,Dungeons Content II 加入了一款尚未发布的新游戏内容，是 MCD 的直接延续。目前仅提供新的敌对生物 Warden Boss。
-,CdqNN0d1,1145642,
+,,1145642,
 ,mG8RUcr5,1186288,寻找方尖碑并征服它们的挑战！
 ,kcoiKSkz,1485130,一个 Minecraft 模组，可在游戏内切换全亮效果。
 ,tU8tzINi,406056,Immersive Vehicles（原 Minecraft Transport Simulator）的内容包，为你的世界添加装饰、零件和载具！
@@ -4978,7 +4978,7 @@ name,modrinth,curseforge,description
 ,WN2YCymY,482123,我们需要 AIOTs (╯°□°)╯︵ ┻━┻
 ,QELjlrxC,949423,击杀玩家获得一颗心，死亡则失去一颗！
 ,RCsqeVSp,968670,用核能和涡轮机生成 SU。
-,kKQvlJPl,1119010,
+,,1119010,
 ,iaH7LvLy,1099143,取消所有按键绑定，获得干净的起点。
 ,LmrhZdK2,1306061,3000+ 野生变体、程序化遗传、肩射、钻石嗅探、脸颊物品栏、个性、50+ 动画、漫游模式等等！
 ,6t2MdNbo,847059,有了这个模组，你可以酿造啤酒并招待好友！🍻
@@ -5173,7 +5173,7 @@ name,modrinth,curseforge,description
 ,YGXNf9sR,858420,用于从任意现有生物创建友好生物的库。
 ,XzFmoWC0,827082,添加许多 RolePlay 功能。
 ,eM1KzRjc,480257,服务端模组，允许玩家坐在台阶和楼梯上
-,FvXBfzz7,818324,
+,,818324,
 ,Fjske9IS,1158019,为 Minecraft 添加文字更大的告示牌！未来还会有更多内容！
 ,h3PeiHjb,1265494,你好！！！我叫 Aiko！！！！！！
 ,8qqjBoHY,1141465,战胜野兽，赢取珍贵奖励，在刺激挑战中证明你的价值。
@@ -5232,7 +5232,7 @@ name,modrinth,curseforge,description
 ,3IhyJIDI,871620,找到幼年怪物，驯服它们，打造你的迷你军团！
 ,f9rb8trZ,867868,名正言顺地将铜与红石组件合二为一，并全面拓展铜。
 ,VOFv2Rsg,1137171,添加一个具有挑战性的 Souls-Like Boss
-,uBf5Ha9V,1054601,
+,,1054601,
 ,xud8DAFy,670914,为 10 个不同类别各添加约 240 个新方块，并从对应原版 Minecraft 方块提取纹理
 ,yBLrXpfD,1061276,添加一种无需进入下界即可获得石英的新方式！
 ,4I2tYh5t,532382,为游戏添加许多新生物。
@@ -5244,7 +5244,7 @@ name,modrinth,curseforge,description
 ,Uiq88Vjc,1214459,[Vanilla+] 添加天空中鲸鱼相关的新型结构
 ,vG3GrPJq,1099981,在沼泽生物群系添加一座老渔夫小屋，下方有村民和水生生物
 ,9PrqH84w,1260433,新增可独特互动的武器类别！
-,4cy6Ta9N,1086419,
+,,1086419,
 ,P8A7NmSu,992029,为 ElidhanMC 制作的超棒模组中的枪械换上新外观，另外天哪感谢大家 10K！😲
 ,ZfxwAPOf,1266649,MrSterner 的 GuardVillagers 1.21.1 非官方移植，添加可使用法术的 GuardVillagers！
 ,2mBYHHZ5,409660,Wireless Redstone 添加可远程使用红石的方块和物品
@@ -5267,7 +5267,7 @@ name,modrinth,curseforge,description
 ,N9WucjHL,1411826,一个为 EMI 添加许多小功能的模组分支！
 ,LCO8KZvC,1125946,旧模组焕新光，全部重制并重新构想。希望它能重新点燃旧坩埚
 ,hxGLlCnq,916985,为 Minecraft 添加 10 种职业。你现在也可以添加自己的职业！
-,COs3tk8y,1074995,
+,,1074995,
 ,CmMbzGLi,577749,无需包含 servers.dat 文件，即可在整合包中加入服务器列表！
 ,42OPxy0E,1078644,为 Thermal Series 添加更多 OP Integral Components
 ,cdeAhgfp,667409,适用于 1.7.10 的 Mixin 0.8 库，也可替代其他加载器工作。
@@ -5336,7 +5336,7 @@ name,modrinth,curseforge,description
 ,wTFALvR2,1259448,大量现代、未来和奇幻风格的装饰建筑方块可供使用。Z/Xtones 的延续。
 ,cfQx2fbQ,697926,添加类似 Project E 的 EMC 系统，可进行物品等价交换。
 ,iIDoDiAj,953977,添加生成于深板岩层的新矿石，并加入 Steel、Anthektite 和 Diarkrite 等材料用于制作武器、工具和盔甲。
-,F56tBubk,317856,
+,,317856,
 ,gDMwrRaT,1116713,职业、贸易、王国与封臣。成为国王，或侍奉你的领主。
 ,ZtICh1u8,1203238,随机方块掉落、生物掉落、合成配方、箱子战利品、钓鱼等更多内容。
 ,kxuXGLth,538172,尝试修复 1.7 Aroma Dimension
@@ -5367,7 +5367,7 @@ name,modrinth,curseforge,description
 ,oqwxmBF3,1051360,旨在为 Minecraft 引入种类繁多的敌人！
 ,H0vaEZ6t,446224,允许自定义主菜单全景图的模组。
 ,Luk2wi3b,1334204,你可以同时装备并使用胸甲和鞘翅
-,X9EweMF1,999000,
+,,999000,
 ,6kAZrZHA,1092861,添加 14 种矿石和配方（剑、盔甲、工具和方块）
 ,fp4kfzWI,354552,行走时自动生成小径
 ,4YtgLNJm,1017100,为 Minecraft 添加各种新室内植物的模组！
@@ -5678,7 +5678,7 @@ name,modrinth,curseforge,description
 ,M26Q1sar,887252,一个 CIT Resewn 资源包，可为附魔装备染上多种颜色！是为 Trimmed 和已附魔装备增加个性化的完美补充！
 ,5p35khY3,1085222,通过在世界中合成的“科技树”（双关）让木制物品制作更沉浸。
 ,5QyCeANZ,352301,让 Minecraft 指南针指向北方。
-,kVSeilTs,683319,
+,,683319,
 ,6AYENgHJ,1129990,添加我最喜欢方块的模组。
 ,70vOH2S4,1209864,修复战利品表中附魔函数会应用不需要附魔的问题。
 ,SdT4Yu5L,1035665,Construction Wand 的非官方 Fabric 移植版。
@@ -5693,7 +5693,7 @@ name,modrinth,curseforge,description
 ,mzNYT2LK,982671,允许在物品栏中滚动物品提示。
 ,EqI9kqZg,572640,Power Utilities - IndustrialUpgrade 附加模组。
 ,SlTIlcVM,418373,无论死亡原因如何，生物都会掉落经验和战利品。
-,DH80RYrV,1146784,
+,,1146784,
 ,jKzIQ1it,1048687,包含大量脚本和实用素材的 Palladium 附加库。
 ,IkJ2gbjT,1202622,Cobblemon 附加模组，加入更多结构和获取传说 Pokémons 的方式。
 ,VkfVprk0,1128407,为 Minecraft 添加军用无人机的模组。
@@ -5762,7 +5762,7 @@ name,modrinth,curseforge,description
 ,tbxlThC8,1093935,BioButcher's Delight 旨在增强 Butcher's Delight 与 Biomancy 2 的兼容性！
 ,RF3VV1Vc,1236462,以音速把水从桶里甩出去——一种古怪的 bucket-clutching 新玩法！
 ,k8iufIYN,527894,添加一整套黑曜石工具、盔甲和弓。
-,IqjmJad9,688364,
+,,688364,
 ,t0BYGbRl,1044887,Plasmo Voice 模组的音效板。
 ,tVzog99s,635804,Fabric 和 Forge！加入新的骨粉物品，让植物种植更轻松，还有更多内容！
 ,XDDlmPmY,483348,添加一个 Ghast Cow 迷你 Boss。
@@ -5781,13 +5781,13 @@ name,modrinth,curseforge,description
 ,vvsliqlH,1098031,禁用 Ad Astra Oil Wells 的生成。
 ,yl3AT4wD,571346,添加用于精细处理物品/方块交互的 Forge 事件。
 ,L7DthrLR,809190,你可以制作圆木。
-,giPNnCaw,905937,
+,,905937,
 ,3qvZNDmi,1130387,🔥 营火可提供增益、会燃尽、受雨水影响……并且完全可配置！
 ,mXejUYMg,962494,装满各类小装置和小玩意的模组。
 ,vU6CXbp5,810670,为 Minecraft 添加可爱豚鼠的小型模组！
 ,EzhRF5Uw,544804,在 Minecraft 中游玩日本（Riichi）麻将！
 ,CE2Pi3IJ,348932,Edit Mob Drops 是一个易于配置的模组，可让你编辑生物掉落物。
-,uKE9kE6R,1110642,
+,,1110642,
 ,DY4PIJiu,1266162,此模组加入 GTA5 风格击杀特效和其他屏幕视觉增强。
 ,vTvnv7qp,688894,GTNH 的库。
 ,hFW7KOhm,676800,用于早期游戏生存的沉浸式概念，面向多种模组。强制使用正确工具破坏方块，不能再空手撸树！
@@ -5830,7 +5830,7 @@ name,modrinth,curseforge,description
 ,7RSp3ivG,615275,此模组向游戏加入一本词典，在游戏内解释 Minecraft 几乎所有方面！
 ,BAlSr7dy,974853,Kaf's Valentine Special 为 Minecraft 添加一批特殊曲奇，最初为庆祝情人节而制作。
 ,c6fx2vMe,539122,用丰富选项过滤 Minecraft 聊天文本。
-,PHgo4bVw,739791,
+,,739791,
 ,Ti7LgRXJ,1344638,一个库，让玩家几乎无需设置和编码知识即可制作功能完整的枪械。
 ,FPVZXxB6,1090217,专注于提升农业体验的 Immersive Engineering 附加模组。
 ,dT8lKjaP,776497,添加 Sacs，可装入墨水以获得 ink sacs。
@@ -5921,7 +5921,7 @@ name,modrinth,curseforge,description
 ,tfpHINm8,1135181,提供各种实用方法、工具和辅助，让模组开发更顺手
 ,18s8zHvJ,1082132,整合 Nature's Spirit 与 Farmer's Delight Refabricated 的模组。
 ,qjOfLjl2,614516,在开放局域网世界中添加 /op 和 /deop
-,pF8zN6dp,1068304,
+,,1068304,
 ,8IUwkNot,1130125,添加新的镐子锻造模板，用于个性化和强化镐子。获得耐久加成、额外经验、更快挖掘等。
 ,1w17Agug,566381,添加 5 个新村民职业：伐木工、下界商人、红石商人、矿工和花匠
 ,q8k4zHw5,857036,让你制作可与其他模组配合使用的纹饰！
@@ -5997,7 +5997,7 @@ name,modrinth,curseforge,description
 ,efD07SBK,1267477,添加多种工业和现代地面标线的简单模组。
 ,ZTzz4vIr,450063,赋予你 One Punch Man 中 Saitama 的力量与无敌
 ,s41HfLjb,1343236,带有身体恐怖元素的冒险恐怖。
-,fOi7wEuS,983390,
+,,983390,
 ,WgTP5GBd,1099249,添加 Forbidden and Arcanus 与 Farmer's Delight 的兼容性。原版风格。
 ,s1Aa0h8K,1272135,将效果图标放到更多位置
 ,fNbraXJk,461316,从任意位置无线传输能量到任意位置！
@@ -6009,7 +6009,7 @@ name,modrinth,curseforge,description
 ,dpkYdLu5,1157098,在玩家名牌中显示 PvP Tiers！（MCTiers 和 SubTiers）
 ,8cCrUOJy,1060385,只有攻击冷却满时才能伤害生物。
 ,2GcS5mqh,859528,这个模组会打乱所有配方。你可能从铁块获得木棍，或用三块圆石获得下界合金锭。你还能通关吗？
-,DyiDfM9t,1292884,
+,,1292884,
 ,PHT3Zj0r,1258911,添加来自 Kanto、Johto、Hoenn 和 Sinnoh 地区的 Pokémon Gym Badges 与 League Trophies，未来还会更多！
 ,s4mejB0R,906569,你希望箭能打碎玻璃吗？现在可以了！
 ,A1wkXMXS,842038,挑战各种 Boss 并获胜！
@@ -6069,7 +6069,7 @@ name,modrinth,curseforge,description
 ,5IovSY3u,631457,一个 Fabric 模组 / BungeeCord 插件，使用 RakNet 在不稳定和限速连接下显著改善多人体验。
 ,oJtNN7Tj,757020,修复原版总 Blockstates 限制在约 50 万的 bug
 ,Zl6rTul9,1179595,Loot & Explore 附加包，包含 Archers（RPG-Series）相关内容，如新结构、武器等。
-,ydKIqmu5,996814,
+,,996814,
 ,cvjKMjpc,771473,想从 Minecraft 原版进度系统中获得更多？Custom Advancements 正适合你。
 ,S8drsznD,1134081,通过添加更多来自 MouseWheelie 的鼠标功能来补充 MouseTweaks。
 ,LlRoNRWC,251767,Waddles 添加会摇摇摆摆走路的可爱 Adélie 企鹅
@@ -6266,7 +6266,7 @@ name,modrinth,curseforge,description
 ,bZfhG8ws,1209908,一款受 Another Furniture 启发但全面翻新的家具模组，加入了新功能和方块。
 ,iah6MV6u,1099084,为 Minecraft 的环境增添生机的各种生物，包括鲸鱼、麝牛、猎豹等更多内容
 ,KhOKMbz0,443969,让 Bone Meal 可用于所有可生长对象！
-,Kxepwz65,1115644,
+,,1115644,
 ,f3wjDYg6,1320903,一个为 Blaze Burner 添加新燃料来源的 Create 附属，提升自动化可能性。
 ,L1k78Y2G,1242344,通过高级筛选自动轮换 Easy Villagers 交易！可设置多种条件，包括自定义付款物品、最低附魔等级、AND/OR 逻辑。会话持久化会保存你的筛选器。客户端模组，带直观 GUI。
 ,V45JL0Gs,959551,为 Progression Reborn 装备添加 Farmer's Delight 小刀
@@ -6352,7 +6352,7 @@ name,modrinth,curseforge,description
 ,piTF22sg,608298,为游戏添加企鹅的模组
 ,yzkasIPx,1294543,优化网络，并为 Krypton Fabric 提供额外支持。
 ,FjW7EHo3,1112816,本模组是基于原 Forge 模组 Rustic Delight 的非官方移植版
-,jkCsYPZ0,1043588,
+,,1043588,
 ,ntz4ZX7h,1340238,enhanced block entities（EBE）的非官方分支。自 0.5 起还修复了类似 Fabric-Indigo 的 AO。兼容 Embeddium。
 ,4UNJZ4cX,1090749,结合 CPM、Figura 和 L4J，像过去那样实现皮肤切换！
 ,9mHSYKqh,1005604,为 Minecraft 添加西部荒野风格的结构。
@@ -6366,7 +6366,7 @@ name,modrinth,curseforge,description
 ,kvPlmCLX,387962,让那款皮肤显示出来！
 ,UFGyxCZm,1278014,还在为 MineColonies 的 AI 苦恼吗？安装这个附属，大幅提升你的城市建造体验！
 ,njuXv6xy,1072006,一个小模组，却大幅提升 Minecraft 红石的速度与交互性：添加改进版红石物品，其速度比原版快 4 倍以上。
-,YyChgEve,961649,
+,,961649,
 ,WHfDerkS,377240,为炼药锅添加 Datapack 配方。
 ,rbU0dAND,736958,放置生物头颅时会保留其自定义名称
 ,K9CZ9PGx,1093683,添加一个焊接按钮。
@@ -6385,7 +6385,7 @@ name,modrinth,curseforge,description
 ,RSFrpoou,1281242,强迫 Minecraft 使用现代版本的 OpenGL
 ,sCnO4R7e,1117622,为 Farmer's Delight 添加新村民职业、工作站和交易。
 ,owYuvqsM,1054322,Geometry Craft 添加大量拥有特殊能力的新方块和物品
-,lsAdNsPC,882135,
+,,882135,
 ,bjvFzLV3,1148149,Tensura: Mysticism 是 Tensura: Reincarnated 的附属，带来新种族与技能。
 ,8FVr3ohp,1108183,一个为 Hex Casting 添加额外向量操作和部分法术的附属。
 ,NwcDUEsN,1171408,这不是真的——又一个 Minecraft 恐怖模组
@@ -6399,7 +6399,7 @@ name,modrinth,curseforge,description
 ,UiVjnGWB,839641,允许你拍摄全景截图并用来修改主菜单外观的模组。
 ,tkC1hydn,1283873,Locks-Unofficial 的分支，加入新锁、钥匙环和兼容性支持
 ,60bxuMsl,842942,来自 DND 5e 的怪物
-,DfECZO3a,1314021,
+,,1314021,
 ,vyf9TmEf,1125700,为 MC 1.21+ 制作工具辅助速通提供工具
 ,giRQ2axg,1086461,Palladium 的附加包，为 Ghostly's Danny Phantom Heropack 添加额外饰品。
 ,fFmpgMfg,1131483,可将提示框固定在屏幕上，并查看更多信息，如附魔和生物效果说明。
@@ -6529,7 +6529,7 @@ name,modrinth,curseforge,description
 ,nyk5Yv39,1126443,带来受 Stardew Valley 和 Terraria 启发的动态钓鱼体验。添加新钓竿、鱼饵，以及拥有独特生成条件和战利品需求的多种新鱼类。
 ,WQ8HFRI9,838956,兼具区块加载和重生功能的床载具
 ,Ar5KaXvh,939585,能赋予你随机效果的石头。
-,dPpgFseV,1227502,
+,,1227502,
 ,do7sswfC,1065190,扩展主世界的新生物群系、方块与体验优化内容。
 ,HYV8rIOO,1214490,将 Forge 重新启动到 Cleanroom！
 ,jq6pHt0U,984932,Kev 全部模组的前置库
@@ -6699,7 +6699,7 @@ name,modrinth,curseforge,description
 ,i7bdRH9R,833414,通过新增内容为玩家带来更丰富的原版冒险体验。
 ,WTVzusYD,1197629,在 Minecraft 中实现 Nvidia reflex 以降低延迟。
 ,pZE4jkBM,1120620,防止因玩家死亡掉落的物品消失，再也不用担心 5 分钟计时器让你丢失物品！
-,1nbn61of,911627,
+,,911627,
 ,bFyxs7LI,1160777,添加配方，使 Create 与 Ad Astra 更加兼容。
 ,eqtPjP5L,1089622,在附魔书提示中显示附魔兼容性及其他信息。
 ,jqC9vU6R,925614,让资源包可以为方块添加生物群系颜色，并附带一些原版资源包示例。
@@ -6803,7 +6803,7 @@ name,modrinth,curseforge,description
 ,oWaK0Q19,676721,从飞艇到飞机和汽车，想造什么都行！
 ,tu54PMAb,916895,通过加入带宝藏的骷髅来改善世界探索，原版风格。
 ,RPXnAvtA,556491,当所有已连接客户端都暂停时，暂停服务器。
-,271NoACl,345034,
+,,345034,
 ,xE07xARe,1132998,专注于添加生物群系的 Nether 重制模组。
 ,fQO83PId,241319,许多魔法物品，助你在 Minecraft 世界中冒险。
 ,f1RjPKBe,620558,乘上鞘翅飞向名为 Heaven 的崭新世界！一个拥有富饶村民的和平维度！
@@ -6886,7 +6886,7 @@ name,modrinth,curseforge,description
 ,9qnTnpKy,704047,这个模组为村民和你的村庄生活添加更多独特小改动！
 ,WEfvvlnl,565119,使用命令生成 Jigsaw Structures！
 ,SYrakyVL,1132038,由数据包与资源包驱动的游戏内指南书与文档。
-,BQ5EbP3Z,932887,
+,,932887,
 ,weqFu0aY,403153,记录方块放置/破坏情况的服务器实用工具。
 ,DvefCrO7,1198608,本模组添加了数个全新结构，全部以 Ars Nouveau 为主题。
 ,k7mAH7W4,637726,从游戏中移除全局聊天。
@@ -6951,7 +6951,7 @@ name,modrinth,curseforge,description
 ,zMCclQtM,1071005,修复同时安装 Shoulder Surfing 与 Pehkui 时的奇怪穿模问题
 ,RuI8q4lz,567926,对物品自动化的魔法演绎。添加能自动完成基础任务的魔法之手。
 ,x63tCwHi,678852,本模组的主要目标是让音乐唱片可合成
-,LY0fyqpq,965811,
+,,965811,
 ,eg7GAnWV,1138447,统计你已完成的进度（包括模组进度！），并在玩家列表中显示总数。支持单人和多人。
 ,wcpPgNHy,568024,此模组新增约 240 种台阶，并提取对应原版 Minecraft 方块的纹理
 ,gW29KsnL,544459,用于提升变速 tick 可靠性与使用体验的实用模组，并附带许多便捷功能。这也是 G4mespeed 扩展所需的核心模组。
@@ -6965,7 +6965,7 @@ name,modrinth,curseforge,description
 ,IgftU6Mn,1346978,在下雨时为特定方块添加环境音效
 ,kHc6jKsv,582459,为每位玩家提供独立掉落，提升多人服务器的拾取体验
 ,iS07fmMi,1140073,添加空气工具及相关方块
-,MUOs5mGb,968067,
+,,968067,
 ,eYMDCaUb,967139,Furniture Craft Mod 是 Minecraft 的绝佳扩展，让玩家能够用各种家具和装饰物品装点自己的家园与建筑。
 ,rP02pNs4,514337,包含一系列围绕科技、机器与逻辑的新增内容。
 ,IEhCorNX,1069164,为 KubeJS 添加 Hexcasting 支持！
@@ -6988,7 +6988,7 @@ name,modrinth,curseforge,description
 ,LnqZM7XU,1100312,现在你可以在整个世界中摆满 Hatsune Miku 毛绒玩偶
 ,kVdZJN76,986394,一组拥有多种用途的神秘戒指。
 ,oZvUFwi1,1066955,这个模组通过添加新方块和合成配方来强化骨头的用途。
-,mnLaz02V,859626,
+,,859626,
 ,IupWkJpE,934089,一个原版+风格的花卉与园艺模组 :)
 ,m0SPXeES,303759,一个核心模组，将药水效果数量上限提升到 32 位整数最大值（大约 20 亿个 ID）
 ,k4oyWt9f,454034,既然有铁粒和金粒，为什么没有钻石粒？（Forge/Fabric）
@@ -7046,7 +7046,7 @@ name,modrinth,curseforge,description
 ,2hO2FAtV,493723,Modern Warfare: Cubed 的开源武器编辑器！
 ,G0jB05Ux,956995,为现有 Minecraft 唱片添加多个 lo-fi 版本！
 ,VmkAInWR,452731,骑上你的羊驼，驰向夕阳。
-,Gj4dVZ98,709804,
+,,709804,
 ,9WP2dmkk,533897,使用告示牌在纯客户端显示来自网络的图片！
 ,NjkiUiZ7,546462,一个简单的 Minecraft 账号管理器，让你在游戏内轻松切换账号
 ,DvaEUke2,359407,Immersive Engineering 的能源科技附加模组
@@ -7148,7 +7148,7 @@ name,modrinth,curseforge,description
 ,ecpnuCZY,971942,CleanContainer 可帮助你整理背包和各类容器，如箱子、木桶、潜影盒、运输矿车箱和末影箱。
 ,5guP63Bi,1117958,武器与工具兼容包
 ,QuPbmyCQ,945501,兼容、可自定义、对用户友好的 TPA 模组，支持 Forge、Fabric、NeoForge 和 Quilt。
-,OIXfOp2Q,993101,
+,,993101,
 ,PUpch7wm,1224420,隐藏名字标签，直到被直接瞄准
 ,fKtTbdKJ,968044,可合成刷怪笼和 Minecraft 生物刷怪蛋。
 ,PjDhruSC,1311513,⭐️ 选择你的道路——塑造职业的技能
@@ -7218,7 +7218,7 @@ name,modrinth,curseforge,description
 ,PezbUFun,1295882,为 Epic Fight 添加技能树系统的附属模组
 ,NCt1d3Kv,1079866,我们会加入所有我们觉得有趣、能提升 Minecraft 体验的内容
 ,ab0CezfN,1141233,为 Serene Seasons 与 Farmer's Delight Addons 提供兼容，保持原版风格。
-,ul1G24TL,1045149,
+,,1045149,
 ,n5kT0VAZ,1175138,修复 MC-264285：苦力怕会完全消耗打火石等不可破坏交互物品的漏洞。
 ,mlaQPFEe,1187491,一款中国古风建筑方块与装饰模组。
 ,tVeR4oKO,977886,Diggus Maximus 的延续版。
@@ -7290,7 +7290,7 @@ name,modrinth,curseforge,description
 ,YVYq7eox,422476,右键即可采起花朵和蘑菇！
 ,11rOt9Bv,1197614,为 Ars Nouveau 的 Storage Lecterns 添加 Polymorph 支持。
 ,rvR0de1E,1012118,让实体能借助 AI 自然回应的 Minecraft 模组！
-,QJFCEVdN,556586,
+,,556586,
 ,fWv64ug8,1283494,来自 1.21.5 的萤火虫灌木回移植版。
 ,ProvjTA7,1253573,模组开发库
 ,tsQ5bozJ,849619,一个无需命令即可帮你完成各种事情的助手。
@@ -7325,7 +7325,7 @@ name,modrinth,curseforge,description
 ,tL46tfY9,1238398,修复鞘翅问题：未装备鞘翅时不会继续滑翔
 ,arHQz0zX,1087807,一个 Create 模组，旨在加入前期可用的鞘翅和更多物品！
 ,mfRRGzhA,932424,本模组允许你驯服、繁殖并骑乘北极熊
-,vnV0TwBF,865618,
+,,865618,
 ,uKD8yQTC,1060244,Create Big Cannons 与 Alex's Caves 的小型整合模组。
 ,RyMBuD6i,568341,用于创建动态维度的 API
 ,z7dmZ4nL,371235,对 Retina 说不！
@@ -7409,7 +7409,7 @@ name,modrinth,curseforge,description
 ,iCG9afOT,1014840,简单可自定义的 HUD 叠加层，在屏幕上显示世界和玩家数据。
 ,AQeXXsib,794622,供其他模组使用的开源库
 ,Fg9SAEm0,355369,添加冬季主题生物群系。
-,U87mP4eE,933921,
+,,933921,
 ,d78bhSQF,1097358,简单模组，加入 Murder Drones 元素！
 ,915f2bP2,1122529,让你在保留书中内容的同时为书染色！
 ,yyfwBmX3,432059,这个 Minecraft 模组添加了游戏规则
@@ -7417,7 +7417,7 @@ name,modrinth,curseforge,description
 ,LZu4H9cp,1078620,按住连锁键即可连锁挖掘和连锁种植：破坏方块会连带摧毁相邻方块，手持种子时也会连带播种周围耕地。
 ,nuqNKAFn,689785,舒适又结实的靴子！
 ,cVeczv70,915915,阻止凋灵骷髅掉落石剑。
-,cYG59Rjz,778615,
+,,778615,
 ,2HOQbDH7,709685,这个模组添加急救物品
 ,yJYb14Sx,713941,修改下界生成，并让下界基岩顶层生成得更高。
 ,Go9Vr0TE,959528,精心重制盔甲纹饰复制配方，让其更有趣、更平衡，同时保持原版风格。
@@ -7476,7 +7476,7 @@ name,modrinth,curseforge,description
 ,7WyOSE5Z,776197,新维度“Yteria”，一个黑暗阴郁之地，带来新内容与新冒险。
 ,s4ZX5l12,669376,感染、辐射以及更多新机制与新特性！
 ,jABS350R,1000636,为游戏添加新方块和新物品。仅限 Fabric 和 Quilt。
-,LYzABNNQ,895111,
+,,895111,
 ,s4mF7Muq,847148,适用于 FiskHeroes / Fisk's SuperHeroes Mod 的 HeroPack，加入 Kratos 和 God of War 宇宙中的多位角色
 ,W7fovUH0,1030534,常用命令总是一遍遍输入太枯燥？现在可以绑定快捷键来执行命令了
 ,VPPMiyrF,1246920,客户端 Forge 模组，让手持物品的感觉更沉浸、更真实。
@@ -7547,7 +7547,7 @@ name,modrinth,curseforge,description
 ,wDFzm2aY,1275090,Globox_Z 的 TieredZ 分支，加入一些 QoL 内容和 Accessories Modifiers！
 ,qEThLG0o,511224,这个模组为游戏中的魔法与药水系统添加新内容。
 ,Q1ZgOTni,978666,为猫添加趴卧姿势。
-,BgP4EZgl,1073697,
+,,1073697,
 ,ZxpgqLkR,663271,防止特定方块被破坏。
 ,UyhC4jkw,1070245,📦 一个收录了 Serilum 部分未分类模组的模组包，增添香料与搞怪乐趣！
 ,RIclBGxM,1134075,添加物品组件，用于控制物品在收纳袋中的重量（即占用空间）
@@ -7588,7 +7588,7 @@ name,modrinth,curseforge,description
 ,1hQgsACh,1262605,添加属性面板，查看你丰富的各项数值！
 ,jlNms3Jp,1340480,Config Manager 是一款 Minecraft 模组，允许整合包开发者分发配置文件，同时不干扰用户自己的偏好设置
 ,y7TzXi4L,1246510,一个简单模组，为 Cobblemon 添加一些小工具。
-,Zj6PLxvX,1147552,
+,,1147552,
 ,4RK1aHVB,321014,为 Minecraft 添加一些新的红石实用工具
 ,Z8LHmrI6,995610,贴合原版风格的兽人
 ,cKX88xtL,433035,为 Tinkers' Construct 2.0、Construct's Armory 和 Tinker's SlashBlade 添加 2 个新修饰符（灵感来自旧版 Tinkers' Construct 1.0 修饰符）。
@@ -7599,7 +7599,7 @@ name,modrinth,curseforge,description
 ,k5WqaNR7,635171,让起源“Phantom”在相位状态下也能看见其他 Phantom
 ,asdDIsGH,1080594,为猫、Axolotl 等更多生物添加 `jeb_` 命名牌效果！不再只有羊！
 ,L524D8Os,958442,建筑理想喷气背包。（需要 Fabric）
-,u8OJnscr,1245539,
+,,1245539,
 ,d4p3w66w,418682,添加新游戏机制、药物和毒素的模组。
 ,3jqXmIha,949565,为 Expanded Combat 与 Aquamirae 添加兼容性
 ,Ebec9fX9,544471,功能完整的游戏内编辑器，可用于创建、录制并实时回放红石序列。
@@ -7627,7 +7627,7 @@ name,modrinth,curseforge,description
 ,xwo9EqAv,298921,这个模组添加一个可让玩家选择起始套装的物品，你也可以通过 configs 文件夹中的 json 设置玩家初始物品栏。
 ,cDUpOnxQ,436247,离开游戏也能继续挖矿。
 ,UL0rSG61,1064969,与原版 Lifesteal SMP 一模一样的 Lifesteal 模组。
-,CIQfBdpM,423476,
+,,423476,
 ,s0tNTkDN,1017910,允许使用下界合金镐开采基岩！
 ,9P0keNSa,573200,为武器添加随机属性，且可完全配置
 ,hjotWeH6,1009842,简单模组，用百分比数值替换物品上的普通耐久/能量条。这是原版的移植版本，专为 GTNH 整合包制作
@@ -7644,13 +7644,13 @@ name,modrinth,curseforge,description
 ,jCpoCBpn,1143127,基于 Template 2 模组的 FramedBlocks Fabric 版本
 ,kQBKK3h1,1217060,如果其中放有物品，则隐藏边框
 ,3Y7JDXGr,965511,超过 100 个多变体结构、235 件自定义物品、90+ 个自定义方块和 30+ 种生物
-,L2W2AhDP,653786,
+,,653786,
 ,14bALK1y,924809,RPG Series 的 Zenith Affixes and Gems
 ,Bs7e2IyQ,1209702,为游戏添加 Dunmer 主题家具方块
 ,1uiuiEVt,1038047,一个 WTHIT 插件，可在村民提示信息中显示你的声望。
 ,eACKl8af,1133347,这个模组将主菜单帧率从 30fps 或 60fps 提升到 120fps
 ,F0X74VO2,1108636,一个包含一些普通汽车/载具的 FVTM Pack！
-,yYVZY4zm,933760,
+,,933760,
 ,ZOxCC8DJ,445557,我的模组所需的库
 ,HouHwmsH,1212232,这个模组为 Create 添加更多配方。
 ,k8iIgzXE,1320863,添加更完善的 TrueType/OpenType 字体支持的模组。
@@ -7717,7 +7717,7 @@ name,modrinth,curseforge,description
 ,7EMBwHEz,1127829,调整玩家 gamma 亮度，让世界更明亮。
 ,7MxFJGRg,915471,和朋友围着营火一起享用美味的夹心烤棉花糖！
 ,X6yhW0Ki,1106143,Mofu’s Broken Constellation 通过新生物群系、建筑和神秘的第二维度扩展末地及更远之地。揭开隐藏剧情，挑战独特 Boss，决定被遗忘国度的命运。
-,Afrex7CR,993521,
+,,993521,
 ,CIRJN359,965533,Unusual Prehistory 的附属，加入多种全新史前生物！
 ,QnWyhFGf,1203085,让 Alpha Cobblemon 在你的世界中自然生成的模组！
 ,ox09MNnG,515334,Psi 的附属，加入更多着色器和其他颜色相关内容。
@@ -7740,7 +7740,7 @@ name,modrinth,curseforge,description
 ,oyeu371M,929907,允许你制作物品复制器，让游戏更轻松的模组。
 ,7baP43pD,1091499,开创一切的 API 模组。
 ,WjiMhL7L,1010084,为游戏加入 4 个新生物群系、数十种新物品、50+ 建筑和 30+ 生物。
-,gni9W1g3,1388747,
+,,1388747,
 ,crL4avyh,1084895,用于 json 数据文件、obj 模型实体和自定义动画的库。
 ,ioagFVzF,828821,为 Minecraft Forge 添加可染色的 IKEA Blåhaj。
 ,BaW09xzg,1096060,加入一系列由紫水晶制成的装饰方块。
@@ -7750,7 +7750,7 @@ name,modrinth,curseforge,description
 ,RC5rlu7e,997942,为游戏加入大量新怪物，也就是敌对生物扩展。
 ,DNoiFv06,947536,Mithion's Mana and Artifice 的附属模组，加入额外的新派系！
 ,CV3BPuYF,1264512,Paginated Advancements 的非官方 (Neo)Forge 移植版。
-,BnBfKMUC,975890,
+,,975890,
 ,Seo5hQe1,926505,为 Minecraft 加入新武器、装备、战斗机制和独特内容。
 ,OTHbyVum,503115,非常 Ikisugi 的 Better Game Menu。
 ,NG36O5es,1180755,为 Majrusz's Progressive Difficult 与 Born in Chaos 添加兼容。
@@ -7798,7 +7798,7 @@ name,modrinth,curseforge,description
 ,BDGCyYTK,529689,Endermen Plus 为游戏加入大量全新类型的末影人！
 ,lTP9Y7EE,1299811,让甜浆果和发光浆果在你的世界里更有用！
 ,JerNZUDa,1306600,来自 Jurassic World Rebirth 的 distorted rex。
-,RQF9pUMS,1189323,
+,,1189323,
 ,Yp0NTtJ2,1089245,添加一个按键来格挡生物伤害。
 ,ftofxBty,1341861,Amarite。
 ,cvG3wGkp,1165678,加入优雅的石像和苔石石像，用于装饰。
@@ -7823,7 +7823,7 @@ name,modrinth,curseforge,description
 ,yE4MbG65,1366864,又一个 C2ME 的非官方 Forge 移植版，旨在提升 Minecraft 区块性能。
 ,hCDPCOXo,1191517,受 Rogue Exile 启发的派系模组！
 ,vC1rJ44q,1112785,允许你找回丢失战利品的 Minecraft Forge 模组。
-,zliP2NTL,1352062,
+,,1352062,
 ,FK8ma0OQ,1078165,基于 Call of Duty Black Ops 6 和 The Finals 等游戏的全向移动。
 ,LNeXYJOg,550257,完全客户端侧的模组，提供多种可切换的 QOL 改动与调整（GUI、游戏/世界交互）。
 ,lgaejLU2,1151978,为 Tom's Simple Storag 提供 Polymorph 支持。
@@ -7841,7 +7841,7 @@ name,modrinth,curseforge,description
 ,QvdBkyYv,952006,为告示牌加入颜色和格式选项。
 ,1BduonQp,847463,这个简单的 Fabric 模组允许你更改默认世界预设。
 ,Y8eR2217,1318311,将下界天花板上的荧石团替换为不稳定荧石晶簇！
-,9JdRssbG,923706,
+,,923706,
 ,kfDUtEcn,899665,让你在服务器中享受装饰性物品的模组！
 ,v0HXul4t,928545,丰富游戏中的生物种类。
 ,WJvcySfi,1098601,为 Ripples of the Past 模组加入 Killer Queen。
@@ -7855,11 +7855,11 @@ name,modrinth,curseforge,description
 ,oQTG9U8S,1143515,为 Create 添加新配方的数据包/模组 :D
 ,vBScOeIk,1128907,自动切换鞘翅的 Minecraft 模组，或许还有一些其他功能。
 ,AR2Rk3rx,1065300,经典 PlusTiC 模组的新迭代，已更新至现代 Minecraft 版本。
-,ANC2mq5D,622070,
+,,622070,
 ,d6izTMSS,821428,为 Create 列车添加装饰内容和更真实的信号系统。
 ,Fz0e9uav,698175,击败 Warden，用它的角打造 Warden Walkers。支持 Forge 与 Fabric。
 ,OjCArRMu,1096650,加入支持主世界和下界的超大型洞穴的模组！
-,HsJqzlnt,562157,
+,,562157,
 ,hJfbrSHM,961314,添加多种马铠。
 ,SRCaBfKA,316905,面向 Quilt 的 Kotlin 模组库。
 ,kmgGEmQE,705430,为朋友制作礼物。
@@ -7985,7 +7985,7 @@ name,modrinth,curseforge,description
 ,woulhAPh,1194895,可在玩家列表中显示生物上限、TPS、MSPT 和自定义行。
 ,qCh3lNQ3,1142870,将 Apotheosis 物品加入原版商人的交易。
 ,PzD3qsuR,835017,通过巨型武器皮肤扩展玩家军械库，献给最强战士。
-,hejbH2cH,1061709,
+,,1061709,
 ,S7d8HCPo,1112386,添加了一些盔甲与武器。
 ,jNGySbsv,1062293,Create: Refined Storage Recipes 是一个简单模组，用于修改 Refined Storage 的配方。
 ,uku0mmHk,1338198,在樱花林生物群系中添加一棵巨型樱花盆景树。
@@ -8079,7 +8079,7 @@ name,modrinth,curseforge,description
 ,EpJtowwl,1281838,Kaleidoscopic 是围绕颜色和 Minecraft 染料打造的建筑模组，每种颜色都有独立、独特的纹理与身份。
 ,uIWvOIUD,1148009,Create 附属模组，添加带 3D 模型且可驾驶的卡丁车。
 ,dba1h0rW,1144644,包含 Cobblemon 模组 Wiki 信息的 Knowlogy Book 附属，Cobblepedia 的继任者。
-,phgmRypS,1331280,
+,,1331280,
 ,MfuSR2k8,978233,为你最好的武器带来精美新外观。
 ,zH5ohB6D,953521,此模组为 Minecraft 添加更多矿石。
 ,tLkC4Z4Y,495003,钻石级工具现在有红色和蓝色版本！
@@ -8140,7 +8140,7 @@ name,modrinth,curseforge,description
 ,ayN3DZKb,1213351,添加许多你可能怀念的旧版 AE2 功能，引入新功能，并扩展现有内容！
 ,YqHdlLyl,1163269,为 TACZ 添加吊带槽位。
 ,H6g6MTOB,406691,结合镐、斧和铲的多功能工具，可开辟道路并给原木去皮。
-,rS3Wi0uG,1051908,
+,,1051908,
 ,xmdHQIdW,593753,End Respawn Anchor 是重生锚在末地的对应物！
 ,u4GeJrjH,539778,为 Minecraft 添加 Sculk 方块。
 ,CaQ3SZNi,1092083,允许轻度自定义夜视效果，例如完全禁用或将警告闪烁改为平滑淡出。
@@ -8366,7 +8366,7 @@ name,modrinth,curseforge,description
 ,JV5F7SD7,1195596,从 1.7.2/1.12.2 Super TNT Mod 移植，并获得原作者 Veraster 的官方支持！
 ,oM0xMumD,1294817,Valkyrien Skies 的战争与科技附属。把火炮、物理弹药和自动 VS 舰船建造带入 Minecraft！
 ,yuwM5nCb,1210504,为你的世界增添花卉内容！
-,qnnSp7wn,1103135,
+,,1103135,
 ,CB5jXuIV,1235175,让 End Remastered 兼容在末地维度添加末地传送门框架的模组，例如 Dungeons and Taverns！
 ,iN9OgYxd,977366,使用更高等级的锄头时增加作物掉落数量。
 ,vsezthDK,414667,为 TFC 添加新的装饰性和功能性方块。
@@ -8441,7 +8441,7 @@ name,modrinth,curseforge,description
 ,6EBQAueX,1110642,对 Minecraft 的游戏进展方式进行了彻底修改：boss、类似 RPG、新机制、多人游戏兼容性、武器、矿石……！
 ,xHB66bjV,951784,使犰狳在死亡时掉落 Armadillo Scute。
 ,KJY7RZyB,1059377,Vampirism 模组的插件，旨在扩展和增强吸血鬼体验。
-,t9w23vii,1377279,
+,,1377279,
 ,uVyed2La,615772,配置实体/玩家大小、跳跃高度、健康状况等！
 ,rsKBAGuE,1260384,一个小型 Create 插件模组，添加了一些地铁列车相关的装饰。需要做很多工作。
 ,wY4tPrl4,1001039,让小怪害怕爆炸的苦力怕！
@@ -8456,7 +8456,7 @@ name,modrinth,curseforge,description
 ,wxtGAtU7,1006832,减少方块实体导致的 FPS 卡顿，并可通过资源包自定义它们。EBE 的 Forge 1.16.5 移植版。
 ,9q1j6H6P,412568,删除在滴答时抛出错误并导致游戏崩溃的实体。
 ,DMDVFZSF,1197637,我们去钓鱼吧！我们收拾好装备：钓鱼竿、钓鱼帽、炸药……炸药？ Lili's Lucky Lures 增加了额外的捕鱼方式，包括鱼池和碎石池以及一系列适度的装饰块。
-,GvXQJfmX,460819,
+,,460819,
 ,lKok0HeX,682209,玩玩 XP Casino，赢取稀有奖品！
 ,s4XsH6Bm,1009732,添加鲨鱼主题郁金香！非常适合鲨鱼和花卉爱好者！
 ,p1Mus9pY,248539,冒险/探索模组
@@ -8497,9 +8497,9 @@ name,modrinth,curseforge,description
 ,bpIrRGZy,1141045,该模组由“Orange Jewel”更名为“Orange Jewel - Naruto”，更新日志：1.修复了橙色宝石模块中的各种物品生成时会异常占用要塞宝箱、要塞图书馆宝箱和末地城宝箱中战利品的问题
 ,xBGRIVGD,976667,这个模组在白雪皑皑的生物群中添加了一座新城堡，其中有一个新的生物，即冰冻僵尸。
 ,5stdM2Ky,982964,Armortip 让您比以往更轻松地了解盔甲的外观。
-,QxMzmFVS,1270418,
+,,1270418,
 ,zwAdA7N9,1030821,一个告诉玩家整合包需要 OptiFine 的模组
-,S9YqevQs,977740,
+,,977740,
 ,VQVS8mIw,392827,为 Minecraft 原版添加一些小功能，例如轻松耕作、轻松播种、可开采刷怪笼等。
 ,Oim7y3T3,854118,现代 Touhou Project 模组
 ,PSQLOzw4,1129503,增加了与 Enlightend 的碎矿石兼容性，为 Create 带来了新的物品和配方。
@@ -8508,7 +8508,7 @@ name,modrinth,curseforge,description
 ,6uNpi7nI,1273303,用新的 3D 版本替换那些扁平的 Area Effect Clouds
 ,oIjj1Fan,1448202,Enigmatic Legacy 的 1.21+ 端口。
 ,uzGzjfTz,939547,更大更好更快更长的船
-,QJlHEKj3,971798,
+,,971798,
 ,2wsNAbi3,492101,将 OptiFine 斗篷添加到快照中...
 ,RiCRCqic,793030,如果玩家直接观看物品，物品就会远离玩家
 ,c8slFMT1,921429,免费选择您自己的斗篷！无需帐户！
@@ -8579,7 +8579,7 @@ name,modrinth,curseforge,description
 ,3MDe7ltc,657209,挖掘不同类型的土壤，寻找周围爬行的小蠕虫。
 ,xwou45ik,878053,只是 1.12.2 的 stygian end 的延续
 ,MGbnuwQA,442902,原版风格的宝石、化妆品小饰品和装饰块。
-,cwTxqmHH,1074992,
+,,1074992,
 ,g75kX7aT,977960,让 Minecraft 拥有更丰富的食材处理方式！
 ,bhfJ9NWL,1148020,睡觉后寻找礼物，或者自己制作。打开食物和独特物品的包装。并赠送礼物给朋友！
 ,QDBTkwSn,820219,添加黑曜石修改钻石工具和增强下界合金工具
@@ -8590,7 +8590,7 @@ name,modrinth,curseforge,description
 ,7NDAfnWV,979396,为 Minecraft 添加 500 个新方块，并支持 Create
 ,MWKfou3h,1032770,帮助您进行农业开发，查看哪些作物超出了水的范围，或规划您的农场！
 ,QxYN8FNF,1274497,Particle Effects 是一个简单的客户端视觉 Fabric 模组，为原版 Minecraft 中的每种效果添加独特的纹理粒子！
-,ThjfSxA4,860861,
+,,860861,
 ,ujzmpF4Z,1090474,该模组为 Minecraft 添加了更多有趣的物品
 ,Y1ImNftg,373858,增强功能和原版添加，例如新工具、武器和装甲材料、生物群落、树木等等。
 ,Sah0xpk9,682878,怪物会生成可配置的更弱或更强的怪物。
@@ -8646,7 +8646,7 @@ name,modrinth,curseforge,description
 ,myj12YiC,622670,添加一个时钟，在 2 秒内发出红石信号
 ,ULqEAQK4,914419,添加原版平衡配方，用腐肉和绳子制作皮革
 ,FDrEl7QY,884860,通过添加新的熄灭方块变体，提高了 Aether 中禁止火灾的一致性。
-,2fbnUmUU,1111887,
+,,1111887,
 ,vZXBANAk,946194,添加新类型的浆果和食物
 ,AemlRrpk,485243,这是对熔炉的原版风升级——Furnace Mk2
 ,45YFF9rc,983683,分层的 paxels 组合了镐、斧头和铲子
@@ -8693,7 +8693,7 @@ name,modrinth,curseforge,description
 ,aY8vAgyv,321283,"Information overlay 使用time, foot level, 生物群系, light level, season 和hud compass."
 ,OE7OVgjk,1276898,This mod disables third-person view (f5).
 ,pLVRp7qd,1085348,允许you to equip Elytras in accessory slot
-,Pk4FE8ta,1168537,
+,,1168537,
 ,Dvn9PWjy,914262,允许you to craft Suspicious S和& Suspicious Gravel
 ,EFLJed6B,1128789,This mod 添加different funny sounds to 玩家 death.
 ,RBqpYpxt,1173187,The Ender Dragon Toy 从the Better to Play (MVS) mod as mod f或many other versions!
@@ -8703,7 +8703,7 @@ name,modrinth,curseforge,description
 ,J90dLs0h,1341317,添加一个large Villager moon outpost 到End
 ,w4h9Qxh0,980952,"Wilderness enhances minecraft's f矿石sts 由adding new, wilder variants of them"
 ,zpha6eC6,1160846,添加生物群系 variants to Iron Golems
-,9rSPp5Vd,1124160,
+,,1124160,
 ,riX6SmbI,719464,A simple mod f或1.12.2 th在添加campfires 使用high levels of customizability!
 ,4TonB1fZ,1033165,添加the ability to allow you to pack 和unpack gravel 和also improves 制造
 ,MROpwQIR,927880,"this mods 添加me在foods to 生物s like camels, wolves, horses 和many m矿石."
@@ -8748,7 +8748,7 @@ name,modrinth,curseforge,description
 ,saBU82Nh,229846,添加RF-powered 工具s to Thermal Expansion 和EnderIO
 ,SiYyDKBW,597958,A mod th在makes 生物s little bit smarter.
 ,BTBHGwP8,992046,添加一个splash of colour 到你的展示ed 物品s!
-,C9VV9vwA,1115479,
+,,1115479,
 ,VImGYoWT,1019545,A library mod f或mc_jojo3's mods.
 ,UHdgIXh2,1096149,This mod 添加a 新的Boss to Minecraft: Drowner.
 ,ClKtylZf,1025519,"New wood 在Minecraft中's Taiga! Adding gorgeous starter 方块s, while remaining grounded 在vanilla feel."
@@ -9001,7 +9001,7 @@ ModernCraft|Core,,251971,
 mod自动更新,,580090,
 mod自动更新,wHrWlTCE,580090,自动更新模组
 Mowzie的生物,BFbX9xcm,250498,Mowzie's Mobs 为 Minecraft 添加多种虚构生物，拥有独特 AI、浓厚氛围和流畅动画。挑战全新 Boss 与敌人，夺取它们的魔法能力。
-MrCrayfish 的家具,5NXZmPaM,55438,
+MrCrayfish 的家具,,55438,
 MrCrayfish 的更多家具,,486928,
 MrCrayfish的充气城堡,,285698,
 MrCrayfish的枪,,289479,
@@ -9962,10 +9962,10 @@ Yuo的更多附魔,,698171,
 开放式加载,KwWsINvD,354339,开源版Minecraft资源与数据加载器
 开放式塔防,3YawcesD,807555,通过数据包自定义塔防玩法的模组
 开放式方块,,228816,
-开放式模块化被动防御,iKkuSxwb,254332,强化围墙/栅栏等建筑组件（持续更新中）
+开放式模块化被动防御,,254332,强化围墙/栅栏等建筑组件（持续更新中）
 开放式模组库,,228815,
-开放式炮台,9gQivTAD,224663,添加可定制模块化炮塔，守卫基地抵御敌人
-开放式炮台库,XsXvXzKk,254334,OMT与OMPD的共用库文件
+开放式炮台,,224663,添加可定制模块化炮塔，守卫基地抵御敌人
+开放式炮台库,,254334,OMT与OMPD的共用库文件
 开放式电梯,hi2dSXTu,250832,将OpenBlocks电梯简单移植至1.8+版本
 开放式电脑,YiAbZis2,223008,模块化可编程的永久性计算机与机器人
 开放电台,,236839,
@@ -10426,7 +10426,7 @@ Yuo的更多附魔,,698171,
 更好的储物桶,,73510,
 更好的副手,,291090,
 更好的史莱姆,,312732,
-更好的命令方块,-1,0,
+更好的命令方块,,0,
 更好的地牢/寻找巧克力,,60265,
 更好的基岩,,223275,
 更好的天气控制,,539506,
@@ -10589,7 +10589,7 @@ Yuo的更多附魔,,698171,
 村民物品化/简单村民,,400514,
 村民配置,OClpEDe3,400741,支持数据驱动交易的高级村民配置
 村民重生,nBkFvvlR,396041,村民现在拥有床铺，并能像玩家一样重生
-来自 1.17 的铁和金,C5IWq23c,498892,添加1.17版本的粗金属锭
+来自 1.17 的铁和金,,498892,添加1.17版本的粗金属锭
 来自外太空的激光爬行者机器恐龙骑士,,229086,
 极光幽境,LizDpfct,352137,包含BOSS进度、工具系统、多样化地牢探索的维度模组！
 极简血量显示,Ins7SzzR,639987,为现代MC玩家设计的极简功能单位框架
@@ -10891,7 +10891,7 @@ Yuo的更多附魔,,698171,
 火花,l6YH9Als,361579,spark是Minecraft客户端、服务端及代理的性能分析工具。
 灭,,644015,
 灭火器,GlhPy70K,567225,灭火器、消防斧等必备工具能有效扑灭火灾。
-灭霸手套,TnnyrDbS,312404,
+灭霸手套,,312404,
 灯具拓展,,335051,
 灯纟火,U8ElprVE,0,为悉昙文及社群设计的模组。萤火虫携光夜行，明灭双眸只为照亮未来。
 灵感,ZiHTbJ44,284007,添加符合原版风格的小功能合集。
@@ -10940,7 +10940,7 @@ Yuo的更多附魔,,698171,
 熔岩收集器,,485948,
 熔岩科技,,533955,
 熔岩魔靴饰品,,319192,
-熔炉性能优化,aYS7rVtm,299540,
+熔炉性能优化,,299540,
 熔炉性能优化Fabric版,,364540,
 熔炉改革,,262742,
 蒸汽动力,,534610,
@@ -11296,7 +11296,7 @@ Yuo的更多附魔,,698171,
 简单经济,,490247,
 简单经济：牌子商店,,493072,
 简单翻译,,521800,
-简单联机,IHrcCANt,255025,
+简单联机,,255025,
 简单背包,,383999,
 简单营火,,271615,
 简单虚空世界,,254466,
@@ -11486,7 +11486,6 @@ Yuo的更多附魔,,698171,
 背刺,,302479,
 背包,,352835,
 背包内食用,,601757,
-背包内食用,-1,601757,
 背包同步,,462662,
 背包宠物,hrbIt8wl,229380,Inventory Pets 是生活在物品栏中的动画生物，经过照料和喂食后可提供强大特效、掉落、增益、实用功能、防御和武器。
 背包工作台,,232597,
@@ -11508,7 +11507,7 @@ Yuo的更多附魔,,698171,
 能量基本,,320972,
 能量桥接器,,254818,
 脚步声,rcTfTZr3,334259,..一个过度复杂的音效模组...
-脚步声Forge版,IIjfBeV8,433068,
+脚步声Forge版,,433068,
 脱水,qWDh3G0p,410830,记得及时补水！
 腐烂生物,5Zusp48B,371033,《腐烂生物》是一款为Minecraft添加大量酷炫新僵尸生物的模组！
 腐肉换皮革,8nIicBYu,247136,允许将腐肉转化为皮革
@@ -11752,7 +11751,7 @@ Yuo的更多附魔,,698171,
 路标,,261837,
 路由重生,,223808,
 跳舞树成长,,246764,
-跳舞生长一切,JRVv89YO,414640,
+跳舞生长一切,,414640,
 跳跃的船（Fabric/Quilt）,,615448,
 转运器,WIxTuRkQ,229318,物质传送装置！
 软碲铜,,274978,
@@ -12070,8 +12069,8 @@ Yuo的更多附魔,,698171,
 魔女的扫帚,,457113,
 魔幻世界,,282940,
 魔戒：传承,,423748,
-魔戒口袋内容展示,-1,689531,
-魔戒攻击指示器,-1,695317,
+魔戒口袋内容展示,,689531,
+魔戒攻击指示器,,695317,
 魔术师,84MLqQxZ,377798,新增唤魔师变种——魔法师（The Conjurer）
 魔法乐器,,229516,
 魔法作物,,228834,
