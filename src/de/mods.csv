@@ -8825,8 +8825,6 @@ name,modrinth,curseforge,description
 ,l1GwAgmU,700741,"Apocalyptic Fortress ist eine Überarbeitungsmod für Netherfestungen, die Gameplay und Optik der Struktur verbessert."
 ,XqqOkvZz,1284716,Inoffizieller Carpet Mod Port für NeoForge
 "„Die Biome, zu denen du gehen wirst“ Fix-Mod",,518623,
-"Ara-Brücke: Das Biom,s4B19O5h,535960,535960,"Erkennen Sie die Kompatibilität zwischen dem Ara-Modul und verschiedenen Holz- und Steinmaterialien in „Das Biom, in das Sie gehen werden/Wir sind gegangen“"
-"Ara-Möbel: Das Biom,z9puNODX,714367,714367,Macaw-Möbel sind mit BYG-Holz kompatibel
 "Behalten Sie sie im Auge, bis sie reif sind!",,404087,
 "Berge, Felsen",,376298,
 "Biome, die Sie besuchen werden+",,488573,
@@ -8837,22 +8835,17 @@ name,modrinth,curseforge,description
 "Einfacher, klarer Chat",,64970,
 "Elemente, die platziert werden können",,227951,
 "Epischer Ritter: Schilde, Rüstungen und Waffen",,509041,
-"Epischer Ritter: Schilde,L6jvzao4,509041,509041,Mittelalterliche Rüstungen und Waffen hinzugefügt
 „Fluss“-Maschinen,2s2tmYs0,395269,Fluxifiziert das Mekaverse.
-"Fühlen Sie sich frei,JmtW1Cr5,396245,396245,"Umfassendes Patch-Set: Enthält Korrekturen und Optimierungen wie konfigurierbare Verbindungs-Timeouts, Geschwindigkeitsbegrenzungen für Spieler und mehr"
 "Fühlen Sie sich frei, die Feinabstimmung vorzunehmen",,258205,
-"Ich weiß,S5ivha5X,271492,271492,Blockieren Sie Tutorial-Eingabeaufforderungen für neue Archive
 "Ja, Steve-Modell",784675,784675,"Ein Modul, das das ursprüngliche Spielermodell modifiziert"
 "Klicken Sie mit der rechten Maustaste, um zu ernten",,517494,
 "Komprimiertes, verbessertes Kupfer",,560139,
 "Leider haben wir nicht genug Geld, um Ihnen einen Ender-Drachen zur Verfügung zu stellen",yCRIA162,0,"Töte den Enderdrachen automatisch, wenn die Welt generiert wird"
-"Macaw's Rooftops: Das Biom,smN4zlYE,577356,577356,Fügen Sie BYG-Holz zum Ara-Dach hinzu
 "Pssst, wecken Sie den Hund nicht",,334098,
 "Super Veränderung, Veränderung",,250075,
 "Verdammt, ich wollte das nicht machen, aber ich habe es geschafft ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",2Cmqga2h,0,"Moment, ich wollte das nicht tun, aber irgendwie... Nein——————!"
 "Verloren, aber gefangen",tHXHhTuc,570855,Holen Sie verlorene Gegenstände durch Angeln zurück!
 "Waffen, Kanonen, Atombomben!",,405952,
-"Zäune und Mauern des Aras: Die Biome,YwnqoRu0,620582,620582,Fügen Sie BYG-Holz zum Ara-Zaun hinzu
 "Zusätzlicher Spieler, der die Rift-Version rendert",UgsSxscN,0,Fügen Sie dem Bildschirm einen zusätzlichen Player-Renderer hinzu
 [AS]Verlorene Ruinen,TWsbC6jW,297680,"Über 200 neue architektonische Strukturen hinzugefügt, die sich perfekt in die Welt einfügen"
 [CEI] Mechanische Kraft: Verzauberungsindustrie,JWGBpFUP,688768,"Verwenden Sie „Erstellen“, um eine automatische Verzauberung zu implementieren"
@@ -8990,11 +8983,13 @@ Aquakultur 2,Vl1uNAuy,60028,"Peppt das Angeln mit vielen neuen biom-spezifischen
 Äquivalente Exchange Remastered Edition,,226410,
 Äquivalente Integration,,298341,
 Ara-Brücke,GURcjz8O,351725,"Ein einfaches Modul, das eine Vielzahl von Brücken hinzufügt"
+Ara-Brücke: Das Biom,s4B19O5h,535960,"Erkennen Sie die Kompatibilität zwischen dem Ara-Modul und verschiedenen Holz- und Steinmaterialien in „Das Biom, in das Sie gehen werden/Wir sind gegangen“"
 Ara-Dach,B8jaH3P1,352039,Ersetzen Sie die Treppenkonstruktion durch echte Dachkomponenten
 Ara-Dach: Viele angeschlossene Biome,5uSvd1Ca,558344,Multikompatible Module für Module der TerraformersMC-Serie
 Ara-Gemälde,okE6QVAY,438116,"Fügen Sie handgezeichnete Gemälde hinzu, um Ihre Welt zu dekorieren!"
 Ara-Möbel,dtWC90iB,359540,"Fügen Sie Kleiderschränke, Schubladen, Tische, Stühle und andere Dekorationen hinzu"
 Ara-Möbel: an vielen Biomen befestigt,XQ6CZtXV,683252,Macaw-Möbel sind mit BoP-Holz kompatibel
+Ara-Möbel: Das Biom,z9puNODX,714367,Macaw-Möbel sind mit BYG-Holz kompatibel
 Arachnophobie,,250306,
 Aras Falltür,n2fvCDlM,400933,Allen Plankenvarianten wurden Original-Falltüren sowie eine Vielzahl neuer Spezial-Falltüren hinzugefügt!
 Aras Fenster,C7I0BCni,363569,"Eine Vielzahl neuer Fenster, Mosaikglas, Jalousien, Sonnenblenden, Vorhänge und andere dekorative Blöcke hinzugefügt!"
@@ -9758,6 +9753,7 @@ Entwickle Monster weiter,,285082,
 Epic Battle: ACG-Zubehörpaket,ZkIAysFg,665625,Erweiterung für den Epic Battle Mod
 Epische Belagerung,,229449,
 epische Schlacht,vu3NZ5Ma,405076,Ändern Sie das Kampfsystem in den seelenähnlichen Modus
+Epischer Ritter: Schilde,L6jvzao4,509041,Mittelalterliche Rüstungen und Waffen hinzugefügt
 ER-Kern,,702132,
 Erde,,241049,
 Erdgeist-Wolkenherz/Seebaum-Bergblume,,244870,
@@ -9981,6 +9977,7 @@ freundliches Monster,,269962,
 Frost (frostig),Ae6qoBj3,715248,Kryomodul im Originalstil – ein Gegenstück zu Scorchful!
 FTB-Backup 2,,622737,
 FTB-Bibliothek (alte Version),,237167,
+Fühlen Sie sich frei,JmtW1Cr5,396245,"Umfassendes Patch-Set: Enthält Korrekturen und Optimierungen wie konfigurierbare Verbindungs-Timeouts, Geschwindigkeitsbegrenzungen für Spieler und mehr"
 Führe die Dorfbewohner,,318410,
 Funke,l6YH9Als,361579,"Spark ist ein Leistungsanalysetool für Minecraft-Clients, -Server und -Agenten."
 funktionale Aufbewahrung,cO40ZIg3,556861,FUNKTIONELLE LAGERUNG: Eine revolutionäre Version der Schubladenaufbewahrung mit neuem Look und zusätzlicher Funktionalität!
@@ -10271,6 +10268,7 @@ IC2-Expression,,242917,
 Ich habe das letzte Wort,,597627,
 Ich kann nicht aufhören zu essen,,318749,
 Ich mache einfach ein Nickerchen,,307416,
+Ich weiß,S5ivha5X,271492,Blockieren Sie Tutorial-Eingabeaufforderungen für neue Archive
 ID-Limit erhöhen,,235107,
 Igel,,561115,
 IGI-Informationserweiterung,,656866,
@@ -10625,6 +10623,7 @@ Ma-Verzauberung,,351113,
 Macaw's Bridge: Abnormals-Partner,jZrq3qzM,621057,"Diese Mod bietet Mehrfach-Kompatibilität für die Mods des Abnormals Team, egal ob Buzzier Bees, Environmental oder Upgrade Aquatic."
 Macaw's Bridge: Aurora-Partner,vPHgBokb,648883,Multi-Mod-Kompatibilitätsunterstützung für Aurora Team Mods (Enhanced Mushrooms/Bayou Blues/Plenty Symbiosis usw.)
 Macaw's Bridge: Modding Legacy Affiliate,,696071,
+Macaw's Rooftops: Das Biom,smN4zlYE,577356,Fügen Sie BYG-Holz zum Ara-Dach hinzu
 Magic City Legend 3D,,521723,
 Magic Crops: Wiedergeburt,,515338,
 Magische Bibliothek,mv1zH6ln,576459,Magie gegen Magie
@@ -12053,6 +12052,7 @@ Zauberschule: Zweites Semester,,491624,
 Zauberspiegel,I6a5IY5k,323750,"Ein multifunktionaler Zauberspiegel, der das Bild des Spielers widerspiegelt"
 Zaubertrank,,289330,
 Zauberwald,,383666,
+Zäune und Mauern des Aras: Die Biome,YwnqoRu0,620582,Fügen Sie BYG-Holz zum Ara-Zaun hinzu
 Zäune und Mauern des Aras: Viele angeschlossene Biome,Tanquv9C,605641,Macaw-Module sind mit BoP-Holz kompatibel
 Zeilenumbruch behoben,,576946,
 Zeitalter der Waffen,cJz6vYNZ,265090,"Fügen Sie eine große Anzahl neuer Waffen hinzu, die auf verschiedenen Epochen und Hintergründen basieren"
