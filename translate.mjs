@@ -1,22 +1,10 @@
 import { readFileSync, writeFileSync, readdirSync } from "fs"
+import { chat } from "./agnes.mjs"
 
 const dirs = readdirSync("src");
 const allowedLocales = ["zh-cn"];
 
-export const chat = (messages) => {
-    const key = process.env.DEEPSEEK_API_KEY;
-    return fetch("https://api.deepseek.com/chat/completions", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            Authorization: `Bearer ${key}`,
-        },
-        body: JSON.stringify({
-            model: "deepseek-chat",
-            messages,
-        }),
-    }).then((resp) => resp.json());
-};
+export { chat };
 
 const example = JSON.stringify({
     xl3myxch: "Library Mod required by all of ApexStudios' mods",
@@ -30,7 +18,7 @@ const exampleOut = JSON.stringify({
     WXDvMkR5: '禁用"实验性世界设置"警告界面',
 })
 
-async function translateByDS(locale, descriptions) {
+async function translateDescriptions(locale, descriptions) {
     const resp = await chat([
         {
             role: "system",
@@ -125,7 +113,7 @@ async function main() {
 
                         console.log('resolvedDescriptions', resolvedDescriptions)
 
-                        const translated = await translateByDS(locale, Object.fromEntries(resolvedDescriptions.map((resolved) => [resolved.row[1], resolved.descrption])));
+                        const translated = await translateDescriptions(locale, Object.fromEntries(resolvedDescriptions.map((resolved) => [resolved.row[1], resolved.descrption])));
 
                         for (let i = 0; i < resolvedDescriptions.length; i += 1) {
                             const { row, descrption } = resolvedDescriptions[i]

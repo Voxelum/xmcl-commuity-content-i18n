@@ -1,20 +1,5 @@
 import { readFileSync, writeFileSync } from "fs";
-
-const chat = (messages) => {
-    const key = process.env.DEEPSEEK_API_KEY;
-    if (!key) throw new Error("DEEPSEEK_API_KEY not set");
-    return fetch("https://api.deepseek.com/chat/completions", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            Authorization: `Bearer ${key}`,
-        },
-        body: JSON.stringify({
-            model: "deepseek-chat",
-            messages,
-        }),
-    }).then((resp) => resp.json());
-};
+import { chat } from "./agnes.mjs";
 
 const example = JSON.stringify({
     xl3myxch: "Library Mod required by all of ApexStudios' mods",
@@ -28,7 +13,7 @@ const exampleOut = JSON.stringify({
     WXDvMkR5: 'Відключити екран попередження "експериментальних параметрів світу"',
 });
 
-async function translateByDS(locale, descriptions) {
+async function translateDescriptions(locale, descriptions) {
     const resp = await chat([
         {
             role: "system",
@@ -97,7 +82,7 @@ async function translateShard(shardName, locale = null) {
         console.log(`  Translating batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(entries.length / batchSize)}`);
         
         try {
-            const result = await translateByDS(locale, batchObj);
+            const result = await translateDescriptions(locale, batchObj);
             Object.assign(translated, result);
         } catch (e) {
             console.error(`  Error translating batch: ${e.message}`);

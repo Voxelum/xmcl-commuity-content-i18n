@@ -21,7 +21,7 @@ jobs:
           node ./translate.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          AGNES_KEY: ${{ secrets.AGNES_KEY }}
           CRON: ${{ github.event_name == 'schedule' }}
       - name: Send PR
         id: create_pull_request

@@ -4,7 +4,7 @@
 Prepared translation infrastructure for Minecraft mod descriptions to Japanese (ja-011, ja-012, ja-013).
 
 ## Files Created
-- `translate-ja.mjs` - Direct Node.js translation script using DeepSeek API
+- `translate-ja.mjs` - Direct Node.js translation script using Agnes AI API
 - `translate-shard.mjs` - Modified to auto-detect locale from shard name  
 - `.github/workflows/translate-ja-shards.yml` - GitHub Actions workflow
 - `.github/workflows/debug-translation.yml` - Debug workflow (can be deleted)
@@ -18,7 +18,7 @@ Prepared translation infrastructure for Minecraft mod descriptions to Japanese (
 
 ### Option 1: Local Execution (Recommended)
 ```bash
-export DEEPSEEK_API_KEY='sk-...'
+export AGNES_KEY='your-api-key'
 node translate-shard.mjs ja-011
 node translate-shard.mjs ja-012  
 node translate-shard.mjs ja-013
@@ -37,7 +37,7 @@ gh workflow run translate-ja-shards.yml -R Voxelum/xmcl-commuity-content-i18n
 - Comprehensive error handling and logging
 
 ## Translation Quality Notes
-DeepSeek Chat model configured with system prompt to:
+Agnes AI (agnes-2.0-flash) model configured with system prompt to:
 - Translate descriptions to target locale
 - Keep technical terms (mod names, brand names, proper nouns) untranslated
 - Output valid JSON

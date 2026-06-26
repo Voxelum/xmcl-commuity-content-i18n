@@ -1,42 +1,31 @@
 #!/usr/bin/env node
 
 import { readFileSync, writeFileSync } from "fs";
+import { chat } from "./agnes.mjs";
 
-const API_KEY = process.env.DEEPSEEK_API_KEY;
+const API_KEY = process.env.AGNES_KEY;
 if (!API_KEY) {
-    console.error("ERROR: DEEPSEEK_API_KEY environment variable is not set");
-    console.error("Set it with: export DEEPSEEK_API_KEY='your-api-key'");
+    console.error("ERROR: AGNES_KEY environment variable is not set");
+    console.error("Set it with: export AGNES_KEY='your-api-key'");
     process.exit(1);
 }
 
-async function translateWithDeepSeek(locale, descriptions) {
+async function translateDescriptions(locale, descriptions) {
     const prompt = `You are an assistant of a Minecraft mod developer. You are asked to translate the mod description into different languages by locale code. Users will input a json, which key is the project id, and the value is description. You should translate each description into the target locale and output a json raw text directly. Keep mod names, brand names, and proper nouns in English/Latin script untranslated.`;
-    
-    const response = await fetch("https://api.deepseek.com/chat/completions", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            "Authorization": `Bearer ${API_KEY}`,
-        },
-        body: JSON.stringify({
-            model: "deepseek-chat",
-            messages: [
-                {
-                    role: "system",
-                    content: prompt
-                },
-                {
-                    role: "user",
-                    content: `Translate following into ${locale}:\`\`\`json\n${JSON.stringify(descriptions)}\n\`\`\``
-                }
-            ]
-        }),
-    });
 
-    const data = await response.json();
-    
-    if (!response.ok || data.error) {
-        throw new Error(`DeepSeek API error: ${data.error?.message || response.statusText}`);
+    const data = await chat([
+        {
+            role: "system",
+            content: prompt
+        },
+        {
+            role: "user",
+            content: `Translate following into ${locale}:\`\`\`json\n${JSON.stringify(descriptions)}\n\`\`\``
+        }
+    ]);
+
+    if (data.error) {
+        throw new Error(`Agnes API error: ${data.error?.message || JSON.stringify(data.error)}`);
     }
 
     let content = data.choices[0].message.content;
@@ -78,7 +67,7 @@ async function translateShard(shardName, locale = "ja") {
         console.log(`  Translating batch ${batchNum}/${totalBatches}...`);
         
         try {
-            const result = await translateWithDeepSeek(locale, batchObj);
+            const result = await translateDescriptions(locale, batchObj);
             Object.assign(translated, result);
         } catch (e) {
             console.error(`  Error: ${e.message}`);
