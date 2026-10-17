@@ -4,6 +4,7 @@ import { join } from 'path'
 const dirs = readdirSync('src')
 
 for (const locale of dirs) {
+    if (locale === 'ru') continue
     const path = join('src', locale)
     if (statSync(path).isDirectory()) {
         const files = readdirSync(path)
@@ -15,6 +16,9 @@ for (const locale of dirs) {
         }
         if (files.includes('resourcepacks.csv')) {
             sort(locale, 'resourcepacks')
+        }
+        if (files.includes('shaderpacks.csv')) {
+            sort(locale, 'shaderpacks')
         }
     }
 }

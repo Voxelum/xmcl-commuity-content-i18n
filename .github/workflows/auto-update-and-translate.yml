@@ -1,0 +1,114 @@
+name: Auto-update and Translate
+
+on:
+  schedule:
+    # Run daily at 02:00 UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      sync:
+        description: 'Sync new mods, resourcepacks, shaders from upstream database'
+        type: boolean
+        default: true
+      translate_modpacks:
+        description: 'Fetch and translate top modpacks'
+        type: boolean
+        default: true
+      translate_items:
+        description: 'Translate untranslated mods, resourcepacks, shaders'
+        type: boolean
+        default: true
+      provider:
+        description: 'Translation engine: google (free, no key needed) or agnes (AI)'
+        type: choice
+        options:
+          - google
+          - agnes
+        default: 'google'
+      locales:
+        description: 'Target locales (comma-separated, e.g. ja,pl,hi,it,be,kk or all)'
+        type: string
+        default: 'all'
+      quota_per_locale:
+        description: 'Translation quota per locale'
+        type: string
+        default: '100'
+      direct_push:
+        description: 'Push directly to main branch (if false, creates a Pull Request)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Sync latest mods/resourcepacks/shaders from upstream database
+        if: ${{ github.event_name == 'schedule' || inputs.sync }}
+        run: node sync.mjs
+
+      - name: Sync and translate top modpacks
+        if: ${{ github.event_name == 'schedule' || inputs.translate_modpacks }}
+        env:
+          AGNES_KEY: ${{ secrets.AGNES_KEY }}
+          TRANSLATION_PROVIDER: ${{ inputs.provider || 'google' }}
+        run: node translate-modpacks.mjs
+
+      - name: Translate untranslated descriptions
+        if: ${{ github.event_name == 'schedule' || inputs.translate_items }}
+        env:
+          AGNES_KEY: ${{ secrets.AGNES_KEY }}
+          TRANSLATION_PROVIDER: ${{ inputs.provider || 'google' }}
+          CRON: ${{ github.event_name == 'schedule' }}
+          TARGET_LOCALES: ${{ (inputs.locales && inputs.locales != 'all') && inputs.locales || '' }}
+          QUOTA_PER_LOCALE: ${{ inputs.quota_per_locale || '100' }}
+        run: node translate.mjs
+
+      - name: Sort CSV tables
+        run: node sort.mjs
+
+      - name: Validate CSV tables
+        run: node validate.mjs --fix
+
+      - name: Direct Push (if direct_push enabled)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.direct_push }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/
+          git commit -m "Auto-update community content and translations [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Create Pull Request (default)
+        if: ${{ github.event_name == 'schedule' || !inputs.direct_push }}
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Auto-update community content and translations"
+          title: "Auto-update community content and translations"
+          body: |
+            Automated update:
+            - Synchronized new mods, resourcepacks, and shaders from upstream database (excluding `ru`)
+            - Synchronized and translated top modpacks (excluding `ru`)
+            - Added machine translations for untranslated descriptions across all target locales
+            - Sorted and validated all CSV tables
+          branch: "auto-update-content"
+          base: "main"
+          labels: "automated, translate"
+          draft: false

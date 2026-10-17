@@ -5,6 +5,11 @@ on:
   # manual trigger
   workflow_dispatch:
 name: Sync with database
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest

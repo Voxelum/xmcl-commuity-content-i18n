@@ -2,7 +2,7 @@
 
 This repo contains the i18n for community content like mods, resource packs, and shaders for XMCL.
 
-[Русский README здесь](./README.ru.md) [Українська README тут](./README.uk.md) [Deutsches README hier](./README.de.md) [Polskie README tutaj](./README.pl.md) [日本語 READMEはこちら](./README.ja.md) [Version française ici](./README.fr.md) [简体中文 README](./README.md)
+[Українська README](./README.uk.md) [Deutsches README](./README.de.md) [Polskie README](./README.pl.md) [日本語 README](./README.ja.md) [Version française](./README.fr.md) [Italiano README](./README.it.md) [Беларуская README](./README.be.md) [Қазақша README](./README.kk.md) [हिन्दी README](./README.hi.md) [Русский README](./README.ru.md) [简体中文 README](./README.md)
 
 ## Why we need this repo?
 

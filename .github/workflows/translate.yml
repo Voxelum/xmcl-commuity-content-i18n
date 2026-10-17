@@ -4,6 +4,11 @@ on:
   - cron: 0 20 * * *
   workflow_dispatch:
 name: Translate description
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   translate-description:
     runs-on: ubuntu-latest

@@ -16,11 +16,11 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 // English is the source language: its CSV keeps an empty description because
 // the launcher falls back to the original Modrinth description for English.
-const SOURCE_LOCALE = "en"
+const EXCLUDED_LOCALES = new Set(["en", "ru"])
 
 function getTargetLocales() {
     return readdirSync("src").filter(
-        (locale) => locale !== SOURCE_LOCALE && existsSync(join("src", locale, "modpacks.csv"))
+        (locale) => !EXCLUDED_LOCALES.has(locale) && existsSync(join("src", locale, "modpacks.csv"))
     )
 }
 
@@ -83,6 +83,7 @@ function indexByIds(rows) {
 // Make sure every top modpack has a row in every locale CSV (empty description).
 function ensureRows(modpacks) {
     for (const locale of readdirSync("src")) {
+        if (EXCLUDED_LOCALES.has(locale)) continue
         const path = join("src", locale, "modpacks.csv")
         if (!existsSync(path)) continue
         const { header, rows } = readCsv(path)
@@ -165,12 +166,39 @@ async function translateBatch(targetLocales, batch) {
     }
 }
 
+async function translateWithGoogleSingle(text, targetLocale) {
+    const lang = targetLocale.toLowerCase() === "zh-cn" ? "zh-CN" : targetLocale
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${lang}&dt=t&q=${encodeURIComponent(text)}`
+    const resp = await fetch(url)
+    if (!resp.ok) {
+        throw new Error(`Google Translate API HTTP ${resp.status}`)
+    }
+    const data = await resp.json()
+    if (!data || !data[0]) return text
+    return data[0].map((item) => item[0]).join("")
+}
+
 // Translate an array of [id, description] entries, automatically splitting the
 // batch in half and retrying if the model returns oversized/invalid JSON (e.g.
 // the response got truncated). This keeps batches large for efficiency while
 // still recovering from the occasional bad response.
 async function translateEntries(targetLocales, entries, into) {
     if (entries.length === 0) return
+    if (!process.env.AGNES_KEY) {
+        // Fallback to free Google Translate
+        for (const [id, description] of entries) {
+            into[id] = into[id] || {}
+            for (const locale of targetLocales) {
+                try {
+                    into[id][locale] = await translateWithGoogleSingle(description, locale)
+                    await sleep(100)
+                } catch (e) {
+                    console.warn(`  [${locale}] Google translate failed for modpack ${id}: ${e.message}`)
+                }
+            }
+        }
+        return
+    }
     const batch = Object.fromEntries(entries)
     try {
         const result = await translateBatch(targetLocales, batch)

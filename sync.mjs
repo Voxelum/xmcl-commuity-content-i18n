@@ -27,12 +27,15 @@ async function sync() {
     console.log('domains', Object.entries(groupByDomain).map(v => [v[0], v[1].length]))
 
     for (const locale of readdirSync('src')) {
+        if (locale === 'ru') {
+            continue
+        }
         const path = join('src', locale)
         for (const file of readdirSync(path)) {
             if (file.endsWith('.csv')) {
                 const csvFile = join(path, file)
                 const fileContent = readFileSync(csvFile, 'utf-8')
-                const lines = fileContent.split('\n')
+                const lines = fileContent.split('\n').filter(l => l.trim().length > 0)
 
                 const byDomain = groupByDomain[file.split('.')[0]]
 
@@ -57,11 +60,13 @@ async function sync() {
                 
                 // insert byDomain row if csvContent does not have it
                 for (const [modrinth, curseforge] of byDomain) {
-                    if (!index[modrinth] && !index[curseforge]) {
+                    const hasModrinth = index[modrinth] !== undefined
+                    const hasCurseforge = index[curseforge] !== undefined
+                    if (!hasModrinth && !hasCurseforge) {
                         csvContent.push(['', modrinth, curseforge, ''])
-                    } else if (index[modrinth] && !index[curseforge]) {
+                    } else if (hasModrinth && !hasCurseforge) {
                         csvContent[index[modrinth]][2] = curseforge
-                    } else if (!index[modrinth] && index[curseforge]) {
+                    } else if (!hasModrinth && hasCurseforge) {
                         csvContent[index[curseforge]][1] = modrinth
                     }
                 }

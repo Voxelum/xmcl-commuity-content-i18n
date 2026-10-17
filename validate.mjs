@@ -23,6 +23,9 @@ for (const locale of dirs) {
         if (files.includes('resourcepacks.csv')) {
             validate(locale, 'resourcepacks')
         }
+        if (files.includes('shaderpacks.csv')) {
+            validate(locale, 'shaderpacks')
+        }
     }
 }
 

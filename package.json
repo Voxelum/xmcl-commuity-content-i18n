@@ -5,11 +5,13 @@
     "sort": "node sort.mjs",
     "sync": "node sync.mjs",
     "validate": "node validate.mjs",
+    "translate": "node translate.mjs",
     "translate-modpacks": "node translate-modpacks.mjs",
+    "auto-update": "node sync.mjs && node translate.mjs && node sort.mjs && node validate.mjs",
     "build": "node generate-sqlite.js"
   },
   "dependencies": {
     "jsonrepair": "^3.14.1",
-    "node-sqlite3-wasm": "^0.8.16"
+    "node-sqlite3-wasm": "^0.8.61"
   }
 }
