@@ -426,7 +426,7 @@ name,modrinth,curseforge,description
 ,NPCfuUI4,913400,Cobblemon的各类模组兼容包
 ,sRzS8pFG,952435,为Minecraft加入毛茸茸的仓鼠！
 ,78ZQG4Et,550916,Taterzens扩展：创建GUI交易员
-,R6PYx1PW,450603,🐟 副手持铃时，钓鱼上钩自动响铃
+,ZeRQIPEB,450603,🐟 副手持铃时，钓鱼上钩自动响铃
 ,L23x7zL8,238603,Minecraft低技术力计算系统
 ,TggYmc6t,410224,更严酷的环境挑战
 ,mfHP09ru,585081,新增中世纪奇幻风格画作
@@ -560,7 +560,7 @@ name,modrinth,curseforge,description
 ,sbJh4AZw,361026,以可召唤灵魂为核心的仪式魔法系统，支持自动化任务、海量物品存储、恶魔虚空采矿、强力附魔工具/珠宝制作、使魔辅助等丰富功能
 ,OkmRZ5fH,636003,使凋灵行为更接近基岩版
 ,kVa5y52B,319194,助力建筑的多样化玻璃类型
-,CEgQm5YJ,357540,将主物品栏、药水效果和装备显示到 HUD，并提供少量其他功能。
+,Kp2uclYl,357540,将主物品栏、药水效果和装备显示到 HUD，并提供少量其他功能。
 ,OIVHMITc,994391,助力在MC还原《FNaF：安全漏洞》的模组
 ,CT0O8jbT,669167,新增披萨等美食！现已登陆Modrinth！
 ,TQTTVgYE,349239,全面掌控你的原版游戏体验
@@ -1199,7 +1199,7 @@ name,modrinth,curseforge,description
 ,GkIc6rRo,955605,CERBON模组的库文件
 ,UsLNxQgK,454382,强化精妙存储的出口/进口/构造/破坏/磁盘操作/接口/请求器
 ,1zZJrh9c,570050,铁路与水运交通模组
-,6b2RpJpx,474612,为起源模组扩展更多快捷键
+,vzxBRBiJ,474612,为起源模组扩展更多快捷键
 ,24CSPS1E,666942,想知道你的马匹真正实力如何？查看它们的属性统计吧！
 ,p1WH6sHr,852533,踏入恐惧与神秘的迷雾世界——《From The Fog》模组将传说中的Herobrine以沉浸式惊悚体验完美还原。
 ,KkxAa5Ed,352557,基于《进击的巨人》的Minecraft模组
@@ -1296,7 +1296,7 @@ name,modrinth,curseforge,description
 ,9q4wtMjp,877545,群峦传说拓展：新增树木/木材与采树脂配方
 ,pxcPUxNg,355910,以冒险探索为核心添加Herobrine
 ,uRSeGBg3,582149,村民简易化模组（服务端可用）
-,YDOf2ZPv,902233,禁用村庄生成
+,BHCrWnHJ,902233,禁用村庄生成
 ,DNECjG17,887125,我的模组共享代码库
 ,PGBgocFc,347635,🚪 自动开关周围的门（延迟可配置）
 ,tG6HkcWx,410743,🐝 可调节蜜蜂体型/群组生成/蜂巢容量/螫刺功能等
@@ -1469,7 +1469,7 @@ name,modrinth,curseforge,description
 ,jJthQvHv,417439,为游戏添加大量独特且平衡的附魔效果
 ,1qeWG44Y,579886,Apoli/起源模组的支持库，用于特定模组/数据包
 ,4RYXbwYJ,274782,可禁用世界生成的简易模组
-,GBB5TIXx,932466,添加现代军事战术护甲的模组
+,518JYCyS,932466,添加现代军事战术护甲的模组
 ,Bc9bwujS,377313,优化耕地践踏机制的实用调整
 ,OVb8ZE5p,709585,修复船只在特定高度坠落时损毁的漏洞
 ,aVBESYAJ,676133,修补涉及实体穿门死亡导致的复制漏洞
@@ -1954,7 +1954,7 @@ name,modrinth,curseforge,description
 ,vbBQ6dVH,513524,Fabric地毯模组扩展，提供趣味功能
 ,YWZbIwtC,933960,🎵 临时显示当前播放曲目的GUI提示
 ,9o4YEocr,537738,在玩家背部渲染最后使用的工具
-,CllP7wW0,1115285,Almanac是我的模组共用库，包含多模组通用代码以避免重复
+,7BgsROit,1115285,Almanac是我的模组共用库，包含多模组通用代码以避免重复
 ,cE5SLYbv,621377,为支持的灯笼添加臀部饰品槽！动态光照需配合动态光照模组使用
 ,ilfn0HT9,690182,LudoCrypt动态音乐的分支版本！
 ,N6n5dqoA,1162908,全能 Minecraft 世界编辑器
@@ -2427,7 +2427,7 @@ name,modrinth,curseforge,description
 ,cUtsYbG5,576287,支持安装mcinstance格式模组包（可包含覆盖文件与下载项）
 ,qcz8IJ9L,839908,维系星系的无形之力
 ,hgNzwsf3,357362,新增多种栅栏方块变体
-,SBkd4mrC,849595,为游戏添加寄生突变生物
+,r0zJa8lV,849595,为游戏添加寄生突变生物
 ,NazssWmx,897227,新增多种陶器碎片，完美兼容原版及其他模组的碎片系统
 ,9vlChzlU,523830,🌾 加速作物收割/增大锄地范围/可逆向锄地还原土块
 ,1r5vvCad,930056,👻 2023恐怖主题：当心夜间的花朵...它们可能异变成怪物！
@@ -2871,7 +2871,7 @@ name,modrinth,curseforge,description
 ,bvgy8HrZ,958065,ComputerCraft与Valkyrien Skies的简易联动组件
 ,KjNUIZp9,813116,🌌 将末地转化为月球景观
 ,D5h9NKNI,962916,指南书API与Patchouli替代方案
-,njGhQ4fN,388458,高亮REI当前搜索匹配物品
+,lB7BzIIv,392023,高亮REI当前搜索匹配物品
 ,dQcfqGbl,968456,水晶巢穴API
 ,BfY01IQg,911145,通过KubeJS脚本为玩家添加自定义披风
 ,TPmUIZPB,301169,自动收集即将消失的物品
@@ -2889,7 +2889,7 @@ name,modrinth,curseforge,description
 ,yTSyrZpM,911826,移植基岩版的炼药锅酿造功能
 ,MBKJWOuQ,422087,为数据包物品添加工具提示和JEI信息的模组
 ,5X1XkrKL,556321,增强世界的自然风貌！
-,uq8RUJSn,690473,Big Swords R 向游戏添加巨剑、长柄刀、镰刀和盾牌。
+,edrOLdWE,690473,Big Swords R 向游戏添加巨剑、长柄刀、镰刀和盾牌。
 ,HSmTuSaW,306555,为旧版MC添加切换音频设备的功能
 ,WuKy9y7l,1096864,允许将Create模组的背罐放入Curios槽位
 ,7RTcs7yj,1058059,用魔法灌注武器与身体进行战斗！
@@ -4202,7 +4202,7 @@ name,modrinth,curseforge,description
 ,Isgtel6o,1099761,为Apotheosis与农夫乐事添加兼容性。保持原版风格
 ,otXdBiS4,871799,调整战斗/伤害计算、经验、耐久、附魔、饥饿等游戏机制
 ,n9mFA0ax,500009,加载时显示内存使用情况
-,hQ3kF633,1065328,为 Timeless and Classics 枪械添加耐久、卡壳和维修系统。
+,eYsYyxH0,1065328,为 Timeless and Classics 枪械添加耐久、卡壳和维修系统。
 ,ZrvT3v2D,864569,Cobblemon大型群袭模组：新增宝可梦大规模出现机制
 ,iAqn9vit,444779,新增13种各具特色的僵尸变种
 ,x19saRaY,831102,为Create生态系统添加TIS-3D串口协议
@@ -4240,7 +4240,7 @@ name,modrinth,curseforge,description
 ,7d1moRSC,348078,🔎 [PvP模组] 通过特殊追踪器定位玩家
 ,jGVzcXaf,1068451,快速便捷的背包整理
 ,AjfMeEPz,965719,潜行蓄力，跳得更高！
-,3YqSAP5w,867883,Construct护甲模组1.12.2的非官方移植版
+,CqdgTeFR,867883,Construct护甲模组1.12.2的非官方移植版
 ,CbranYJi,889839,为原版洞穴添加装饰性方块
 ,6dyylOH1,978819,在原版村庄添加自定义Cobblemon精灵中心
 ,ZoS8iBbb,1121728,实现完美堆叠分割（类似Satisfactory操作）
@@ -7616,7 +7616,7 @@ name,modrinth,curseforge,description
 ,u62Up3Gc,1201492,为森林与繁花森林生物群系添加一棵全新的大型橡树。
 ,TjcYKx6s,1268064,可配置睡眠时间，适合使用会很快变暗的着色器包的玩家。
 ,K0br4bKQ,1005760,Walkers 模组为 Minecraft 添加多种新功能，旨在改变整个游戏中的生物系统与夜晚阶段体验。
-,MUOs5mGb,968067,为游戏添加具有实际功能的外观服饰
+,zhIupQBu,968067,为游戏添加具有实际功能的外观服饰
 ,gxBZKwDD,267321,Pixelmongo 是 Pixelmon 的附属，为 Minecraft 添加 Pixelmon 的补给站
 ,HXlL9LeK,1151941,为 Create: The Factory Must Grow 提供 KubeJS 集成
 ,Jmt7p37B,824728,Hex Casting 的附属，添加一些新的 Iota 类型，让你的使用更轻松。
@@ -8438,7 +8438,7 @@ name,modrinth,curseforge,description
 ,Aoh3TAn2,1163241,避免将配置中的敏感值同步到客户端
 ,34gINAHf,244864,垃圾箱、队列、隐藏箱和堆叠箱
 ,OSStUM2E,1100918,以现代方式定制您的 FPS 显示屏
-,uKE9kE6R,1110642,对 Minecraft 的游戏进展方式进行了彻底修改：boss、类似 RPG、新机制、多人游戏兼容性、武器、矿石……！
+,6EBQAueX,1110642,对 Minecraft 的游戏进展方式进行了彻底修改：boss、类似 RPG、新机制、多人游戏兼容性、武器、矿石……！
 ,xHB66bjV,951784,使犰狳在死亡时掉落 Armadillo Scute。
 ,KJY7RZyB,1059377,Vampirism 模组的插件，旨在扩展和增强吸血鬼体验。
 ,t9w23vii,1377279,
@@ -8861,7 +8861,7 @@ Binnie's植物学,jcZf13lh,223525,Forestry 模组扩展，添加新的蜜蜂、�
 Bobo的超市,,238047,
 bspkrs核心,,323993,
 B测往昔,,247840,
-C^2M 引擎,VSNURh3q,533097,优化区块性能的Fabric模组
+C^2M 引擎,COlSi5iR,533097,优化区块性能的Fabric模组
 Calemi的实用设备,,320196,
 Carpet拓展,VX3TgwQh,349240,地毯模组功能扩展
 CHENZIQIU的创意,,532027,
@@ -9425,7 +9425,7 @@ Yuo的更多附魔,,698171,
 动态的树：神秘时代附属,,292752,
 动态的树：禁忌与奥秘附属,,416698,
 动态的树：科技复兴附属,,386772,
-动态的树：群峦传说附属,rTzlIrI4,362368,TerraFirmaCraft 与 Dynamic Trees 的兼容模组。世界生成树木和种植树木都会动态生长。
+动态的树：群峦传说附属,8u5EZQJb,362368,TerraFirmaCraft 与 Dynamic Trees 的兼容模组。世界生成树木和种植树木都会动态生长。
 动态的树：自然灵气附属,,403135,
 动态的树：超多生物群系附属,8QHjGuhP,1336681,动态树与更多生物群系模组的兼容补丁
 动态的树：遍历附属,,407056,
@@ -9795,7 +9795,7 @@ Yuo的更多附魔,,698171,
 实体旗帜,,470149,
 实体模型JSON,,521687,
 实体模型特性,4I1XuqiY,844662,EMF是适用于Fabric和Forge的OptiFine格式自定义实体模型替换模组
-实体渲染机制优化,NNAgCjsB,448233,异步路径追踪隐藏不可见方块/实体
+实体渲染机制优化,mAHz905I,448233,异步路径追踪隐藏不可见方块/实体
 实体纹理特性,BVzZfTc1,568563,支持Fabric端实体发光/随机/自定义纹理（类似Optifine）
 实时聊天翻译,,240908,
 实用世界,,228979,
@@ -10600,7 +10600,7 @@ Yuo的更多附魔,,698171,
 极限反应堆,idkvShUy,250277,极端反应堆是经典模组Big Reactors的重制版，适配多版本
 极限末地生存,TdMpuC7n,228015,全面改造末地，加入大量可探索区域、可挑战 Boss 和可获取奖励。
 松鼠,,638108,
-林业,MHni9gjy,59751,树木、蜜蜂及其他内容
+林业,2oORTOi2,59751,树木、蜜蜂及其他内容
 果树 🍊,4bZDWNlG,355467,引入水果种植与养蜂的深度内容
 枪，炮，原子弹！,,405952,
 枫林,,689679,
@@ -11881,7 +11881,7 @@ Yuo的更多附魔,,698171,
 铜制工艺,,654429,
 铜锅！,,485539,
 铜锅！,YJa9l8Zi,485539,对「食物不该提供状态效果」论调的有力回击
-铟,Orvt0mRa,459496,基于Indigo的Sodium扩展，支持Fabric渲染API
+铟,gcXgGZ7R,459496,基于Indigo的Sodium扩展，支持Fabric渲染API
 铱矿产,,280896,
 银橡前哨,,411725,
 铷,,574856,
