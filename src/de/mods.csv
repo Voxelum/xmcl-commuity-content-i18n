@@ -426,7 +426,7 @@ name,modrinth,curseforge,description
 ,NPCfuUI4,913400,Verschiedene Mod-Kompatibilitätspakete für Cobblemon
 ,sRzS8pFG,952435,Füge Minecraft einen flauschigen Hamster hinzu!
 ,78ZQG4Et,550916,Taterzens-Erweiterung: GUI-Händler erstellen
-,ZeRQIPEB,450603,🐟 Wenn der Assistent die Glocke hält, ertönt die Glocke automatisch, wenn der Angelköder den Köder annimmt
+,R6PYx1PW,450603,🐟 Wenn der Assistent die Glocke hält, ertönt die Glocke automatisch, wenn der Angelköder den Köder annimmt
 ,L23x7zL8,238603,Minecraft Low-Tech-Computersystem
 ,TggYmc6t,410224,Größere Umweltherausforderungen
 ,mfHP09ru,585081,Gemälde im mittelalterlichen Fantasy-Stil hinzugefügt
@@ -560,7 +560,7 @@ name,modrinth,curseforge,description
 ,sbJh4AZw,361026,Ein rituelles Magiesystem mit der Fähigkeit, Seelen als Kern zu beschwören, das automatisierte Aufgaben, eine umfangreiche Lagerung von Gegenständen, den Abbau dämonischer Leere, mächtige Zauberwerkzeuge/Schmuckherstellung, vertraute Unterstützung und andere reichhaltige Funktionen unterstützt
 ,OkmRZ5fH,636003,Bringt das Widerristverhalten näher an die Bedrock Edition heran
 ,kVa5y52B,319194,Verschiedene Glasarten zur Unterstützung von Gebäuden
-,Kp2uclYl,357540,Fügt dein Hauptinventar, Trankeffekte und deine Ausrüstung zum HUD hinzu. Dazu ein paar weitere Funktionen.
+,CEgQm5YJ,357540,Fügt dein Hauptinventar, Trankeffekte und deine Ausrüstung zum HUD hinzu. Dazu ein paar weitere Funktionen.
 ,OIVHMITc,994391,Modul, das bei der Wiederherstellung von „FNaF: Sicherheitslücke“ auf MC hilft
 ,CT0O8jbT,669167,Neu hinzugefügte Pizza und andere Köstlichkeiten! Jetzt bei Modrinth angemeldet!
 ,TQTTVgYE,349239,Übernehmen Sie die volle Kontrolle über Ihr ursprüngliches Spielerlebnis
@@ -1199,7 +1199,7 @@ name,modrinth,curseforge,description
 ,GkIc6rRo,955605,Bibliotheksdateien des CERBON-Moduls
 ,UsLNxQgK,454382,Verbesserter Export/Import/Aufbau/Zerstörung/Festplattenoperationen/Schnittstellen/Anforderer für empfindlichen Speicher
 ,1zZJrh9c,570050,Modul für Eisenbahn- und Wassertransport
-,vzxBRBiJ,474612,Erweitern Sie weitere Tastenkombinationen für das Origin-Modul
+,6b2RpJpx,474612,Erweitern Sie weitere Tastenkombinationen für das Origin-Modul
 ,24CSPS1E,666942,Möchten Sie wissen, wie gut Ihr Pferd wirklich ist? Schauen Sie sich ihre Attributstatistiken an!
 ,p1WH6sHr,852533,Treten Sie ein in eine Welt voller Angst und Geheimnisse – das Modul „From The Fog“ stellt die legendäre Herobrine in einem fesselnden Horrorerlebnis perfekt wieder her.
 ,KkxAa5Ed,352557,Minecraft-Mod basierend auf „Attack on Titan“
@@ -1296,7 +1296,7 @@ name,modrinth,curseforge,description
 ,9q4wtMjp,877545,Erweiterung „Legende der Berge“: neue Rezepte für den Abbau von Bäumen/Holz und Harz
 ,pxcPUxNg,355910,Fügen Sie Herobrine hinzu, bei dem Abenteuererkundung im Mittelpunkt steht
 ,uRSeGBg3,582149,Vereinfachtes Villager-Modul (serverseitig verfügbar)
-,BHCrWnHJ,902233,Dorfgeneration deaktivieren
+,YDOf2ZPv,902233,Dorfgeneration deaktivieren
 ,DNECjG17,887125,Meine Mod-gemeinsame Codebasis
 ,PGBgocFc,347635,🚪 Umliegende Türen automatisch öffnen und schließen (Verzögerung konfigurierbar)
 ,tG6HkcWx,410743,🐝 Einstellbare Bienengröße/Gruppenbildung/Bienenstockkapazität/Stachelfunktion usw.
@@ -1469,7 +1469,7 @@ name,modrinth,curseforge,description
 ,jJthQvHv,417439,Fügt dem Spiel jede Menge einzigartige und ausgewogene Verzauberungen hinzu
 ,1qeWG44Y,579886,Apoli/Origin-Mod-Unterstützungsbibliothek für bestimmte Mods/Pakete
 ,4RYXbwYJ,274782,Ein einfacher Mod, der die Weltgenerierung deaktiviert
-,518JYCyS,932466,Mod, der moderne militärische taktische Rüstung hinzufügt
+,GBB5TIXx,932466,Mod, der moderne militärische taktische Rüstung hinzufügt
 ,Bc9bwujS,377313,Praktische Anpassungen zur Optimierung des Ackerland-Trampelmechanismus
 ,OVb8ZE5p,709585,Es wurde ein Fehler behoben, der dazu führte, dass Schiffe beschädigt wurden, wenn sie aus einer bestimmten Höhe fielen
 ,aVBESYAJ,676133,Beheben Sie die Replikationsschwachstelle, die dadurch verursacht wird, dass Entitäten durch Türen gehen und sterben.
@@ -1954,7 +1954,7 @@ name,modrinth,curseforge,description
 ,vbBQ6dVH,513524,Die Modulerweiterung Stoffteppich bietet interessante Funktionen
 ,YWZbIwtC,933960,🎵 Zeigen Sie vorübergehend die GUI-Eingabeaufforderung des aktuell wiedergegebenen Titels an
 ,9o4YEocr,537738,Rendering des zuletzt verwendeten Werkzeugs auf dem Rücken des Spielers
-,7BgsROit,1115285,Almanac ist meine gemeinsam genutzte Modulbibliothek, die gemeinsamen Code für mehrere Module enthält, um Duplikate zu vermeiden.
+,CllP7wW0,1115285,Almanac ist meine gemeinsam genutzte Modulbibliothek, die gemeinsamen Code für mehrere Module enthält, um Duplikate zu vermeiden.
 ,cE5SLYbv,621377,Fügen Sie den unterstützten Laternen trendige Schmuckfächer hinzu! Dynamische Beleuchtung muss mit dem dynamischen Beleuchtungsmodul verwendet werden
 ,ilfn0HT9,690182,Eine abgespaltene Version der dynamischen Musik von LudoCrypt!
 ,N6n5dqoA,1162908,All-in-one-Minecraft-Welteditor
@@ -2427,7 +2427,7 @@ name,modrinth,curseforge,description
 ,cUtsYbG5,576287,Unterstützt die Installation von Modulpaketen im McInstance-Format (kann Overlay-Dateien und Download-Elemente enthalten)
 ,qcz8IJ9L,839908,Die unsichtbare Kraft, die die Galaxie zusammenhält
 ,hgNzwsf3,357362,Mehrere neue Zaunblockvarianten hinzugefügt
-,r0zJa8lV,849595,Fügen Sie dem Spiel parasitäre Mutanten hinzu
+,SBkd4mrC,849595,Fügen Sie dem Spiel parasitäre Mutanten hinzu
 ,NazssWmx,897227,Es wurden eine Vielzahl neuer Keramikscherben hinzugefügt, die perfekt mit den Scherbensystemen der Originalversion und anderen Modulen kompatibel sind.
 ,9vlChzlU,523830,🌾 Beschleunigen Sie die Ernte der Ernte/erhöhen Sie die Hackreichweite/umgekehrtes Hacken, um Bodenklumpen wiederherzustellen
 ,1r5vvCad,930056,👻 Horror-Thema 2023: Vorsicht vor Blumen in der Nacht ... sie könnten zu Monstern mutieren!
@@ -2871,7 +2871,7 @@ name,modrinth,curseforge,description
 ,bvgy8HrZ,958065,Eine einfache Verbindungskomponente zwischen ComputerCraft und Valkyrien Skies
 ,KjNUIZp9,813116,🌌 Verwandeln Sie das Ende in eine Mondlandschaft
 ,D5h9NKNI,962916,Guide Book API vs. Patchouli-Alternative
-,lB7BzIIv,392023,Markieren Sie passende Artikel für die aktuelle Suche von REI
+,njGhQ4fN,388458,Markieren Sie passende Artikel für die aktuelle Suche von REI
 ,dQcfqGbl,968456,Crystal Lair-API
 ,BfY01IQg,911145,Fügen Sie Spielern über das KubeJS-Skript benutzerdefinierte Cloaks hinzu
 ,TPmUIZPB,301169,Sammeln Sie automatisch Gegenstände ein, die bald verschwinden
@@ -2889,7 +2889,7 @@ name,modrinth,curseforge,description
 ,yTSyrZpM,911826,Portierung der Kesselbrühfunktion der Bedrock Edition
 ,MBKJWOuQ,422087,Mod, der Tooltips und JEI-Informationen zu Datenpaketelementen hinzufügt
 ,5X1XkrKL,556321,Werten Sie die natürliche Schönheit der Welt auf!
-,edrOLdWE,690473,Big Swords R fügt dem Spiel RIESIGE Schwerter, Glefen, Sensen und Schilde hinzu.
+,uq8RUJSn,690473,Big Swords R fügt dem Spiel RIESIGE Schwerter, Glefen, Sensen und Schilde hinzu.
 ,HSmTuSaW,306555,Fügen Sie die Möglichkeit hinzu, Audiogeräte auf ältere MC-Versionen umzustellen
 ,WuKy9y7l,1096864,Ermöglicht die Platzierung des Rücktanks des Moduls „Erstellen“ im Curios-Steckplatz
 ,7RTcs7yj,1058059,Bekämpfe deinen Körper mit magischen Waffen!
@@ -4202,7 +4202,7 @@ name,modrinth,curseforge,description
 ,Isgtel6o,1099761,Kompatibilität für Apotheosis und Farmer's Lay hinzugefügt. Behalten Sie den ursprünglichen Stil bei
 ,otXdBiS4,871799,Passen Sie Kampf-/Schadensberechnung, Erfahrung, Haltbarkeit, Verzauberung, Hunger und andere Spielmechaniken an
 ,n9mFA0ax,500009,Speicherverbrauch beim Laden anzeigen
-,eYsYyxH0,1065328,Fügt den Waffen von Timeless and Classics Haltbarkeit sowie ein Ladehemmungs- und Reparatursystem hinzu.
+,hQ3kF633,1065328,Fügt den Waffen von Timeless and Classics Haltbarkeit sowie ein Ladehemmungs- und Reparatursystem hinzu.
 ,ZrvT3v2D,864569,Cobblemon-Modul für Großgruppenangriffe: Neuer Mechanismus, damit Pokémon in großer Zahl erscheinen
 ,iAqn9vit,444779,13 neue Zombie-Varianten mit unterschiedlichen Eigenschaften hinzugefügt
 ,x19saRaY,831102,TIS-3D-Seriell-Port-Protokoll zu „Ökosystem erstellen“ hinzugefügt
@@ -4240,7 +4240,7 @@ name,modrinth,curseforge,description
 ,7d1moRSC,348078,🔎 [PvP-Mod] Lokalisieren Sie Spieler mithilfe spezieller Tracker
 ,jGVzcXaf,1068451,Schnelle und einfache Rucksackorganisation
 ,AjfMeEPz,965719,Laden Sie heimlich auf und springen Sie höher!
-,CqdgTeFR,867883,Inoffizielle Portierung von Construct Armor Mod 1.12.2
+,3YqSAP5w,867883,Inoffizielle Portierung von Construct Armor Mod 1.12.2
 ,CbranYJi,889839,Den Vanilla-Höhlen wurden dekorative Blöcke hinzugefügt
 ,6dyylOH1,978819,Fügen Sie dem Vanilla Village ein individuelles Cobblemon-Elfenzentrum hinzu
 ,ZoS8iBbb,1121728,Erzielen Sie eine perfekte Stapelsegmentierung (ähnlich wie bei einem zufriedenstellenden Betrieb).
@@ -7618,7 +7618,7 @@ name,modrinth,curseforge,description
 ,u62Up3Gc,1201492,Diese Mod fügt dem Wald- und Blumenwald-Biom eine brandneue Große Eiche hinzu.
 ,TjcYKx6s,1268064,Erlaubt die Konfiguration der Schlafzeit, für Nutzer mit Shaderpacks, die schnell dunkel werden.
 ,K0br4bKQ,1005760,Die Walkers-Mod fügt Minecraft viele neue Features hinzu, die das Mob-System und die Nachtphase des Spiels verändern sollen.
-,zhIupQBu,968067,Eine Mod, die funktionale kosmetische Kleidung ins Spiel bringt
+,MUOs5mGb,968067,Eine Mod, die funktionale kosmetische Kleidung ins Spiel bringt
 ,gxBZKwDD,267321,Pixelmongo ist ein Add-on für Pixelmon, das Pixelmon-Pokéstops zu Minecraft hinzufügt
 ,HXlL9LeK,1151941,KubeJS-Integration für Create: The Factory Must Grow
 ,Jmt7p37B,824728,Ein Add-on für Hex Casting, das einige neue Iota-Typen hinzufügt, um dein Leben zu erleichtern.
@@ -8440,7 +8440,7 @@ name,modrinth,curseforge,description
 ,Aoh3TAn2,1163241,Vermeidet die Synchronisierung sensibler Werte in Konfigurationen mit dem Client
 ,34gINAHf,244864,Junkboxen, Queues, versteckte Brust und Stacking Brust
 ,OSStUM2E,1100918,Passen Sie Ihr FPS-Display modern an
-,6EBQAueX,1110642,Eine Überholung von Minecraft's Weg des Fortschritts, obwohl das Spiel : Chefs, RPG-wie, neue Mechanik, Multiplayer-Kompatibilität, Waffen, Erze... !
+,uKE9kE6R,1110642,Eine Überholung von Minecraft's Weg des Fortschritts, obwohl das Spiel : Chefs, RPG-wie, neue Mechanik, Multiplayer-Kompatibilität, Waffen, Erze... !
 ,xHB66bjV,951784,Armadillos lässt Armadillo Scute nach dem Tod fallen.
 ,KJY7RZyB,1059377,Ein Addon für den Vampirismus Mod, der darauf abzielt, die Vampirerfahrung zu erweitern und zu verbessern.
 ,t9w23vii,1377279,
@@ -8827,6 +8827,185 @@ name,modrinth,curseforge,description
 ,DGaH8Rh0,898963,"A library that adds the Attributes GUI, alongside a suite of new attributes to work with"
 ,7pSQejNy,1553844,A mod for interesting item speedruns with additional modifiers.
 ,UzkWePRG,1388926,"A Breach Happened is a psychological horror data pack that introduces 3 new entities and tons of events such as random signs, world events, weird terrain, weird sounds, creepy music, creepy atmosphere and decently large story."
+,ocbOUiHH,,
+,mlaUPhrZ,,
+,X6YTb3G1,,
+,zpkKPhbq,,
+,u2goKIIl,,
+,nGLLzNcJ,,
+,ACLWFBlU,,
+,mBHOL0vT,,
+,xdpXVpMJ,,
+,tnr41XhG,,
+,Hforxth5,,
+,E6GusVzz,,
+,BbtQr1GV,,
+,BpcmlKS9,,
+,uDJkuFRe,,
+,v8gHddm5,,
+,ZazGNjSE,,
+,AVJV62Cj,,
+,n3D4BPgL,,
+,b8DiFMOK,,
+,aosv29zK,,
+,oxBNHOmi,,
+,JudjzCsX,,
+,zhKDhaPQ,,
+,YYlTINeM,,
+,alDYMU7T,,
+,hTHPfI2S,,
+,3uT4J18I,,
+,7dbCGUGr,,
+,Z7xAH01M,,
+,W0k70zwu,,
+,SzO1O63Q,,
+,MzU6Lh9B,,
+,3jCkacxI,,
+,Rtw99Org,,
+,A2pNL8T7,,
+,vOjCavUT,,
+,LQRvkGba,,
+,gQo4x6RW,,
+,1R7NOWFk,,
+,mva5q4qZ,,
+,eSqcuS1j,,
+,2Ot6MryC,,
+,7FckdYcx,,
+,LNjUMo5H,,
+,HqOAZ03k,,
+,qHxCUweJ,,
+,mZzTkAcs,,
+,5ZDVVebS,,
+,ax5T2Swr,,
+,A8WM17FM,,
+,76K6HCCc,,
+,gaSdoMMO,,
+,io20Ajyj,,
+,6Uocsa4f,,
+,KbnBpU9P,,
+,gEqbzplo,,
+,isSnF43I,,
+,nQF3JYgP,,
+,xpR9bZMi,,
+,gkfOQk9U,,
+,QHl6W6lh,,
+,SRpMdE4d,,
+,v6M4YOww,,
+,ptrYIoww,,
+,AQGahqU5,,
+,JmqA4Alf,,
+,RSYs97F8,,
+,YJqoniYI,,
+,wI13khII,,
+,3F9H5wFy,,
+,vOwWxw5n,,
+,IHdW24gt,,
+,vT5p53cB,,
+,1ZkzxaSr,,
+,4q2Q9rk1,,
+,jkyv18V9,,
+,rQaI1dyQ,,
+,x9RObZ4h,,
+,fRpkaLG9,,
+,JC3FsJyt,,
+,Xlqo0QhO,,
+,2l5OnFsL,,
+,Ghd3HFvP,,
+,B2w7wF1e,,
+,apfFXHUY,,
+,koTibmqV,,
+,WUM2EgJz,,
+,S7acyZiI,,
+,cUKAwA2j,,
+,50V9AhxE,,
+,TEjXXybF,,
+,3qNitUjN,,
+,2nwF7mhs,,
+,Pc0FsTTj,,
+,q9JlrVdz,,
+,kwpTgbCk,,
+,QuQIhqzt,,
+,3aFJ6Iut,,
+,3zaeCSlT,,
+,PbuWXPc4,,
+,rTjtMUJ5,,
+,fe1B3FmQ,,
+,fDIomi6C,,
+,dHAUbDDr,,
+,PtKWXzEG,,
+,sLoWG5Zu,,
+,SUO5nSik,,
+,qYtXvlBc,,
+,FpLBlLy3,,
+,H15yTr2V,,
+,nc9lbKI9,,
+,rjoEH39n,,
+,yxvBuRLC,,
+,fUIcgq6j,,
+,tKWZHEND,,
+,yLb3uUWC,,
+,gmLQspOo,,
+,CMTgYi0U,,
+,peFeF6AS,,
+,DvHuHssf,,
+,KMvVDXMP,,
+,lkSkdJn8,,
+,UEWEVYL4,,
+,Os7n2ju4,,
+,pMbgd3XW,,
+,1qIqmuxK,,
+,xDLk8c0z,,
+,YfXFXkam,,
+,MqQSMXiY,,
+,9c8y2aTK,,
+,vFyS9YeL,,
+,t99XTZpf,,
+,nkzQ25Lf,,
+,6CNzxq9s,,
+,HTNaPgCx,,
+,fKxEkSCn,,
+,bSQ5escX,,
+,fgzREf1Q,,
+,OA72FRY8,,
+,cn0mri3g,,
+,A1LLhSQH,,
+,F9UuswAo,,
+,yCMwuZRP,,
+,M3Sm0Jml,,
+,fjBStYT8,,
+,XPOEMEGh,,
+,iRLdgJ1I,,
+,ZOL8bi7N,,
+,DLGp9dCX,,
+,k8JvyaXM,,
+,ccCnrDqT,,
+,uDy6bd7M,,
+,TiI55Eev,,
+,zQn4lLJU,,
+,NvvAkdnN,,
+,1jz4xzV9,,
+,GUjmOTOL,,
+,nWd6eJgM,,
+,VICZDzwx,,
+,hGjvfSAC,,
+,EbNeGOjo,,
+,bv375mrr,,
+,9JSaKu0u,,
+,uVtLpckQ,,
+,aRYJ88Zs,,
+,Hrk3Eic4,,
+,RSrO9pbx,,
+,cE2up1pW,,
+,yOxNUxrc,,
+,YFQtn2DW,,
+,GfIohcSp,,
+,QWjICHan,,
+,zPjLSNux,,
+,8Ma7UEPx,,
+,o9C05z7R,,
+,mX31zAOV,,
+,rZ8br2UQ,,
+,dxa0Bm8m,,
 „Die Biome, zu denen du gehen wirst“ Fix-Mod,,518623,
 „Fluss“-Maschinen,2s2tmYs0,395269,Fluxifiziert das Mekaverse.
 [AS]Verlorene Ruinen,TWsbC6jW,297680,Über 200 neue architektonische Strukturen hinzugefügt, die sich perfekt in die Welt einfügen
@@ -9330,7 +9509,7 @@ Bunte Handwerkskunst,,366672,
 bunte Kerzen,,811398,
 bunte Laternen,,394517,
 Button Wizard alte Version,38l6VbjV,689007,Lösen Sie das Hauptkonfliktproblem der alten Version
-C^2M-Motor,COlSi5iR,533097,Fabric-Modul zur Optimierung der Blockleistung
+C^2M-Motor,VSNURh3q,533097,Fabric-Modul zur Optimierung der Blockleistung
 Calemis praktische Geräte,,320196,
 Camping,,228460,
 Candy World: Remastered Edition,Y4MxC8Ok,531645,Fügt dem Spiel über Weltgenerierung und eine neue Dimension verschiedene Nahrungsmittel hinzu.
@@ -9549,7 +9728,7 @@ Dynamischer Baum: Handwerkliche Seelenbindung,,386747,
 Dynamischer Baum: Industrie 2-Tochtergesellschaft,,386770,
 Dynamischer Baum: Jura-Ära beigefügt,,483528,
 Dynamischer Baum: Kochhandwerksaufsatz,,465506,
-Dynamischer Baum: Legende der Berge beigefügt,8u5EZQJb,362368,Kompatibilitätsmod zwischen TerraFirmaCraft und Dynamic Trees. Sowohl Weltgenerierung als auch gepflanzte Bäume sind dynamisch.
+Dynamischer Baum: Legende der Berge beigefügt,rTzlIrI4,362368,Kompatibilitätsmod zwischen TerraFirmaCraft und Dynamic Trees. Sowohl Weltgenerierung als auch gepflanzte Bäume sind dynamisch.
 Dynamischer Baum: Mit dem Himmelsreich verbunden,s0UnCrWE,387443,Kompatibilitätspatch für dynamische Bäume und Sky Realm-Module
 Dynamischer Baum: Mit dem schmutzigen Land verbunden,,427597,
 Dynamischer Baum: Mysteriöser Altersanhang,,292752,
@@ -9941,7 +10120,7 @@ Flüsternder Wald,MQyX33RX,349597,Fügt gruselige Waldkreaturen wie Wisps, Motte
 Footsteps Forge Edition,IIjfBeV8,433068,
 Förderband,WjHeCvm0,601907,Einfache Förderbänder.
 Forschungsschalter 🔬,,307346,
-Forstwirtschaft,2oORTOi2,59751,Bäume, Bienen und mehr
+Forstwirtschaft,MHni9gjy,59751,Bäume, Bienen und mehr
 Fortgeschrittene Botanik,,575841,
 fortgeschrittene Energie,,255570,
 fortgeschrittene Solarenergie,,921984,
@@ -10287,7 +10466,7 @@ Immobilienreparatur,lOOpEntO,280510,Entfernen Sie die Einschränkungen des Attri
 Immobilienreparatur – Stoffversion,,422076,
 In nahegelegene Kisten stapeln,HtGckJVc,693995,Nur-Client-Mods: Portierte Terraria-Funktionalität zum schnellen Stapeln/Nachfüllen
 in Rohöl getaucht,,268250,
-Indium,gcXgGZ7R,459496,Auf Indigo basierende Natriumerweiterung, die die Fabric-Rendering-API unterstützt
+Indium,Orvt0mRa,459496,Auf Indigo basierende Natriumerweiterung, die die Fabric-Rendering-API unterstützt
 Individuelle Erstausstattung,,253735,
 individuelle Sandwiches,i0hioBIg,296676,Machen Sie individuelle Sandwiches/Eintöpfe in einer Schüssel mit beliebigen Zutaten! Dunkle Küche ist kein Traum mehr!
 Individuelles Paket,10DZYVis,383733,512-Slot-Inventar für alle Anforderungen
@@ -10999,7 +11178,7 @@ Optimierung der Lambdaregelung,W1D3UXEc,354231,Eine Fabric-Mod mit besserer Steu
 Optimierung der Ofenleistung,aYS7rVtm,299540,
 Optimierung der Rezeptleistung,,475117,
 Optimierung der Workbench-Leistung,5NYPwQRn,288885,A major optimization for the Crafting Table!
-Optimierung des Entity-Rendering-Mechanismus,mAHz905I,448233,Die asynchrone Pfadverfolgung verbirgt unsichtbare Blöcke/Entitäten
+Optimierung des Entity-Rendering-Mechanismus,NNAgCjsB,448233,Die asynchrone Pfadverfolgung verbirgt unsichtbare Blöcke/Entitäten
 Optimierung des Partikel-Rendering-Mechanismus,l7imhLoC,408853,Hören Sie auf, Partikel für den Spieler unsichtbar zu machen
 Optimierung des Schildmechanismus,,476645,
 Optimierung von Blockentitäten,OVuFYfre,452046,Reduzieren Sie die Verzögerung der Blockentität und verbessern Sie die visuellen Effekte nahezu ohne Kompromisse

@@ -30,9 +30,9 @@ on:
         type: string
         default: 'all'
       quota_per_locale:
-        description: 'Translation quota per locale'
+        description: 'Translation quota per locale (0 for UNLIMITED / translate all)'
         type: string
-        default: '100'
+        default: '0'
       direct_push:
         description: 'Push directly to main branch (if false, creates a Pull Request)'
         type: boolean
@@ -77,7 +77,7 @@ jobs:
           TRANSLATION_PROVIDER: ${{ inputs.provider || 'google' }}
           CRON: ${{ github.event_name == 'schedule' }}
           TARGET_LOCALES: ${{ (inputs.locales && inputs.locales != 'all') && inputs.locales || '' }}
-          QUOTA_PER_LOCALE: ${{ inputs.quota_per_locale || '100' }}
+          QUOTA_PER_LOCALE: ${{ inputs.quota_per_locale || '0' }}
         run: node translate.mjs
 
       - name: Sort CSV tables

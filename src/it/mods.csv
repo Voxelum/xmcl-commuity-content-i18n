@@ -53,15 +53,15 @@ name,modrinth,curseforge,description
 ,aEK1KhsC,391656,🔆 Press G to toggle the brightness/gamma in-game to maximum and get fullbright night vision.
 ,rEuzehyH,291936,Search for an item in nearby inventories
 ,VS1a14jA,941096,Polymorph support for Applied Energistics 2.
-,5faXoLqX,520110,"A modding library that contains new events, helpers, and utilities to make modder's lives easier."
+,5faXoLqX,520110,A modding library that contains new events, helpers, and utilities to make modder's lives easier.
 ,eEpWUjwq,410426,Helping mobs see in the distance
 ,qmCh2PxS,694349,Decorate your home better with furniture!
 ,5ZwdcRci,686911,Speed up immediate mode rendering in Minecraft
-,8oi3bsk5,513688,"Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain."
+,8oi3bsk5,513688,Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.
 ,p19vrgc2,854949,Fusion allows resource packs to use additional texture and model types such as connected textures!
-,AtB5mHky,945479,"Lets you see if players are typing, in a GUI, idle, with cool ingame visuals"
+,AtB5mHky,945479,Lets you see if players are typing, in a GUI, idle, with cool ingame visuals
 ,sH9tXU9f,840734,Pump in liquid fuel to blaze burners
-,twkfQtEc,499980,"dynamic data pack and registration, villager activities, custom map marker and a lot more"
+,twkfQtEc,499980,dynamic data pack and registration, villager activities, custom map marker and a lot more
 ,r0v8vy1s,548115,An efficient and non-locational redstone dust implementation
 ,Ha28R6CL,308769,This is a mod that enables usage of the Kotlin programming language for Fabric mods.
 ,uLbm7CG6,527334,Reduces load times and adds fallbacks for languages
@@ -70,10 +70,10 @@ name,modrinth,curseforge,description
 ,ziOp6EO8,693313,A library mod containing code used across Corgi Taco's mods.
 ,EiEOyeoL,368718,Adds CraftTweaker support to Just Enough Items
 ,yWSAtnfH,1084468,BisectHosting Server Ordering Menu
-,tTPzEplo,494133,"PCs, Keyboard, RGB, what need a real gamer more?!"
+,tTPzEplo,494133,PCs, Keyboard, RGB, what need a real gamer more?!
 ,40FYwb4z,397876,A coremod and API to provide developers access to elytra flight mechanics through an entity attribute.
-,z3TzcquW,925511,"Fixes painting rendering, increasing their performance and allowing them to have custom models"
-,bcOsQHnC,481655,"The Female Gender Mod introduces extra player model customization options, including a unique feature that adds a personalized touch to your avatar."
+,z3TzcquW,925511,Fixes painting rendering, increasing their performance and allowing them to have custom models
+,bcOsQHnC,481655,The Female Gender Mod introduces extra player model customization options, including a unique feature that adds a personalized touch to your avatar.
 ,REH0O240,825617,Making modded servers easier to find by finding them in game!
 ,eUbrlzyb,284523,
 ,ZsrrjDbP,953637,Elegant - and likely hostile - vessels lost in the seven seas...
@@ -81,56 +81,56 @@ name,modrinth,curseforge,description
 ,yD9qW65f,931925,Gives Sodium additional Performance and Quality features for a tasteful experience
 ,P0Mu4wcQ,401236,Adds various treasure items that can be found through exploration
 ,VZWuyRVr,441114,Gives every Enchanted Book in Minecraft a unique texture!
-,t5W7Jfwy,319596,"Lets you change the size of most entities, shrinking their scale smaller or growing them larger"
+,t5W7Jfwy,319596,Lets you change the size of most entities, shrinking their scale smaller or growing them larger
 ,e0M1UDsY,526606,🎓 Collective is a shared library with common code for all of Serilum's mods.
 ,Ib1hetHL,451558,The heart piece for all of Lyøn Mods' mods.
-,edU0NbZZ,681606,"Adds hammers to the game that are able to mine in a 3x3, 3x3x3, 5x5x1, 5x5x3 and finally a 5x5x5! They're pretty awesome."
-,fgmhI8kH,623908,"Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world."
+,edU0NbZZ,681606,Adds hammers to the game that are able to mine in a 3x3, 3x3x3, 5x5x1, 5x5x3 and finally a 5x5x5! They're pretty awesome.
+,fgmhI8kH,623908,Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
 ,nkTZHOLD,704136,An API that supports different mod loaders and is the basis of mods like Factocrafty
 ,Fnrzx9Jl,676811,Allows modpack developers to define default server properties. Typically used for things like a default level type
 ,JuksLGBQ,619986,Blazing fast custom GUI textures on Fabric and Quilt with built-in OptiFine custom GUI resource pack support
 ,3mW8PdUo,646464,A basic mod that displays your Coordinates on the In-game HUD.
 ,gedNE4y2,658587,animate the player
 ,FTeXqI9v,905861,Create: New Age is an addon for the Create mod that adds integration with electricity.
-,2u6LRnMa,704113,"A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things"
+,2u6LRnMa,704113,A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things
 ,DPyowF4K,690674,Addon for MrCrayfish Gun Mod Adding so many  Realistic Guns
 ,fzSKSXVK,583228,A simple mod to create scheduled backups
 ,eNNKPxg3,913405,A plugin Mod for Expanded Combat adding compatibility with Twilight Forest
 ,r4Knci2k,906239,A complement to the Create mod that adds new furniture.
 ,xSfkjdDu,377448,Fly to Other Planets and Beyond!
-,qRidloO4,345023,"🥛 Allows sheep, llamas, pigs, donkeys, horses and mules to produce a bucket of milk."
+,qRidloO4,345023,🥛 Allows sheep, llamas, pigs, donkeys, horses and mules to produce a bucket of milk.
 ,J5CVo2fm,356349,A mod to fix some Dupe Bugs.
 ,rOUBggPv,454372,SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
 ,cKLIJfSz,605554,New biomes centered around cherry blossom trees with custom structures and a new village type!
 ,abooMhox,527685,🌲 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement.
 ,o6qsdrrQ,927564,An over-engineered Zoom mod by Nolij
-,nrJ2NpD0,552277,"Allows for you to control and display your music in-game! Control Spotify, Apple Music, YouTube Music, and more"
+,nrJ2NpD0,552277,Allows for you to control and display your music in-game! Control Spotify, Apple Music, YouTube Music, and more
 ,dCKRaeBC,912441,Litematica unofficial (Neo)Forge port. A modern client-side schematic mod for Minecraft.
 ,SFO4Ca80,525510,Added some features to the Masa collection of mods.
 ,lhGA9TYQ,419699,An intermediary api aimed to ease developing multiplatform mods.
 ,72GXx2MO,284324,Emojis in minecraft
-,TLZe11Uj,620928,"Fabric apotheosis port, changes and expands upon many systems"
+,TLZe11Uj,620928,Fabric apotheosis port, changes and expands upon many systems
 ,KX1XC0Oo,915324,Formations Overworld adds plenty of new structures to the overworld!
-,TyTPFOiF,429926,"Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it."
+,TyTPFOiF,429926,Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.
 ,Tg5fXO1x,577850,Adds multiple crafting station on a stick such as crafting table on a stick
 ,zFCKsjVY,901658,Dynamically render Armor Trim patterns!
 ,2eT495vq,670986,A performance mod designed to optimize Minecraft's memory usage.
-,FGlHZl7X,687497,"Former structure of End Remastered, The Lost Castle introduces an enormous castle. Inside resides infinite fortune and mysteries from a long forgotten civilization that disappeared a long time ago..."
+,FGlHZl7X,687497,Former structure of End Remastered, The Lost Castle introduces an enormous castle. Inside resides infinite fortune and mysteries from a long forgotten civilization that disappeared a long time ago...
 ,xl3myxch,550778,Library Mod required by all of ApexStudios' mods
-,Lq6ojcWv,574409,"Enderman Overhaul adds over 20 new enderman variants, each with their own sounds, models, and animations!"
+,Lq6ojcWv,574409,Enderman Overhaul adds over 20 new enderman variants, each with their own sounds, models, and animations!
 ,WXDvMkR5,429291,Disable the 'experimental world settings' warning screen
 ,IKARgflD,458048,Fences connecting diagonally? Wait. That's illegal.
-,lo90fZoB,845831,"A tree-style questing mod, allowing pack makers to make and include completable quests for their players"
-,VXgaJQ9n,386320,"a mod based on the fps game A.V.A, added Guns and more"
+,lo90fZoB,845831,A tree-style questing mod, allowing pack makers to make and include completable quests for their players
+,VXgaJQ9n,386320,a mod based on the fps game A.V.A, added Guns and more
 ,KuQueJOG,635510,Warden Tools adds new Warden gear and completely overhauls Ancient City loot.
 ,eXrl5E3G,656526,Data Driven Block and Item Revelation system. Discover as you go!
-,DjLobEOy,626761,"Spice up your world with new villages, pillager outposts, and even new ships!"
+,DjLobEOy,626761,Spice up your world with new villages, pillager outposts, and even new ships!
 ,T3yEYSUT,880620,Core mod for all Luna Pixel Studios modpacks.
-,a7yNQPzW,579177,"An unofficial expansion of ProjectE, providing an emc display, more ways to passively generate emc, and more."
-,oHGMwNDR,809542,"A villager extension mod, adding new villager types, trades and beautiful workstations."
+,a7yNQPzW,579177,An unofficial expansion of ProjectE, providing an emc display, more ways to passively generate emc, and more.
+,oHGMwNDR,809542,A villager extension mod, adding new villager types, trades and beautiful workstations.
 ,WwbubTsV,374274,Your options shall be respected.
 ,m3pkVbY8,857972,A unique chest that collects all items dropped nearby. Very useful!
-,PRHeWeBs,881586,"A Create Addon that primarily adds ender-like blocks. Experience the power of the void motor, void chest, and void tank as you effortlessly transport rotation, items and fluids."
+,PRHeWeBs,881586,A Create Addon that primarily adds ender-like blocks. Experience the power of the void motor, void chest, and void tank as you effortlessly transport rotation, items and fluids.
 ,EPteDGlY,438668,Adds Antique Atlas markers when activating a Waystone
 ,ordsPcFz,351264,Adds a Kotlin language loader and provides some optional utilities.
 ,TaSmHw8V,904471,Play custom melodies on various instruments and annoy your friends!
@@ -140,7 +140,7 @@ name,modrinth,curseforge,description
 ,Aqlf1Shp,889079,Fabric API implemented on top of NeoForge
 ,OoOVj3J3,323976,Changing the in-game models to allow for better animations and subtle effects.
 ,Nn8Wasaq,867099,A Universal Modding API and Utilities library
-,E9sX1ncV,256822,"Simple GUI Mod to edit an item, a block or an entity in your current world"
+,E9sX1ncV,256822,Simple GUI Mod to edit an item, a block or an entity in your current world
 ,sMHZd2kw,912104,
 ,Dd6vT4jF,933502,Expanding the Epic Fight Mod with Unique Styles and Weapon Capabilities!
 ,38pHU3u5,409341,Custom Portals is a mod for Minecraft that allows you to construct inter- and intradimensional portals out of any block.
@@ -150,32 +150,32 @@ name,modrinth,curseforge,description
 ,koiNUJ8V,613215,Liven your world with animals!
 ,x02cBj9Y,615459,Adds customizable bars to the status effects overlay to show the remaining duration of effects.
 ,jorDmSKv,593981,Powerful torches to prevent mob spawns around your home in a large area.
-,KhJx1K92,689943,"🎃 SpookyJam 2022: Help out the Pumpkillager! With custom encounters, rewards and a boss fight you'll get immersed in the story. Spawn him by breaking a pumpkin in this spooky scary Halloween style mod!"
+,KhJx1K92,689943,🎃 SpookyJam 2022: Help out the Pumpkillager! With custom encounters, rewards and a boss fight you'll get immersed in the story. Spawn him by breaking a pumpkin in this spooky scary Halloween style mod!
 ,s4OWxYQQ,855414,A magic mod bringing back the classic RPG spellcasting fantasy. (irons spells and spellbooks)
-,SwolYSb8,502786,"Expands upon the End in a unique way with intricate biomes, mobs,  & materials. AKA Enlightened End."
-,XpzGz7KD,876199,"Customizable elytra mod with trims, banner patterns and more!"
-,mnLFouB0,916493,"Horse powered carts and plows, now for 1.20+!"
+,SwolYSb8,502786,Expands upon the End in a unique way with intricate biomes, mobs,  & materials. AKA Enlightened End.
+,XpzGz7KD,876199,Customizable elytra mod with trims, banner patterns and more!
+,mnLFouB0,916493,Horse powered carts and plows, now for 1.20+!
 ,eWX2m1eM,870250,Unofficial port of Eidolon to 1.19/1.20/1.21
 ,1OE8wbN0,665526,A library all about color! Provides lots of color-related functionality for dependent mods.
 ,9s6osm5g,348521,Configuration Library for Minecraft Mods
 ,fRiHVvU7,580555,A featureful and accessible item and recipe viewer
 ,cMppH5SJ,225635,Agricultural farming extended
-,uEfK2CXF,240630,"JEI integration that adds info on mobs, world gen, villagers and many more!"
+,uEfK2CXF,240630,JEI integration that adds info on mobs, world gen, villagers and many more!
 ,hI3Tmydh,707734,Add Slime Golem to Minecraft. A good ally for finding Slime Chunks!
-,F33t24Wi,418915,"A customizable structure generation mod that provides new structures like shrines, temples, houses, and more for Minecraft Forge"
-,iu1jkWqa,260912,"A highly optimized networking cable system for items, energy, fluids, information, etc."
+,F33t24Wi,418915,A customizable structure generation mod that provides new structures like shrines, temples, houses, and more for Minecraft Forge
+,iu1jkWqa,260912,A highly optimized networking cable system for items, energy, fluids, information, etc.
 ,kU1G12Nn,439890,Create Crafts & Additions extends Create and acts as a bridge between electricity and kinetic energy
-,yM94ont6,353890,"When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant."
+,yM94ont6,353890,When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant.
 ,JMOE5Khs,282613,This API is a required mod for Immersive Railroading and other train mods in the future.
 ,ErpAAAaf,510974,Refined item interactions
-,Xg35A4rS,239197,"CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!"
+,Xg35A4rS,239197,CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!
 ,DghO0R02,383129,Connected Glass adds new types of glass with connecting textures!
 ,HMNV4z01,560323,Fixes deadlocks caused by https://bugs.mojang.com/browse/MC-246262
 ,KNUSlHiU,666941,You did not know your trident could do that!
 ,jawg7zT1,594750,Dust is a Minecraft mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust!
 ,xDjN28OB,469658,
 ,kYq5qkSL,310205,Changes Fullscreen to use a borderless window.
-,POQ2i9zu,551364,"Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. The mod includes: Copper Golem, Crab, Glare, Moobloom, Iceologer, Rascal, Tuff Golem, Wildfire, Illusioner, Zombie Horse"
+,POQ2i9zu,551364,Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. The mod includes: Copper Golem, Crab, Glare, Moobloom, Iceologer, Rascal, Tuff Golem, Wildfire, Illusioner, Zombie Horse
 ,DFqQfIBR,297038,Completely Customize the way others see you play in Discord!
 ,uWrs8XlB,652202,🔧 Add useful and fun things to Create
 ,6FtRfnLg,663658,Microsoft flight simulator for Minecraft elytras.
@@ -184,28 +184,28 @@ name,modrinth,curseforge,description
 ,FYpiwiBR,913445,Integrating Connector with third-party APIs
 ,QIt10I7z,920423,Standalone split version of the Pillager Outpost Overhaul from Dungeons and Taverns
 ,FxXkHaLe,856548,✨ Protect and heal your friends as a Paladin or a Priest
-,HUVG5gEu,940827,"Adds a variety of craftable and unique new tridents, as well as other pokey weapons including spears and harpoons!"
+,HUVG5gEu,940827,Adds a variety of craftable and unique new tridents, as well as other pokey weapons including spears and harpoons!
 ,rrwQMaWQ,510234,Helpful camera utilities
 ,2ecVyZ49,537533,Speed up your world loading by removing unneeded chunks.
 ,ftdbN0KK,615134,Bad Packets allows packet messaging between different modding platforms.
 ,Yd4wb5wZ,574913,Adds a few new friends to your world!
 ,SNIKP4CT,915336,Adds many bats with unique loot for spooky season.
 ,jhxX1zVW,282837,This mod adds some miners like BC's quarry.
-,K01OU20C,318449,"A data attachment API that is easy, modular, and extremely fast."
+,K01OU20C,318449,A data attachment API that is easy, modular, and extremely fast.
 ,iJNje1E8,560441,Not a magic mod. · Snow Gravity & Accumulation · Snow-covered blocks · Tweak snow behaviors
 ,ox3rDp1B,403858,BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
 ,gMWAhU1n,794452,Decorative blocks with convenient functionality!
-,nBaXIQY9,877553,"Descend into madness with new end biomes, forbidden magic, and more."
+,nBaXIQY9,877553,Descend into madness with new end biomes, forbidden magic, and more.
 ,w7ThoJFB,574741,A zoom mod with infinite customizability.
-,Kn7xyQ1v,631098,"An expansion for caves, including new biomes, mobs, and more."
+,Kn7xyQ1v,631098,An expansion for caves, including new biomes, mobs, and more.
 ,KdJhOYVV,569737,This mod adds ancient ruins to your Minecraft world
-,EOig9U0j,666940,
-,7YM5AXYm,952356,
-,AWGqBEjs,78726,
-,2SpZYGNn,358877,
-,rLLJ1OZM,237749,
-,gF3BGWvG,636608,
-,kt3BLgXB,703792,
+,EOig9U0j,666940,Ancora in giro a barattare manualmente? Mettiamo invece al lavoro quei pigrini pigri!
+,7YM5AXYm,952356,😍 Rimuove il tempo di recupero tra i tentativi di attirare gli animali con il cibo desiderato.
+,AWGqBEjs,78726,Un mod incentrato sull'avventura ispirato al manga One Piece
+,2SpZYGNn,358877,"Industrial Reborn è una mod focalizzata a fornire un'esperienza interessante introducendo nuovi macchinari, armature elettriche, strumenti, generatori e altro ancora!"
+,rLLJ1OZM,237749,Mod libreria condivisa per i mod di Corosus
+,gF3BGWvG,636608,"Aggiunge la possibilità di rivendicare pezzi e creare gruppi di giocatori, si integra con la minimappa e la mappa del mondo di Xaero"
+,kt3BLgXB,703792,"Esplora nuove strutture uniche per ogni bioma del Nether, così come i nuovi mob che le abitano."
 ,VsM5EDoI,382216,
 ,UiFDlI7w,566142,
 ,fRbqPLg4,385463,
@@ -246,9 +246,9 @@ name,modrinth,curseforge,description
 ,rJAbxpMf,709188,
 ,btOqFB3N,599116,
 ,T8MMXTpr,448311,
-,MBAkmtvl,531761,
-,zJpHMkdD,332273,
-,bb2EpKpx,845833,
+,MBAkmtvl,531761,Livello di astrazione per mod multi-caricatore
+,zJpHMkdD,332273,Guarda attraverso i portali e teletrasportati senza problemi
+,bb2EpKpx,845833,"Forma una gilda per vivere e lavorare insieme ai tuoi amici. Forma un gruppo per combattere e avventurarsi insieme agli alleati. Chatta con la tua gilda, gruppo o elenco di amici in un'interfaccia utente ordinata"
 ,CVT4pFB2,938643,
 ,6iTJugQR,896746,
 ,P5Jjjezm,627196,
@@ -426,7 +426,7 @@ name,modrinth,curseforge,description
 ,NPCfuUI4,913400,
 ,sRzS8pFG,952435,
 ,78ZQG4Et,550916,
-,ZeRQIPEB,450603,
+,R6PYx1PW,450603,
 ,L23x7zL8,238603,
 ,TggYmc6t,410224,
 ,mfHP09ru,585081,
@@ -560,7 +560,7 @@ name,modrinth,curseforge,description
 ,sbJh4AZw,361026,
 ,OkmRZ5fH,636003,
 ,kVa5y52B,319194,
-,Kp2uclYl,357540,
+,CEgQm5YJ,357540,
 ,OIVHMITc,994391,
 ,CT0O8jbT,669167,
 ,TQTTVgYE,349239,
@@ -1199,7 +1199,7 @@ name,modrinth,curseforge,description
 ,GkIc6rRo,955605,
 ,UsLNxQgK,454382,
 ,1zZJrh9c,570050,
-,vzxBRBiJ,474612,
+,6b2RpJpx,474612,
 ,24CSPS1E,666942,
 ,p1WH6sHr,852533,
 ,KkxAa5Ed,352557,
@@ -1296,7 +1296,7 @@ name,modrinth,curseforge,description
 ,9q4wtMjp,877545,
 ,pxcPUxNg,355910,
 ,uRSeGBg3,582149,
-,BHCrWnHJ,902233,
+,YDOf2ZPv,902233,
 ,DNECjG17,887125,
 ,PGBgocFc,347635,
 ,tG6HkcWx,410743,
@@ -1469,7 +1469,7 @@ name,modrinth,curseforge,description
 ,jJthQvHv,417439,
 ,1qeWG44Y,579886,
 ,4RYXbwYJ,274782,
-,518JYCyS,932466,
+,GBB5TIXx,932466,
 ,Bc9bwujS,377313,
 ,OVb8ZE5p,709585,
 ,aVBESYAJ,676133,
@@ -1954,7 +1954,7 @@ name,modrinth,curseforge,description
 ,vbBQ6dVH,513524,
 ,YWZbIwtC,933960,
 ,9o4YEocr,537738,
-,7BgsROit,1115285,
+,CllP7wW0,1115285,
 ,cE5SLYbv,621377,
 ,ilfn0HT9,690182,
 ,N6n5dqoA,1162908,
@@ -2427,7 +2427,7 @@ name,modrinth,curseforge,description
 ,cUtsYbG5,576287,
 ,qcz8IJ9L,839908,
 ,hgNzwsf3,357362,
-,r0zJa8lV,849595,
+,SBkd4mrC,849595,
 ,NazssWmx,897227,
 ,9vlChzlU,523830,
 ,1r5vvCad,930056,
@@ -2871,7 +2871,7 @@ name,modrinth,curseforge,description
 ,bvgy8HrZ,958065,
 ,KjNUIZp9,813116,
 ,D5h9NKNI,962916,
-,lB7BzIIv,392023,
+,njGhQ4fN,388458,
 ,dQcfqGbl,968456,
 ,BfY01IQg,911145,
 ,TPmUIZPB,301169,
@@ -2889,7 +2889,7 @@ name,modrinth,curseforge,description
 ,yTSyrZpM,911826,
 ,MBKJWOuQ,422087,
 ,5X1XkrKL,556321,
-,edrOLdWE,690473,
+,uq8RUJSn,690473,
 ,HSmTuSaW,306555,
 ,WuKy9y7l,1096864,
 ,7RTcs7yj,1058059,
@@ -4202,7 +4202,7 @@ name,modrinth,curseforge,description
 ,Isgtel6o,1099761,
 ,otXdBiS4,871799,
 ,n9mFA0ax,500009,
-,eYsYyxH0,1065328,
+,hQ3kF633,1065328,
 ,ZrvT3v2D,864569,
 ,iAqn9vit,444779,
 ,x19saRaY,831102,
@@ -4240,7 +4240,7 @@ name,modrinth,curseforge,description
 ,7d1moRSC,348078,
 ,jGVzcXaf,1068451,
 ,AjfMeEPz,965719,
-,CqdgTeFR,867883,
+,3YqSAP5w,867883,
 ,CbranYJi,889839,
 ,6dyylOH1,978819,
 ,ZoS8iBbb,1121728,
@@ -7619,7 +7619,7 @@ name,modrinth,curseforge,description
 ,u62Up3Gc,1201492,
 ,TjcYKx6s,1268064,
 ,K0br4bKQ,1005760,
-,zhIupQBu,968067,
+,MUOs5mGb,968067,
 ,gxBZKwDD,267321,
 ,HXlL9LeK,1151941,
 ,Jmt7p37B,824728,
@@ -8441,7 +8441,7 @@ name,modrinth,curseforge,description
 ,Aoh3TAn2,1163241,
 ,34gINAHf,244864,
 ,OSStUM2E,1100918,
-,6EBQAueX,1110642,
+,uKE9kE6R,1110642,
 ,xHB66bjV,951784,
 ,KJY7RZyB,1059377,
 ,t9w23vii,1377279,
@@ -9674,7 +9674,7 @@ name,modrinth,curseforge,description
 ,smN4zlYE,577356,
 ,kNxa8z3e,378646,
 ,,291126,
-,COlSi5iR,533097,
+,VSNURh3q,533097,
 ,,417557,
 ,,463073,
 ,,224610,
@@ -9719,7 +9719,7 @@ name,modrinth,curseforge,description
 ,,386770,
 ,,349353,
 ,,488347,
-,8u5EZQJb,362368,
+,rTzlIrI4,362368,
 ,s0UnCrWE,387443,
 ,9paueCZy,386753,
 ,,386772,
@@ -10061,7 +10061,7 @@ name,modrinth,curseforge,description
 ,,387365,
 ,10DZYVis,383733,
 ,,695317,
-,gcXgGZ7R,459496,
+,Orvt0mRa,459496,
 ,wTncj5gs,242638,
 ,CAf1aIa6,313866,
 ,uSdcnlts,347405,
@@ -10434,7 +10434,7 @@ name,modrinth,curseforge,description
 ,vJnhuDde,634546,
 ,,300299,
 ,,363099,
-,2oORTOi2,59751,
+,MHni9gjy,59751,
 ,gvQqBUqZ,360438,
 ,LMEONxlN,451554,
 ,,224375,
@@ -10831,7 +10831,7 @@ name,modrinth,curseforge,description
 ,m0oRwcZx,423602,
 ,,518485,
 ,W1D3UXEc,354231,
-,mAHz905I,448233,
+,NNAgCjsB,448233,
 ,l7imhLoC,408853,
 ,,476645,
 ,3dT9sgt4,1015115,
@@ -12120,3 +12120,182 @@ name,modrinth,curseforge,description
 ,DGaH8Rh0,898963,
 ,7pSQejNy,1553844,
 ,UzkWePRG,1388926,
+,ocbOUiHH,,
+,mlaUPhrZ,,
+,X6YTb3G1,,
+,zpkKPhbq,,
+,u2goKIIl,,
+,nGLLzNcJ,,
+,ACLWFBlU,,
+,mBHOL0vT,,
+,xdpXVpMJ,,
+,tnr41XhG,,
+,Hforxth5,,
+,E6GusVzz,,
+,BbtQr1GV,,
+,BpcmlKS9,,
+,uDJkuFRe,,
+,v8gHddm5,,
+,ZazGNjSE,,
+,AVJV62Cj,,
+,n3D4BPgL,,
+,b8DiFMOK,,
+,aosv29zK,,
+,oxBNHOmi,,
+,JudjzCsX,,
+,zhKDhaPQ,,
+,YYlTINeM,,
+,alDYMU7T,,
+,hTHPfI2S,,
+,3uT4J18I,,
+,7dbCGUGr,,
+,Z7xAH01M,,
+,W0k70zwu,,
+,SzO1O63Q,,
+,MzU6Lh9B,,
+,3jCkacxI,,
+,Rtw99Org,,
+,A2pNL8T7,,
+,vOjCavUT,,
+,LQRvkGba,,
+,gQo4x6RW,,
+,1R7NOWFk,,
+,mva5q4qZ,,
+,eSqcuS1j,,
+,2Ot6MryC,,
+,7FckdYcx,,
+,LNjUMo5H,,
+,HqOAZ03k,,
+,qHxCUweJ,,
+,mZzTkAcs,,
+,5ZDVVebS,,
+,ax5T2Swr,,
+,A8WM17FM,,
+,76K6HCCc,,
+,gaSdoMMO,,
+,io20Ajyj,,
+,6Uocsa4f,,
+,KbnBpU9P,,
+,gEqbzplo,,
+,isSnF43I,,
+,nQF3JYgP,,
+,xpR9bZMi,,
+,gkfOQk9U,,
+,QHl6W6lh,,
+,SRpMdE4d,,
+,v6M4YOww,,
+,ptrYIoww,,
+,AQGahqU5,,
+,JmqA4Alf,,
+,RSYs97F8,,
+,YJqoniYI,,
+,wI13khII,,
+,3F9H5wFy,,
+,vOwWxw5n,,
+,IHdW24gt,,
+,vT5p53cB,,
+,1ZkzxaSr,,
+,4q2Q9rk1,,
+,jkyv18V9,,
+,rQaI1dyQ,,
+,x9RObZ4h,,
+,fRpkaLG9,,
+,JC3FsJyt,,
+,Xlqo0QhO,,
+,2l5OnFsL,,
+,Ghd3HFvP,,
+,B2w7wF1e,,
+,apfFXHUY,,
+,koTibmqV,,
+,WUM2EgJz,,
+,S7acyZiI,,
+,cUKAwA2j,,
+,50V9AhxE,,
+,TEjXXybF,,
+,3qNitUjN,,
+,2nwF7mhs,,
+,Pc0FsTTj,,
+,q9JlrVdz,,
+,kwpTgbCk,,
+,QuQIhqzt,,
+,3aFJ6Iut,,
+,3zaeCSlT,,
+,PbuWXPc4,,
+,rTjtMUJ5,,
+,fe1B3FmQ,,
+,fDIomi6C,,
+,dHAUbDDr,,
+,PtKWXzEG,,
+,sLoWG5Zu,,
+,SUO5nSik,,
+,qYtXvlBc,,
+,FpLBlLy3,,
+,H15yTr2V,,
+,nc9lbKI9,,
+,rjoEH39n,,
+,yxvBuRLC,,
+,fUIcgq6j,,
+,tKWZHEND,,
+,yLb3uUWC,,
+,gmLQspOo,,
+,CMTgYi0U,,
+,peFeF6AS,,
+,DvHuHssf,,
+,KMvVDXMP,,
+,lkSkdJn8,,
+,UEWEVYL4,,
+,Os7n2ju4,,
+,pMbgd3XW,,
+,1qIqmuxK,,
+,xDLk8c0z,,
+,YfXFXkam,,
+,MqQSMXiY,,
+,9c8y2aTK,,
+,vFyS9YeL,,
+,t99XTZpf,,
+,nkzQ25Lf,,
+,6CNzxq9s,,
+,HTNaPgCx,,
+,fKxEkSCn,,
+,bSQ5escX,,
+,fgzREf1Q,,
+,OA72FRY8,,
+,cn0mri3g,,
+,A1LLhSQH,,
+,F9UuswAo,,
+,yCMwuZRP,,
+,M3Sm0Jml,,
+,fjBStYT8,,
+,XPOEMEGh,,
+,iRLdgJ1I,,
+,ZOL8bi7N,,
+,DLGp9dCX,,
+,k8JvyaXM,,
+,ccCnrDqT,,
+,uDy6bd7M,,
+,TiI55Eev,,
+,zQn4lLJU,,
+,NvvAkdnN,,
+,1jz4xzV9,,
+,GUjmOTOL,,
+,nWd6eJgM,,
+,VICZDzwx,,
+,hGjvfSAC,,
+,EbNeGOjo,,
+,bv375mrr,,
+,9JSaKu0u,,
+,uVtLpckQ,,
+,aRYJ88Zs,,
+,Hrk3Eic4,,
+,RSrO9pbx,,
+,cE2up1pW,,
+,yOxNUxrc,,
+,YFQtn2DW,,
+,GfIohcSp,,
+,QWjICHan,,
+,zPjLSNux,,
+,8Ma7UEPx,,
+,o9C05z7R,,
+,mX31zAOV,,
+,rZ8br2UQ,,
+,dxa0Bm8m,,

@@ -426,7 +426,7 @@ name,modrinth,curseforge,description
 ,NPCfuUI4,913400,Cobblemon 用のさまざまな MOD 互換性パッケージ
 ,sRzS8pFG,952435,ふわふわのハムスターを Minecraft に追加しましょう!
 ,78ZQG4Et,550916,Taterzens 拡張機能: GUI トレーダーの作成
-,ZeRQIPEB,450603,🐟 アシスタントがベルを持っていると、釣りが餌を取ると自動的にベルが鳴ります
+,R6PYx1PW,450603,🐟 アシスタントがベルを持っていると、釣りが餌を取ると自動的にベルが鳴ります
 ,L23x7zL8,238603,Minecraft のローテク コンピューティング システム
 ,TggYmc6t,410224,より深刻な環境課題
 ,mfHP09ru,585081,中世ファンタジー風の絵画を追加
@@ -560,7 +560,7 @@ name,modrinth,curseforge,description
 ,sbJh4AZw,361026,魂を召喚する能力を核とした儀式魔法システムで、自動化されたタスクをサポート、大量のアイテム保管、悪魔のようなボイドマイニング、強力なエンチャントツール/ジュエリー作成、使い魔補助などの豊富な機能をサポート
 ,OkmRZ5fH,636003,ウィザーの動作を Bedrock Edition に近づけます
 ,kVa5y52B,319194,建物を支える多様なガラスの種類
-,Kp2uclYl,357540,メインインベントリ、ポーション効果、装備をHUDに表示し、ほかにも便利機能を追加します。
+,CEgQm5YJ,357540,メインインベントリ、ポーション効果、装備をHUDに表示し、ほかにも便利機能を追加します。
 ,OIVHMITc,994391,MC 上の「FNaF: セキュリティ脆弱性」の修復を支援するモジュール
 ,CT0O8jbT,669167,ピザやその他のメニューも新たに追加されました！モドリンスにログインしました！
 ,TQTTVgYE,349239,オリジナルのゲーム体験を完全にコントロール
@@ -1199,7 +1199,7 @@ name,modrinth,curseforge,description
 ,GkIc6rRo,955605,CERBON モジュール ライブラリ ファイル
 ,UsLNxQgK,454382,強化されたエクスポート/インポート/構築/破棄/ディスク操作/インターフェイス/デリケートなストレージのリクエスター
 ,1zZJrh9c,570050,鉄道および水上輸送モジュール
-,vzxBRBiJ,474612,Origin モジュールのショートカット キーをさらに展開します
+,6b2RpJpx,474612,Origin モジュールのショートカット キーをさらに展開します
 ,24CSPS1E,666942,あなたの馬が実際どれくらい優れているか知りたいですか?彼らの属性統計をチェックしてください!
 ,p1WH6sHr,852533,恐怖と謎の世界に足を踏み入れましょう - 「From The Fog」モジュールは、没入型のホラー体験で伝説のヘロブラインを完全に復元します。
 ,KkxAa5Ed,352557,「進撃の巨人」をベースにしたMinecraft MOD
@@ -1296,7 +1296,7 @@ name,modrinth,curseforge,description
 ,9q4wtMjp,877545,Legend of the Mountains 拡張: 新しい木/木材と樹脂の採掘レシピ
 ,pxcPUxNg,355910,冒険探検を核とした Herobrine を追加
 ,uRSeGBg3,582149,Villager 簡易モジュール (サーバー側で利用可能)
-,BHCrWnHJ,902233,村の生成を無効にする
+,YDOf2ZPv,902233,村の生成を無効にする
 ,DNECjG17,887125,私の MOD 共有コードベース
 ,PGBgocFc,347635,🚪 周囲のドアを自動的に開閉します (遅延設定可能)
 ,tG6HkcWx,410743,🐝 ミツバチのサイズ/グループの生成/巣の容量/刺し機能などを調整可能。
@@ -1469,7 +1469,7 @@ name,modrinth,curseforge,description
 ,jJthQvHv,417439,ユニークでバランスの取れたエンチャントをゲームに大量に追加します
 ,1qeWG44Y,579886,特定の MOD/パッケージ用の Apoli/Origin MOD サポート ライブラリ
 ,4RYXbwYJ,274782,ワールド生成を無効にするシンプルなMOD
-,518JYCyS,932466,現代軍用戦術装甲を追加するMOD
+,GBB5TIXx,932466,現代軍用戦術装甲を追加するMOD
 ,Bc9bwujS,377313,農地の踏みつけメカニズムを最適化するための実践的な調整
 ,OVb8ZE5p,709585,特定の高さから落下したときに船がダメージを受けるバグを修正しました
 ,aVBESYAJ,676133,エンティティがドアを通過して死亡することによって引き起こされる複製の脆弱性を修正します。
@@ -1954,7 +1954,7 @@ name,modrinth,curseforge,description
 ,vbBQ6dVH,513524,ファブリック カーペット モジュール拡張機能により興味深い機能が提供されます
 ,YWZbIwtC,933960,🎵 現在再生中のトラックの GUI プロンプトを一時的に表示します
 ,9o4YEocr,537738,プレイヤーの背中で最後に使用したツールをレンダリングする
-,7BgsROit,1115285,Almanac は、重複を避けるために複数のモジュールに共通のコードを含む私のモジュール共有ライブラリです。
+,CllP7wW0,1115285,Almanac は、重複を避けるために複数のモジュールに共通のコードを含む私のモジュール共有ライブラリです。
 ,cE5SLYbv,621377,サポートされているランタンにヒップ ジュエリー スロットを追加します。ダイナミック ライティングはダイナミック ライティング モジュールと一緒に使用する必要があります
 ,ilfn0HT9,690182,LudoCrypt ダイナミック ミュージックのフォーク バージョンです。
 ,N6n5dqoA,1162908,オールインワンの Minecraft ワールド エディター
@@ -2427,7 +2427,7 @@ name,modrinth,curseforge,description
 ,cUtsYbG5,576287,mcinstance 形式のモジュール パッケージのインストールをサポート (オーバーレイ ファイルとダウンロード アイテムを含めることができます)
 ,qcz8IJ9L,839908,銀河を結びつける目に見えない力
 ,hgNzwsf3,357362,複数の新しいフェンス ブロックのバリアントを追加しました
-,r0zJa8lV,849595,寄生ミュータントをゲームに追加する
+,SBkd4mrC,849595,寄生ミュータントをゲームに追加する
 ,NazssWmx,897227,さまざまな新しい陶器の破片が追加され、オリジナル バージョンの破片システムや他のモジュールと完全に互換性があります。
 ,9vlChzlU,523830,🌾 作物の収穫をスピードアップ/鍬の範囲を拡大/逆鍬で土の塊を復元
 ,1r5vvCad,930056,👻 2023 年のホラー テーマ: 夜の花には気をつけてください...花は怪物に突然変異する可能性があります!
@@ -2871,7 +2871,7 @@ name,modrinth,curseforge,description
 ,bvgy8HrZ,958065,ComputerCraft と Valkyrien Skies の間のシンプルな連携コンポーネント
 ,KjNUIZp9,813116,🌌 終わりを月の風景に変える
 ,D5h9NKNI,962916,ガイドブック API とパチョリの代替品
-,lB7BzIIv,392023,REI の現在の検索に一致する項目を強調表示します
+,njGhQ4fN,388458,REI の現在の検索に一致する項目を強調表示します
 ,dQcfqGbl,968456,クリスタルレア API
 ,BfY01IQg,911145,KubeJS スクリプト経由でプレーヤーにカスタム マントを追加する
 ,TPmUIZPB,301169,消えそうなアイテムを自動で回収
@@ -2889,7 +2889,7 @@ name,modrinth,curseforge,description
 ,yTSyrZpM,911826,Bedrock Editionの大釜抽出機能を移植
 ,MBKJWOuQ,422087,データパックアイテムにツールチップやJEI情報を追加するMOD
 ,5X1XkrKL,556321,世界の自然の美しさをさらに高めましょう！
-,edrOLdWE,690473,Big Swords Rは、巨大な剣、グレイブ、大鎌、盾をゲームに追加します。
+,uq8RUJSn,690473,Big Swords Rは、巨大な剣、グレイブ、大鎌、盾をゲームに追加します。
 ,HSmTuSaW,306555,オーディオ デバイスを古いバージョンの MC に切り替える機能を追加
 ,WuKy9y7l,1096864,Create モジュールのバックタンクを Curios スロットに配置できるようにします
 ,7RTcs7yj,1058059,魔法が込められた武器で自分の体と戦いましょう！
@@ -4202,7 +4202,7 @@ name,modrinth,curseforge,description
 ,Isgtel6o,1099761,Apotheosis と Farmer's Lay の互換性が追加されました。オリジナルのスタイルを維持する
 ,otXdBiS4,871799,戦闘/ダメージ計算、経験値、耐久性、エンチャント、空腹感、その他のゲームメカニクスを調整します
 ,n9mFA0ax,500009,ロード中のメモリ使用量を表示する
-,eYsYyxH0,1065328,Timeless and Classicsの銃に、ジャムと修理システム付きの耐久度を追加します。
+,hQ3kF633,1065328,Timeless and Classicsの銃に、ジャムと修理システム付きの耐久度を追加します。
 ,ZrvT3v2D,864569,コブルモン大グループ攻撃モジュール: ポケモンが大量に出現するための新しいメカニズム
 ,iAqn9vit,444779,さまざまな特徴を持つ 13 種類の新しいゾンビの亜種を追加しました
 ,x19saRaY,831102,エコシステムの作成に TIS-3D シリアル ポート プロトコルを追加しました
@@ -4240,7 +4240,7 @@ name,modrinth,curseforge,description
 ,7d1moRSC,348078,🔎 [PvP Mod] 特別なトラッカーを通じてプレイヤーを見つける
 ,jGVzcXaf,1068451,素早く簡単にバックパックを整理
 ,AjfMeEPz,965719,ステルスでチャージして、より高くジャンプしましょう！
-,CqdgTeFR,867883,Construct armour mod 1.12.2 の非公式移植
+,3YqSAP5w,867883,Construct armour mod 1.12.2 の非公式移植
 ,CbranYJi,889839,バニラ洞窟に装飾ブロックを追加しました
 ,6dyylOH1,978819,バニラ村にカスタムのコブルモンエルフセンターを追加
 ,ZoS8iBbb,1121728,完璧なスタックセグメンテーションを実現します (満足のいく動作と同様)
@@ -7616,7 +7616,7 @@ name,modrinth,curseforge,description
 ,u62Up3Gc,1201492,This mod adds a brand-new Big Oak Tree to Forest & Flower Forest biome.
 ,TjcYKx6s,1268064,Allows configuration of sleeping time, for users with shaderpacks that get dark quickly.
 ,K0br4bKQ,1005760,The Walkers mod adds a variety of new features into Minecraft that aim to change the direction of the Mob System and Night stage throughout the game.
-,zhIupQBu,968067,A mod that adds functional cosmetic clothes into the game
+,MUOs5mGb,968067,A mod that adds functional cosmetic clothes into the game
 ,gxBZKwDD,267321,Pixelmongo is an addon to Pixelmon that adds pixelmon pokestops to Minecraft
 ,HXlL9LeK,1151941,KubeJS intergration for Create: The Factory Must Grow
 ,Jmt7p37B,824728,An addon for Hex Casting adding some new Iota types to make your life easier.
@@ -8438,7 +8438,7 @@ name,modrinth,curseforge,description
 ,Aoh3TAn2,1163241,構成内の機密値をクライアントに同期することを回避します。
 ,34gINAHf,244864,ジャンクボックス、キュー、隠しチェスト、スタッキングチェスト
 ,OSStUM2E,1100918,FPS ディスプレイを最新の方法でカスタマイズする
-,6EBQAueX,1110642,Minecraft のゲーム進行方法の全面的な見直し: ボス、RPG のような、新しいメカニズム、マルチプレイヤーの互換性、武器、鉱石...!
+,uKE9kE6R,1110642,Minecraft のゲーム進行方法の全面的な見直し: ボス、RPG のような、新しいメカニズム、マルチプレイヤーの互換性、武器、鉱石...!
 ,xHB66bjV,951784,アルマジロが死亡するとアルマジロ スクートをドロップします。
 ,KJY7RZyB,1059377,吸血鬼の体験を拡張および強化することを目的とした Vampirism mod のアドオン。
 ,t9w23vii,1377279,
@@ -8825,6 +8825,185 @@ name,modrinth,curseforge,description
 ,DGaH8Rh0,898963,"A library that adds the Attributes GUI, alongside a suite of new attributes to work with"
 ,7pSQejNy,1553844,A mod for interesting item speedruns with additional modifiers.
 ,UzkWePRG,1388926,"A Breach Happened is a psychological horror data pack that introduces 3 new entities and tons of events such as random signs, world events, weird terrain, weird sounds, creepy music, creepy atmosphere and decently large story."
+,ocbOUiHH,,
+,mlaUPhrZ,,
+,X6YTb3G1,,
+,zpkKPhbq,,
+,u2goKIIl,,
+,nGLLzNcJ,,
+,ACLWFBlU,,
+,mBHOL0vT,,
+,xdpXVpMJ,,
+,tnr41XhG,,
+,Hforxth5,,
+,E6GusVzz,,
+,BbtQr1GV,,
+,BpcmlKS9,,
+,uDJkuFRe,,
+,v8gHddm5,,
+,ZazGNjSE,,
+,AVJV62Cj,,
+,n3D4BPgL,,
+,b8DiFMOK,,
+,aosv29zK,,
+,oxBNHOmi,,
+,JudjzCsX,,
+,zhKDhaPQ,,
+,YYlTINeM,,
+,alDYMU7T,,
+,hTHPfI2S,,
+,3uT4J18I,,
+,7dbCGUGr,,
+,Z7xAH01M,,
+,W0k70zwu,,
+,SzO1O63Q,,
+,MzU6Lh9B,,
+,3jCkacxI,,
+,Rtw99Org,,
+,A2pNL8T7,,
+,vOjCavUT,,
+,LQRvkGba,,
+,gQo4x6RW,,
+,1R7NOWFk,,
+,mva5q4qZ,,
+,eSqcuS1j,,
+,2Ot6MryC,,
+,7FckdYcx,,
+,LNjUMo5H,,
+,HqOAZ03k,,
+,qHxCUweJ,,
+,mZzTkAcs,,
+,5ZDVVebS,,
+,ax5T2Swr,,
+,A8WM17FM,,
+,76K6HCCc,,
+,gaSdoMMO,,
+,io20Ajyj,,
+,6Uocsa4f,,
+,KbnBpU9P,,
+,gEqbzplo,,
+,isSnF43I,,
+,nQF3JYgP,,
+,xpR9bZMi,,
+,gkfOQk9U,,
+,QHl6W6lh,,
+,SRpMdE4d,,
+,v6M4YOww,,
+,ptrYIoww,,
+,AQGahqU5,,
+,JmqA4Alf,,
+,RSYs97F8,,
+,YJqoniYI,,
+,wI13khII,,
+,3F9H5wFy,,
+,vOwWxw5n,,
+,IHdW24gt,,
+,vT5p53cB,,
+,1ZkzxaSr,,
+,4q2Q9rk1,,
+,jkyv18V9,,
+,rQaI1dyQ,,
+,x9RObZ4h,,
+,fRpkaLG9,,
+,JC3FsJyt,,
+,Xlqo0QhO,,
+,2l5OnFsL,,
+,Ghd3HFvP,,
+,B2w7wF1e,,
+,apfFXHUY,,
+,koTibmqV,,
+,WUM2EgJz,,
+,S7acyZiI,,
+,cUKAwA2j,,
+,50V9AhxE,,
+,TEjXXybF,,
+,3qNitUjN,,
+,2nwF7mhs,,
+,Pc0FsTTj,,
+,q9JlrVdz,,
+,kwpTgbCk,,
+,QuQIhqzt,,
+,3aFJ6Iut,,
+,3zaeCSlT,,
+,PbuWXPc4,,
+,rTjtMUJ5,,
+,fe1B3FmQ,,
+,fDIomi6C,,
+,dHAUbDDr,,
+,PtKWXzEG,,
+,sLoWG5Zu,,
+,SUO5nSik,,
+,qYtXvlBc,,
+,FpLBlLy3,,
+,H15yTr2V,,
+,nc9lbKI9,,
+,rjoEH39n,,
+,yxvBuRLC,,
+,fUIcgq6j,,
+,tKWZHEND,,
+,yLb3uUWC,,
+,gmLQspOo,,
+,CMTgYi0U,,
+,peFeF6AS,,
+,DvHuHssf,,
+,KMvVDXMP,,
+,lkSkdJn8,,
+,UEWEVYL4,,
+,Os7n2ju4,,
+,pMbgd3XW,,
+,1qIqmuxK,,
+,xDLk8c0z,,
+,YfXFXkam,,
+,MqQSMXiY,,
+,9c8y2aTK,,
+,vFyS9YeL,,
+,t99XTZpf,,
+,nkzQ25Lf,,
+,6CNzxq9s,,
+,HTNaPgCx,,
+,fKxEkSCn,,
+,bSQ5escX,,
+,fgzREf1Q,,
+,OA72FRY8,,
+,cn0mri3g,,
+,A1LLhSQH,,
+,F9UuswAo,,
+,yCMwuZRP,,
+,M3Sm0Jml,,
+,fjBStYT8,,
+,XPOEMEGh,,
+,iRLdgJ1I,,
+,ZOL8bi7N,,
+,DLGp9dCX,,
+,k8JvyaXM,,
+,ccCnrDqT,,
+,uDy6bd7M,,
+,TiI55Eev,,
+,zQn4lLJU,,
+,NvvAkdnN,,
+,1jz4xzV9,,
+,GUjmOTOL,,
+,nWd6eJgM,,
+,VICZDzwx,,
+,hGjvfSAC,,
+,EbNeGOjo,,
+,bv375mrr,,
+,9JSaKu0u,,
+,uVtLpckQ,,
+,aRYJ88Zs,,
+,Hrk3Eic4,,
+,RSrO9pbx,,
+,cE2up1pW,,
+,yOxNUxrc,,
+,YFQtn2DW,,
+,GfIohcSp,,
+,QWjICHan,,
+,zPjLSNux,,
+,8Ma7UEPx,,
+,o9C05z7R,,
+,mX31zAOV,,
+,rZ8br2UQ,,
+,dxa0Bm8m,,
 [AS]失われた遺跡,TWsbC6jW,297680,世界に完璧に溶け込む 200 以上の新しい建築構造を追加
 [CEI] 機械力: エンチャント産業,JWGBpFUP,688768,Create を使用して自動エンチャントを実装する
 「これから行くバイオーム」修正MOD,,518623,
@@ -8860,7 +9039,7 @@ BC 拡張: その他のツール,,59591,
 BGMセレクター,ZEz1sa0T,657299,/music コマンドを使用して、環境音の効果をカスタマイズし、再生を録音します
 Broai ファブリックバージョン,faitfqhg,0,Quilt モジュール BLAHAJ のファブリック拡張移植版
 bspkrscore,,323993,
-C^2Mエンジン,COlSi5iR,533097,ブロックパフォーマンスを最適化するファブリックモジュール
+C^2Mエンジン,VSNURh3q,533097,ブロックパフォーマンスを最適化するファブリックモジュール
 Calemi の実用的なデバイス,,320196,
 CHENZIQIUの創造性,,532027,
 CMDコマンドカメラ,hZw3uqi3,251244,デュアルパースペクティブ – 滑らかなレンズ軌道
@@ -9129,7 +9308,7 @@ Yuo によるその他のエンチャント,,698171,
 イリジウム鉱物,,280896,
 イルミネーション🔥,,286847,
 インゴットを地面に置きます！,,609725,
-インジウム,gcXgGZ7R,459496,Indigo ベースの Sodium 拡張機能、ファブリック レンダリング API をサポート
+インジウム,Orvt0mRa,459496,Indigo ベースの Sodium 拡張機能、ファブリック レンダリング API をサポート
 インスタントユニティ,,277047,
 インスピレーション,ZiHTbJ44,284007,オリジナルのスタイルにマッチする小さな機能のコレクションを追加します。
 インターステラー: 系外惑星,xVzIiQ35,358968,また新たなGalacticraftアドオン。
@@ -9242,7 +9421,7 @@ Yuo によるその他のエンチャント,,698171,
 エンチャント注入ステーション,ePv85y52,551151,真新しいエンチャント テーブル: 価格が明確に表示された独自のエンチャントを選択してください。ランダムさに別れを告げましょう！
 エンティティフラグ,,470149,
 エンティティモデルJSON,,521687,
-エンティティレンダリングメカニズムの最適化,mAHz905I,448233,非同期パス トレースにより、目に見えないブロック/エンティティが非表示になります
+エンティティレンダリングメカニズムの最適化,NNAgCjsB,448233,非同期パス トレースにより、目に見えないブロック/エンティティが非表示になります
 エンドレス グリード ライト,,430116,
 エンドレス グリード: インターフェース,,312149,
 エンドレスアイテムエディター,iWewB8io,290958,ほぼすべてのオリジナル NBT タグを編集できるカスタム インターフェイスは、あらゆるサーバーの作成に適しています。
@@ -9751,7 +9930,7 @@ Yuo によるその他のエンチャント,,698171,
 ダイナミックツリー：タブーとミステリーアタッチメント,,416698,
 ダイナミックツリー：ミステリアスエイジアタッチメント,,292752,
 ダイナミックツリー：ルートマジックアタッチメント,,349353,
-ダイナミックツリー：山の伝説が付属,8u5EZQJb,362368,TerraFirmaCraftとDynamic Treesの互換Mod。ワールド生成の木も植えた木も動的になります。
+ダイナミックツリー：山の伝説が付属,rTzlIrI4,362368,TerraFirmaCraftとDynamic Treesの互換Mod。ワールド生成の木も植えた木も動的になります。
 ダイナミックツリー：桜付き,,564635,
 ダイナミックツリー：職人魂のアタッチメント,,386747,
 ダイナミックツリー：黄昏の森付属,,391986,
@@ -11210,7 +11389,7 @@ Yuo によるその他のエンチャント,,698171,
 村人を守る,H1sntfo8,360203,村の害虫駆除システム
 村人市場,,261505,
 枕,,301478,
-林業,2oORTOi2,59751,木、ミツバチなど
+林業,MHni9gjy,59751,木、ミツバチなど
 果樹🍊,4bZDWNlG,355467,果樹栽培や養蜂についての詳しい内容を紹介します。
 枠なしの全画面表示,ETlrkaYF,975120,ボーダーレスフルスクリーンウィンドウモード
 染めた植木鉢,,383761,
