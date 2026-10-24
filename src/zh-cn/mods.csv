@@ -118,7 +118,7 @@ name,modrinth,curseforge,description
 ,FGlHZl7X,687497,End Remastered的前身，The Lost Castle引入了一座巨大的城堡。内部藏有无尽的财富和一个早已消失的文明留下的谜团...
 ,xl3myxch,550778,ApexStudios所有模组必需的库模组
 ,Lq6ojcWv,574409,Enderman Overhaul 添加了20多种新末影人变种，各有独特音效、模型和动画！
-,WXDvMkR5,429291,禁用"实验性世界设置"警告界面
+,WXDvMkR5,429291,禁用实验性世界设置警告界面
 ,IKARgflD,458048,栅栏可以斜向连接？等等，这不合法。
 ,lo90fZoB,845831,一个树形任务模组，允许包制作者为玩家创建和包含可完成的任务
 ,VXgaJQ9n,386320,一个基于FPS游戏A.V.A的模组，添加了枪械等内容
@@ -426,7 +426,7 @@ name,modrinth,curseforge,description
 ,NPCfuUI4,913400,Cobblemon的各类模组兼容包
 ,sRzS8pFG,952435,为Minecraft加入毛茸茸的仓鼠！
 ,78ZQG4Et,550916,Taterzens扩展：创建GUI交易员
-,R6PYx1PW,450603,🐟 副手持铃时，钓鱼上钩自动响铃
+,ZeRQIPEB,450603,🐟 副手持铃时，钓鱼上钩自动响铃
 ,L23x7zL8,238603,Minecraft低技术力计算系统
 ,TggYmc6t,410224,更严酷的环境挑战
 ,mfHP09ru,585081,新增中世纪奇幻风格画作
@@ -560,7 +560,7 @@ name,modrinth,curseforge,description
 ,sbJh4AZw,361026,以可召唤灵魂为核心的仪式魔法系统，支持自动化任务、海量物品存储、恶魔虚空采矿、强力附魔工具/珠宝制作、使魔辅助等丰富功能
 ,OkmRZ5fH,636003,使凋灵行为更接近基岩版
 ,kVa5y52B,319194,助力建筑的多样化玻璃类型
-,CEgQm5YJ,357540,将主物品栏、药水效果和装备显示到 HUD，并提供少量其他功能。
+,Kp2uclYl,357540,将主物品栏、药水效果和装备显示到 HUD，并提供少量其他功能。
 ,OIVHMITc,994391,助力在MC还原《FNaF：安全漏洞》的模组
 ,CT0O8jbT,669167,新增披萨等美食！现已登陆Modrinth！
 ,TQTTVgYE,349239,全面掌控你的原版游戏体验
@@ -654,7 +654,7 @@ name,modrinth,curseforge,description
 ,wMkevcSR,808006,为鼠标拾取/放置物品添加微小动画
 ,JiEhJ3WG,695107,为现有生物添加新变种
 ,gsJ6q45e,736884,添加星云并改造星空与光照效果
-,zv7fYVyQ,942945,抑制控制台"Detected setBlock in a far chunk"提示以减少日志体积
+,zv7fYVyQ,942945,抑制控制台Detected setBlock in a far chunk提示以减少日志体积
 ,V5ujR2yw,258371,Minecraft物理系统
 ,BgNRHReB,495191,BetterX团队的库模组
 ,80j65Nbw,70496,本模组整合了我其他模组的通用代码
@@ -816,7 +816,7 @@ name,modrinth,curseforge,description
 ,VqI5EAmI,859307,简单快捷——现在可以煎蛋获取欧姆蛋了！
 ,ongAyqum,907194,添加更多雪球变种的简易模组
 ,ZvaHbwoZ,292038,在玩家列表中添加可配置的数字延迟显示
-,13qq15Cg,492574,客户端模组，用于禁用Forge的"不兼容FML模组服务器"提示
+,13qq15Cg,492574,客户端模组，用于禁用Forge的不兼容FML模组服务器提示
 ,9KawNmQc,709773,FrozenBlock模组的核心库文件
 ,sdaSaQEz,633823,统一所有资源文件
 ,laX5CckD,699872,加速树叶腐烂过程
@@ -842,7 +842,7 @@ name,modrinth,curseforge,description
 ,q8MC5tW2,420709,用凿子将方块化作精细部件，打造万物
 ,KSyWOxT5,431430,禁用夜视效果闪烁
 ,zfbCkvdZ,455585,Kotlin语言编写的库模组
-,JD2NSu5O,223796,以太II是经典维度模组"以太"的续作，云端之上的敌意天堂将带来全新维度体验！
+,JD2NSu5O,223796,以太II是经典维度模组以太的续作，云端之上的敌意天堂将带来全新维度体验！
 ,uHWrqYcS,852668,乘着全新滑翔翼翱翔天际，探索世界之美！
 ,o5GUN4b1,409221,添加RPG风格的属性系统、等级与技能点
 ,dY183GiL,580137,Fabric版模组开发基础库
@@ -1199,7 +1199,7 @@ name,modrinth,curseforge,description
 ,GkIc6rRo,955605,CERBON模组的库文件
 ,UsLNxQgK,454382,强化精妙存储的出口/进口/构造/破坏/磁盘操作/接口/请求器
 ,1zZJrh9c,570050,铁路与水运交通模组
-,6b2RpJpx,474612,为起源模组扩展更多快捷键
+,vzxBRBiJ,474612,为起源模组扩展更多快捷键
 ,24CSPS1E,666942,想知道你的马匹真正实力如何？查看它们的属性统计吧！
 ,p1WH6sHr,852533,踏入恐惧与神秘的迷雾世界——《From The Fog》模组将传说中的Herobrine以沉浸式惊悚体验完美还原。
 ,KkxAa5Ed,352557,基于《进击的巨人》的Minecraft模组
@@ -1296,7 +1296,7 @@ name,modrinth,curseforge,description
 ,9q4wtMjp,877545,群峦传说拓展：新增树木/木材与采树脂配方
 ,pxcPUxNg,355910,以冒险探索为核心添加Herobrine
 ,uRSeGBg3,582149,村民简易化模组（服务端可用）
-,YDOf2ZPv,902233,禁用村庄生成
+,BHCrWnHJ,902233,禁用村庄生成
 ,DNECjG17,887125,我的模组共享代码库
 ,PGBgocFc,347635,🚪 自动开关周围的门（延迟可配置）
 ,tG6HkcWx,410743,🐝 可调节蜜蜂体型/群组生成/蜂巢容量/螫刺功能等
@@ -1331,7 +1331,7 @@ name,modrinth,curseforge,description
 ,OUhp5O2m,379232,Tesseract实现物品/流体/能量跨维度传输
 ,EkEzjF3t,839880,为Fabric Seasons提供《Oh The Biomes You'll Go》兼容支持
 ,qlc8dxM6,689083,穿越星门前往异世界——就在《我的世界》中实现！
-,6pZviNJw,543277,修复并缓解荒谬的"床被阻挡"错误提示
+,6pZviNJw,543277,修复并缓解荒谬的床被阻挡错误提示
 ,7jzrCiK0,932715,更多标签功能，以原版风格赋予玩家控制权
 ,8Tb4j8xo,292243,通过动态加载垂直区块（类似水平方向机制），实现（近乎）无限的世界高度与深度
 ,1QV9wNCJ,959503,为Cobblemon添加训练师对战系统，配备高难度AI
@@ -1469,7 +1469,7 @@ name,modrinth,curseforge,description
 ,jJthQvHv,417439,为游戏添加大量独特且平衡的附魔效果
 ,1qeWG44Y,579886,Apoli/起源模组的支持库，用于特定模组/数据包
 ,4RYXbwYJ,274782,可禁用世界生成的简易模组
-,GBB5TIXx,932466,添加现代军事战术护甲的模组
+,518JYCyS,932466,添加现代军事战术护甲的模组
 ,Bc9bwujS,377313,优化耕地践踏机制的实用调整
 ,OVb8ZE5p,709585,修复船只在特定高度坠落时损毁的漏洞
 ,aVBESYAJ,676133,修补涉及实体穿门死亡导致的复制漏洞
@@ -1499,7 +1499,7 @@ name,modrinth,curseforge,description
 ,Pww2zMWB,272450,用于所有衍生模组的新基础库(API)
 ,W9PF5nLR,430225,允许包开发者给现有生物添加额外AI目标
 ,tIKBCqVe,291499,CraftStudio模型导入与渲染库
-,MsGuTgPJ,821683,检测跨线程世界随机访问的调试模组，定位"多线程访问LegacyRandomSource"崩溃原因
+,MsGuTgPJ,821683,检测跨线程世界随机访问的调试模组，定位多线程访问LegacyRandomSource崩溃原因
 ,y2PnCYl0,862147,恢复Forge在1.13+版本移除的客户端重置数据包功能，修复由此导致的网络故障
 ,zgVJyCgK,522205,智能工具：按键自动切换最佳工具，根据挖掘等级/速度、伤害与附魔全盘评估
 ,uPWCQrVL,478890,界面音效增强包
@@ -1665,7 +1665,7 @@ name,modrinth,curseforge,description
 ,Bmda4Rq4,238048,在不添加新物品的前提下，新增原版风格优化机制！
 ,FSzRTvY9,436715,
 ,e4uFcbDl,867286,为CC:Tweaked提供更多红石捆线缆支持
-,w6JSkKSH,550678,移除"移动过快"警告与橡皮筋效应
+,w6JSkKSH,550678,移除移动过快警告与橡皮筋效应
 ,vKYhdfqW,911255,在配置维度/生物群系/结构中禁用飞行
 ,UoWImNDD,698475,新增绿宝石、石英、钻石及幽匿晶洞！
 ,z7UX4SHt,342097,🔮 以地狱门为中心，按可配置半径将（下界）方块扩散至主世界
@@ -1686,7 +1686,7 @@ name,modrinth,curseforge,description
 ,V8TerSIX,619346,精简F3调试菜单的杂乱信息
 ,sG4TqDb8,974009,在EMI内便捷查看矿石生成信息
 ,aUp4r9hY,484804,解决因基地下方洞穴藏有怪物而无法入睡的问题
-,WZ49g0N6,965825,将《光环》系列中的恐怖虫族病毒引入游戏！专家警告："一颗孢子足以毁灭整个物种"
+,WZ49g0N6,965825,将《光环》系列中的恐怖虫族病毒引入游戏！专家警告：一颗孢子足以毁灭整个物种
 ,ghrZDhGW,443823,用于管理与恢复玩家皮肤的服务端模组
 ,K8pn1qHf,513857,支持微软/Mojang/旧版账户登录验证
 ,4qpZwEbF,819886,RLArtifacts分支版，包含改良拟态怪、MoBends饰品兼容及新神器
@@ -1868,12 +1868,12 @@ name,modrinth,curseforge,description
 ,uuVy6k1s,824654,为Create模组的矿石提供可再生来源
 ,v3UlehfS,1111833,下界扩展：以原版风格全面革新下界维度内容
 ,xe4saW9d,697859,药水混合器：将药水效果融合为单一物品的小型模组
-,TEOa2X8B,670282,移除铁砧"过于昂贵！"提示的轻量级模组，彻底解放装备强化限制
+,TEOa2X8B,670282,移除铁砧过于昂贵！提示的轻量级模组，彻底解放装备强化限制
 ,oqKSI6b9,637284,新增10种可制作的特色武器
 ,MxQObDqi,1073649,从农田到餐桌：涵盖种植与烹饪的综合性农业模组
 ,epdnizGK,825308,为所有装备添加RPG词缀系统！包含锋利/防护/传奇等属性，还可在祭坛重roll词缀
 ,4x0lvE1l,1115297,通过生物堆叠大幅提升性能，含实体上限控制模块
-,CPC1U8Fg,1092010,实现"史诗骑士：盾甲武器"与群峦传说的完美兼容
+,CPC1U8Fg,1092010,实现史诗骑士：盾甲武器与群峦传说的完美兼容
 ,dPHKQ6xy,502671,用水桶和岩浆桶合成黑曜石！
 ,Q0XHpuQz,602450,新增游戏模式切换器等更多菜单
 ,wQlT8uIq,345039,🧟‍♂️ 恢复僵尸刷怪笼生成村民变种的功能（1.11版本移除）
@@ -1954,7 +1954,7 @@ name,modrinth,curseforge,description
 ,vbBQ6dVH,513524,Fabric地毯模组扩展，提供趣味功能
 ,YWZbIwtC,933960,🎵 临时显示当前播放曲目的GUI提示
 ,9o4YEocr,537738,在玩家背部渲染最后使用的工具
-,CllP7wW0,1115285,Almanac是我的模组共用库，包含多模组通用代码以避免重复
+,7BgsROit,1115285,Almanac是我的模组共用库，包含多模组通用代码以避免重复
 ,cE5SLYbv,621377,为支持的灯笼添加臀部饰品槽！动态光照需配合动态光照模组使用
 ,ilfn0HT9,690182,LudoCrypt动态音乐的分支版本！
 ,N6n5dqoA,1162908,全能 Minecraft 世界编辑器
@@ -1980,7 +1980,7 @@ name,modrinth,curseforge,description
 ,x6r7yhfi,688223,精美物品标签，仓储管理神器
 ,VdEsgz29,652058,本模组添加了传奇猫咪Bingus和Floppa，它们会为你的荣誉而战
 ,Whdtyi1Y,686578,限制游戏中可获得的最高经验等级
-,FAUSd09K,661261,"我制作的多个模组共享代码库。能加速新模组开发，并简化跨版本移植。flib - /flib/ (WPI) 一个介于3到4之间的元整数。参见grix, N."
+,FAUSd09K,661261,我制作的多个模组共享代码库。能加速新模组开发，并简化跨版本移植。flib - /flib/ (WPI) 一个介于3到4之间的元整数。参见grix, N.
 ,Y6d4uRJn,345981,🌱 允许玩家用普通种子将泥土转化为（高）草丛
 ,RXDYkg6Z,518410,根据游戏内事件触发音乐播放的模组
 ,5wCAeUff,951809,秘密门！外观与其他方块相同的隐蔽门！
@@ -2063,7 +2063,7 @@ name,modrinth,curseforge,description
 ,CCM0U9YU,897116,现代工业化模组的内容扩展包
 ,i0YLfiAL,446489,新增从石头到不可获取物的多种发电设备！
 ,HXHLSNPN,840098,生物现在有小概率掉落战利品箱！存在多种战利品箱类型。
-,GHiEjPkT,990902,背脊嵌着箭矢的伤痕彰显其凶性，在被称为"家园"的冰原潜伏游荡，严寒从未减缓它的速度。
+,GHiEjPkT,990902,背脊嵌着箭矢的伤痕彰显其凶性，在被称为家园的冰原潜伏游荡，严寒从未减缓它的速度。
 ,sNUaI7Ge,1048415,Create: Garnished的扩展模组，新增100+可食用物品及大量其他内容！
 ,s8FllF1q,850610,添加日式祭典食物的模组
 ,4UKlJSdk,958325,基于Fabric的RPG属性系统模组，为玩家与游戏添加角色扮演要素。
@@ -2259,7 +2259,7 @@ name,modrinth,curseforge,description
 ,WucESYhb,674456,允许在马铠上施加与玩家盔甲相同的附魔
 ,OtbeKtn3,1024152,服务器友好的区块加载模组
 ,yzoRWZpp,893150,添加可居住/破坏/探索的多样化生成建筑
-,HUZkxNTQ,1026040,将"Mekanism-Evolution"移植至1.20.1并新增内容
+,HUZkxNTQ,1026040,将Mekanism-Evolution移植至1.20.1并新增内容
 ,qm0tEl8v,1024631,支持在任何方块表面放置物品(单方块多物品)
 ,qelfSMnn,982512,为应用能源2添加导入导出卡
 ,iWwn7s9U,347921,🧟‍♂️ 允许自然生成具有自定义AI的巨人(基于僵尸机制)
@@ -2427,7 +2427,7 @@ name,modrinth,curseforge,description
 ,cUtsYbG5,576287,支持安装mcinstance格式模组包（可包含覆盖文件与下载项）
 ,qcz8IJ9L,839908,维系星系的无形之力
 ,hgNzwsf3,357362,新增多种栅栏方块变体
-,SBkd4mrC,849595,为游戏添加寄生突变生物
+,r0zJa8lV,849595,为游戏添加寄生突变生物
 ,NazssWmx,897227,新增多种陶器碎片，完美兼容原版及其他模组的碎片系统
 ,9vlChzlU,523830,🌾 加速作物收割/增大锄地范围/可逆向锄地还原土块
 ,1r5vvCad,930056,👻 2023恐怖主题：当心夜间的花朵...它们可能异变成怪物！
@@ -2717,7 +2717,7 @@ name,modrinth,curseforge,description
 ,eiYW74Yj,850725,服务端生存优化工具合集
 ,Bgz35D5U,1094418,农夫乐事巴西风味扩展包
 ,OifMIGuH,1063011,全面重制伤害机制，包含元素伤害与盾牌格挡系统
-,1DkaQinc,869431,为朋友制作的粗糙版Cobblemon"繁殖"系统
+,1DkaQinc,869431,为朋友制作的粗糙版Cobblemon繁殖系统
 ,Iugiwphr,543209,村民交易回收系统
 ,pHNT1iyc,1067672,又一个面向开发者的库模组
 ,pcspJ4DD,967818,为Ad Astra添加意想不到的新内容
@@ -2871,7 +2871,7 @@ name,modrinth,curseforge,description
 ,bvgy8HrZ,958065,ComputerCraft与Valkyrien Skies的简易联动组件
 ,KjNUIZp9,813116,🌌 将末地转化为月球景观
 ,D5h9NKNI,962916,指南书API与Patchouli替代方案
-,njGhQ4fN,388458,高亮REI当前搜索匹配物品
+,lB7BzIIv,392023,高亮REI当前搜索匹配物品
 ,dQcfqGbl,968456,水晶巢穴API
 ,BfY01IQg,911145,通过KubeJS脚本为玩家添加自定义披风
 ,TPmUIZPB,301169,自动收集即将消失的物品
@@ -2889,7 +2889,7 @@ name,modrinth,curseforge,description
 ,yTSyrZpM,911826,移植基岩版的炼药锅酿造功能
 ,MBKJWOuQ,422087,为数据包物品添加工具提示和JEI信息的模组
 ,5X1XkrKL,556321,增强世界的自然风貌！
-,uq8RUJSn,690473,Big Swords R 向游戏添加巨剑、长柄刀、镰刀和盾牌。
+,edrOLdWE,690473,Big Swords R 向游戏添加巨剑、长柄刀、镰刀和盾牌。
 ,HSmTuSaW,306555,为旧版MC添加切换音频设备的功能
 ,WuKy9y7l,1096864,允许将Create模组的背罐放入Curios槽位
 ,7RTcs7yj,1058059,用魔法灌注武器与身体进行战斗！
@@ -3039,7 +3039,7 @@ name,modrinth,curseforge,description
 ,aXleiZbk,685037,将亮度/伽马值滑块拖动至超出默认范围的数值
 ,Kq6oQl0v,261489,可配置的动态生成尘埃！
 ,daLkM863,388157,提供Minecraft世界预生成器
-,1PpUVuyO,833435,为Minecraft添加更多附魔，包含称为"恶魔附魔"的新机制，在不破坏平衡的前提下增强附魔趣味性
+,1PpUVuyO,833435,为Minecraft添加更多附魔，包含称为恶魔附魔的新机制，在不破坏平衡的前提下增强附魔趣味性
 ,J1ueTDcI,489631,为原版燃料需求提供扩展信息！
 ,bcpDZvXb,1123016,中世纪远程/近战武器、枪械等装备
 ,OatOIyrk,333946,添加多彩花斑牛的模组。哞~！
@@ -3177,7 +3177,7 @@ name,modrinth,curseforge,description
 ,otiSEfKe,470405,添加自动熔炼挖掘方块的附魔
 ,bqPNU46D,1039942,添加受《只狼》启发的武器/义肢工具/战斗技艺
 ,5GQG2cua,1011956,扩展世界高度，添加自定义洞穴/结构/植被，探索全新维度
-,Oeb74GyG,1062753,"必要依赖项"——某个模组如是说
+,Oeb74GyG,1062753,必要依赖项——某个模组如是说
 ,REfW2AEX,1204243,支持在打开物品栏时移动（Forge/Fabric/Quilt）
 ,C5PewmIj,968266,生物死亡后掉落可拾取的生命球
 ,yl6ylodU,969378,使TAC:Zero枪械系统兼容ShoulderSurfing模组
@@ -3364,7 +3364,7 @@ name,modrinth,curseforge,description
 ,1TyQZUcH,1036810,🏹🍄 让沼泽骷髅自然生成时可能替换普通骷髅
 ,6yfqatHv,998996,提供从珊瑚碎片逐级合成珊瑚方块的配方
 ,jruQ9YSp,1057511,增强天象模组扩展：新增蜘蛛群袭之月
-,jBRYuw8o,666621,WTHIT Forge的采收提示插件/Fabric版请用"can i mine this block"
+,jBRYuw8o,666621,WTHIT Forge的采收提示插件/Fabric版请用can i mine this block
 ,1EqvoDgR,1018962,为不支持神秘时代的模组添加相关要素整合
 ,ZVv4e6pP,1096913,全树种木棍：为使用木棍合成的变体系列模组提供基础
 ,vqdlUqvp,969220,比利时信号与接触网体素包
@@ -3517,7 +3517,7 @@ name,modrinth,curseforge,description
 ,K0AkAin6,1049891,独立实现的Mouse Wheelie排序算法
 ,cylFY5iL,1027625,从《泰拉瑞亚》复刻的有趣饰品
 ,V0xdbyG2,998358,大麻产业模组：种植作物、加工收获、吸食或包装分销
-,vNE5j3Te,1076285,通过修复"附魔能量传导器"方块标签，允许玩家装饰附魔台布置
+,vNE5j3Te,1076285,通过修复附魔能量传导器方块标签，允许玩家装饰附魔台布置
 ,6DpItqEj,869104,在标题界面继续上次游玩的存档或服务器。原版模组针对1.19+的更新延续
 ,mbekts9X,979514,允许在种植盆中培育各类精华、矿石等材料
 ,Shzw0dzW,905701,调整《更好的任务系统非官方版》部分设定的微调模组
@@ -4123,10 +4123,10 @@ name,modrinth,curseforge,description
 ,NKZRF93K,868530,玩家死亡时掉落头颅（单机/联机均有效）
 ,lw05gEDu,736803,添加若干早期特性（如取消原木撞击）
 ,VmGOLJeH,950746,🪶 拥有缓降/羽毛效果时防止耕地被踩踏
-,aHpTPat6,944097,"生物蛋生成"：Create 模组扩展，允许获取生物刷怪蛋
+,aHpTPat6,944097,生物蛋生成：Create 模组扩展，允许获取生物刷怪蛋
 ,SJu6sklj,1125437,通过添加石板改善地形生成的世界模组
 ,qUC2Yt8r,930317,为 Cobblemon 模组扩展新技能、属性和类型的库模组
-,HkV7ZGW5,944294,"新技能"模组新增四种能力：挖掘、战斗、全局强化与有机体
+,HkV7ZGW5,944294,新技能模组新增四种能力：挖掘、战斗、全局强化与有机体
 ,kZsnfSFQ,917192,恢复下界合金物品的简易合成配方！
 ,TKHcC9bY,269637,添加可查看丰收节日作物信息的物品！
 ,9uikk2Ea,1126793,为收纳袋添加交互式 UI（纯客户端功能！）
@@ -4202,7 +4202,7 @@ name,modrinth,curseforge,description
 ,Isgtel6o,1099761,为Apotheosis与农夫乐事添加兼容性。保持原版风格
 ,otXdBiS4,871799,调整战斗/伤害计算、经验、耐久、附魔、饥饿等游戏机制
 ,n9mFA0ax,500009,加载时显示内存使用情况
-,hQ3kF633,1065328,为 Timeless and Classics 枪械添加耐久、卡壳和维修系统。
+,eYsYyxH0,1065328,为 Timeless and Classics 枪械添加耐久、卡壳和维修系统。
 ,ZrvT3v2D,864569,Cobblemon大型群袭模组：新增宝可梦大规模出现机制
 ,iAqn9vit,444779,新增13种各具特色的僵尸变种
 ,x19saRaY,831102,为Create生态系统添加TIS-3D串口协议
@@ -4230,7 +4230,7 @@ name,modrinth,curseforge,description
 ,jrDKjZP7,405159,可操作在线/离线玩家的背包与末影箱（仅服务端）
 ,QyvWSZ5S,1120678,为Minecraft 1.20.6+提供无边框全屏支持
 ,PmIir1iT,698244,RPG模组：新增维度|海量方块物品|独特武器护甲饰品，全面提升游戏体验
-,TsPVAakB,1072300,适配"Firma:Civilization"平衡性的"TFC坐标仪"版本
+,TsPVAakB,1072300,适配Firma:Civilization平衡性的TFC坐标仪版本
 ,fGCP5k6m,1089627,用10种新传奇生物及其稀有变种点亮世界！
 ,o5oOazmm,998837,添加大量原版风格炸药，重制TNT系统并新增村民职业
 ,qVP3xNMe,499018,修改options.txt等顶层配置文件，支持从子文件夹复制文件...
@@ -4240,7 +4240,7 @@ name,modrinth,curseforge,description
 ,7d1moRSC,348078,🔎 [PvP模组] 通过特殊追踪器定位玩家
 ,jGVzcXaf,1068451,快速便捷的背包整理
 ,AjfMeEPz,965719,潜行蓄力，跳得更高！
-,3YqSAP5w,867883,Construct护甲模组1.12.2的非官方移植版
+,CqdgTeFR,867883,Construct护甲模组1.12.2的非官方移植版
 ,CbranYJi,889839,为原版洞穴添加装饰性方块
 ,6dyylOH1,978819,在原版村庄添加自定义Cobblemon精灵中心
 ,ZoS8iBbb,1121728,实现完美堆叠分割（类似Satisfactory操作）
@@ -5214,7 +5214,7 @@ name,modrinth,curseforge,description
 ,9Tk5Ttel,954341,Tetra 附属，为你提供多种木材变体的工作台（当然包括模组添加的木材）。
 ,fanO8mSW,1185503,roooksasjiu 的模组库
 ,Yg1VT27P,1146393,通过 Sodium Options API 为各种模组添加兼容性
-,utYpQkTr,1098931,"我让你的武器变大，就这样。Big Items, Duh 的分支，仅显示 Wynncraft 装备。"
+,utYpQkTr,1098931,我让你的武器变大，就这样。Big Items, Duh 的分支，仅显示 Wynncraft 装备。
 ,wwz277OG,939493,使用模组时不再有配方问题和冲突！
 ,DJ1ZClf3,1145865,着火的生物和部分物品会发光！就像 OptiFine 的动态光源。
 ,oNRw3x5I,444658,让载具（船、马、矿车等）移动时检查乘客是否会与方块碰撞的小型模组。
@@ -6238,7 +6238,7 @@ name,modrinth,curseforge,description
 ,5VhtPKd6,1131202,小心……在山谷中，当它们被迷雾彻底吞噬后，你很难分辨它们的动机。
 ,39Nrer0H,1111928,Galosphere 与 Iron's Spells and Spellbooks 的附属
 ,uLtxXFVm,1091564,为 Quark 与 Macaw's Mods（如 Bridges、Roofs 和 Fences）提供多重兼容。
-,xxSAI5Z6,955045,"这个模组会返还 Ender Dragon 的 12,000 经验以及更多内容"
+,xxSAI5Z6,955045,这个模组会返还 Ender Dragon 的 12,000 经验以及更多内容
 ,xURD31r3,937279,在背包界面和第三人称视角中显示你自己的玩家名牌（标签）
 ,8FtYXJhp,1258607,为 Spectrum 添加 JEI 支持的附属。
 ,KgMCIL0a,1183498,一个小型 QoL 模组，为 Minecraft 添加额外的矿石、物品、工具和护甲。
@@ -6442,7 +6442,7 @@ name,modrinth,curseforge,description
 ,QgHW53j5,857543,原版风格模组，重做并扩展弓箭与投射物，同时带来一些体验优化。
 ,xF60FXqO,953036,在世界中的古老结构里寻找独特而强大的遗物！
 ,fXBIUIY6,901530,Botania 的魔力太多不知道怎么处理？别担心，这里有解决方案！一个可接收并瞬间清除任意数量魔力的垃圾桶。
-,HJKyXwfF,1160952,"添加轻小说《So I'm a Spider, So What?》部分物种与技能的附加模组。"
+,HJKyXwfF,1160952,添加轻小说《So I'm a Spider, So What?》部分物种与技能的附加模组。
 ,CiDIVfkf,251766,适用于 a1.2.6 - 1.5.2 的 WAILA 移植版
 ,xX0k30jj,1104966,多结构定位器，高级史莱姆区块查找器。
 ,4CuKFhRy,923677,添加高实用性的工具物品，可存放大量工具和配置设备。
@@ -7610,13 +7610,13 @@ name,modrinth,curseforge,description
 ,udEtt0b2,1355767,Create: Crystal Clear 的重制版，为 Create 添加玻璃机壳和照明机壳
 ,UI6gFMOn,1297281,添加几件无需火把也能提供照明的物品
 ,nCOon2PL,1169627,自定义你的游戏光标
-,Cx63lkV1,969003,"“Save The Cheerleader, Save The World!”（Forge/Fabric）"
+,Cx63lkV1,969003,“Save The Cheerleader, Save The World!”（Forge/Fabric）
 ,LNDOVFmc,1130141,Monkey Dweller 生活在地表，会跟踪并猎杀它视野中的任何人。
 ,YDc8cRWF,1309246,改善 Minecraft 中略显乏力的凋灵 Boss 的模组
 ,u62Up3Gc,1201492,为森林与繁花森林生物群系添加一棵全新的大型橡树。
 ,TjcYKx6s,1268064,可配置睡眠时间，适合使用会很快变暗的着色器包的玩家。
 ,K0br4bKQ,1005760,Walkers 模组为 Minecraft 添加多种新功能，旨在改变整个游戏中的生物系统与夜晚阶段体验。
-,MUOs5mGb,968067,为游戏添加具有实际功能的外观服饰
+,zhIupQBu,968067,为游戏添加具有实际功能的外观服饰
 ,gxBZKwDD,267321,Pixelmongo 是 Pixelmon 的附属，为 Minecraft 添加 Pixelmon 的补给站
 ,HXlL9LeK,1151941,为 Create: The Factory Must Grow 提供 KubeJS 集成
 ,Jmt7p37B,824728,Hex Casting 的附属，添加一些新的 Iota 类型，让你的使用更轻松。
@@ -8438,7 +8438,7 @@ name,modrinth,curseforge,description
 ,Aoh3TAn2,1163241,避免将配置中的敏感值同步到客户端
 ,34gINAHf,244864,垃圾箱、队列、隐藏箱和堆叠箱
 ,OSStUM2E,1100918,以现代方式定制您的 FPS 显示屏
-,uKE9kE6R,1110642,对 Minecraft 的游戏进展方式进行了彻底修改：boss、类似 RPG、新机制、多人游戏兼容性、武器、矿石……！
+,6EBQAueX,1110642,对 Minecraft 的游戏进展方式进行了彻底修改：boss、类似 RPG、新机制、多人游戏兼容性、武器、矿石……！
 ,xHB66bjV,951784,使犰狳在死亡时掉落 Armadillo Scute。
 ,KJY7RZyB,1059377,Vampirism 模组的插件，旨在扩展和增强吸血鬼体验。
 ,t9w23vii,1377279,
@@ -8690,7 +8690,7 @@ name,modrinth,curseforge,description
 ,ochFsQSn,469006,从玩家射出/投掷的抛体中移除任何不准确
 ,Qr0AOKKL,1011085,F或Vault Hunters 3rd Edition: 添加一个HUD th在shows currently required 物品s f或your Vault Altar
 ,OyeBuEOy,654347,Perfectly safe* internal storage
-,aY8vAgyv,321283,"Information overlay 使用time, foot level, 生物群系, light level, season 和hud compass."
+,aY8vAgyv,321283,Information overlay 使用time, foot level, 生物群系, light level, season 和hud compass.
 ,OE7OVgjk,1276898,This mod disables third-person view (f5).
 ,pLVRp7qd,1085348,允许you to equip Elytras in accessory slot
 ,Pk4FE8ta,1168537,
@@ -8698,15 +8698,15 @@ name,modrinth,curseforge,description
 ,EFLJed6B,1128789,This mod 添加different funny sounds to 玩家 death.
 ,RBqpYpxt,1173187,The Ender Dragon Toy 从the Better to Play (MVS) mod as mod f或many other versions!
 ,iv2jCzkP,1340197,Lets you see Waystone locations on Xaero’s Minimap/World Map
-,PiqfB70g,834229,"BreakTheFall is Minecraft mod th在lets 玩家s l和on leaves 没有taking fall damage, adding 新的level of strategy 和exploration 到游戏."
+,PiqfB70g,834229,BreakTheFall is Minecraft mod th在lets 玩家s l和on leaves 没有taking fall damage, adding 新的level of strategy 和exploration 到游戏.
 ,1TowMm2v,1096649,A mod th在ports EssentialsX / CMI 从bukkit to fabric. (Fully Server-side essential mod)
 ,J90dLs0h,1341317,添加一个large Villager moon outpost 到End
-,w4h9Qxh0,980952,"Wilderness enhances minecraft's f矿石sts 由adding new, wilder variants of them"
+,w4h9Qxh0,980952,Wilderness enhances minecraft's f矿石sts 由adding new, wilder variants of them
 ,zpha6eC6,1160846,添加生物群系 variants to Iron Golems
 ,9rSPp5Vd,1124160,
 ,riX6SmbI,719464,A simple mod f或1.12.2 th在添加campfires 使用high levels of customizability!
 ,4TonB1fZ,1033165,添加the ability to allow you to pack 和unpack gravel 和also improves 制造
-,MROpwQIR,927880,"this mods 添加me在foods to 生物s like camels, wolves, horses 和many m矿石."
+,MROpwQIR,927880,this mods 添加me在foods to 生物s like camels, wolves, horses 和many m矿石.
 ,752GQt04,399225,IMBlockerFabric is mod th在It can Hide IM(InputMethod) when you don't need to input text! This mod fixes typing bug exist 在Minecraft中 which annoying Asian 玩家s f或a long time.
 ,gwCtyRjo,1185268,A mod th在添加casing drops to all 3d model gun mods. Currently only supporting tacz 和DeceasedCraft as library of sorts.
 ,y7FjajXw,1180845,A Palladium addon featuring suits 和powers 从Arrzee's Enhanced SMP!
@@ -8720,11 +8720,11 @@ name,modrinth,curseforge,description
 ,LnbEnCHn,875721,Edit signs only when sneaking 和don't save changes 由pressing Escape
 ,FuIcHnhX,958944,添加explosive Sulphur generating in Basalt Deltas
 ,L9iy5vJ3,1212462,Siege engines f或Minecraft
-,HzcBKN2C,1046940,"Choose to become hero, legend, god. Powers: Speedster (Flash), Kryptonian (Superman), Jumper (Teleporter)"
+,HzcBKN2C,1046940,Choose to become hero, legend, god. Powers: Speedster (Flash), Kryptonian (Superman), Jumper (Teleporter)
 ,j7CRHkQ6,1291715,Add-on to add vehicles to Superb Warfare
 ,k3TlcLvL,1390924,This is module f或Drippy Loading Screen to add support f或NeoForge's early loading screen.
-,XD5oQKEA,821368,"This is mod i created 使用a lot of 装饰s to recreate gaming room! some of things you can use it, chairs you can sit 和move around"
-,WNKtUx8t,579403,"添加一个fully-functioning economy! Currency, Shops, Wallets, Banks, 和m矿石!"
+,XD5oQKEA,821368,This is mod i created 使用a lot of 装饰s to recreate gaming room! some of things you can use it, chairs you can sit 和move around
+,WNKtUx8t,579403,添加一个fully-functioning economy! Currency, Shops, Wallets, Banks, 和m矿石!
 ,aYUGK1CP,839151,Add 更多than 300 varieties of your favorite vanilla 方块s !
 ,HtxqvxVX,531708,an epic RPG adventure mod.
 ,NGYPZuX4,1124968,移除Weapons 和Arm或nerfs 在aether 维度
@@ -8741,9 +8741,9 @@ name,modrinth,curseforge,description
 ,CHELG1WR,1113389,添加6 extra Dungeons 到underground
 ,Ruuh7ALl,875825,Experience ultimate convenience 在世界 of Minecraft 使用Deathlink! Say goodbye to frustrating treks back 到你的death point 在a fatal mishap
 ,gmFZk7SE,1118079,添加an 物品 th在lets you walk on air!
-,elyFmavg,364445,"A 维度 使用all features, 结构s, surfaces, 和natural spawns 从vanilla 和your mods shoved in!"
+,elyFmavg,364445,A 维度 使用all features, 结构s, surfaces, 和natural spawns 从vanilla 和your mods shoved in!
 ,c1NCqIMu,1059597,Yapping Tooltips is small client side mod th在添加工具tips to every 物品
-,TTsWaibt,919339,"StripMining is mod th在provides ability to dynamically create highly customized hammers, excavators, 和carpenter axes."
+,TTsWaibt,919339,StripMining is mod th在provides ability to dynamically create highly customized hammers, excavators, 和carpenter axes.
 ,IXOXPWmA,1150457,允许f或the removal 和replacement of any spawner 方块s
 ,saBU82Nh,229846,添加RF-powered 工具s to Thermal Expansion 和EnderIO
 ,SiYyDKBW,597958,A mod th在makes 生物s little bit smarter.
@@ -8751,36 +8751,36 @@ name,modrinth,curseforge,description
 ,C9VV9vwA,1115479,
 ,VImGYoWT,1019545,A library mod f或mc_jojo3's mods.
 ,UHdgIXh2,1096149,This mod 添加a 新的Boss to Minecraft: Drowner.
-,ClKtylZf,1025519,"New wood 在Minecraft中's Taiga! Adding gorgeous starter 方块s, while remaining grounded 在vanilla feel."
-,BiVApO4O,1249428,"Port of mod 'Fog Looks Good now', made f或the ADJ modpack (but free to use)."
-,vcR7vUdh,878506,"添加一个独特的lighting 工具 - Ghost Lantern, upgrade of Soul Lantern."
+,ClKtylZf,1025519,New wood 在Minecraft中's Taiga! Adding gorgeous starter 方块s, while remaining grounded 在vanilla feel.
+,BiVApO4O,1249428,Port of mod 'Fog Looks Good now', made f或the ADJ modpack (but free to use).
+,vcR7vUdh,878506,添加一个独特的lighting 工具 - Ghost Lantern, upgrade of Soul Lantern.
 ,5IKQnjaf,822333,This mod stops 玩家s 从skipping night 由sleeping in bed.
 ,Ov5T9Rht,1286315,This is fork of C2ME to be able to fully work 使用connect或but only 使用connect或和have some upstream commit.
 ,prUBxO5o,605517,M矿石 realistic villagers
 ,p8EuQNR0,254249,Late-游戏 generat或和storage of exponential amounts of power.
 ,y82oqtC9,1141442,A vanilla+ mod th在添加an assortment of 新的quality-of-life 物品s 和enhancements 到base 游戏.
-,5e65FGXQ,1121047,"Simple global / modpack 资源 pack 和data pack loader. No configuration, just few folders."
+,5e65FGXQ,1121047,Simple global / modpack 资源 pack 和data pack loader. No configuration, just few folders.
 ,nRYakGrM,847265,A mod all about souls 和using them f或magic 和tech!
 ,tk1E0xil,1308125,An EMI addon th在添加recipes f或Industrial Revolution 和添加missing 物品s 到index.
 ,bFWEPqIG,1042492,Cinnamon related additions
 ,MwYnBlwK,409087,Skip rendering of hidden entities
-,zxKnQ9bt,410968,"A 游戏play mod f或the fans of anime Houseki no kuni | L和of Lustrous. Containing 新维度, 新的Bosses, npc, 工具s 和方块s."
+,zxKnQ9bt,410968,A 游戏play mod f或the fans of anime Houseki no kuni | L和of Lustrous. Containing 新维度, 新的Bosses, npc, 工具s 和方块s.
 ,zhQCVTsI,1038049,添加35 新的制造 recipes f或unobtainable 物品s 和方块s.
-,I29GHprf,826583,"This mod 添加tobacco related 物品s, like cigar/cigarettes"
+,I29GHprf,826583,This mod 添加tobacco related 物品s, like cigar/cigarettes
 ,eQHPwyIN,1345432,添加一个fully functional power arm或system inspired 由the Fallout series!
 ,sao7Am6l,1061352,A Super Simple Home Management System (Set And TP To Your Home Points Without OP Perms).
 ,uazDNzUx,736942,替换wooden pickaxe 和axe 使用更多realistic 工具s 和optionally offers little 更多challenging early 游戏.
 ,mksTBGrj,971512,Makes Biomes O' Plenty's rose quartz compatible 使用create mod
 ,EDAjBfTI,1186712,添加legendaries 到你的世界 not to mention they are very rare some as rare as 3x starters
 ,Qj8zPE53,1016205,debark System f或TFC
-,vCPw3wHY,1147883,"A universal library created to support Bluemoon8377 mods. Common tags, status effects, procedures 和更多— all in one place!"
+,vCPw3wHY,1147883,A universal library created to support Bluemoon8377 mods. Common tags, status effects, procedures 和更多— all in one place!
 ,LiuzX75h,848217,This mod 添加15 自定义附魔s
-,6jk8Pote,1358489,"RoadWeaver is Fabric mod designed f或Minecraft Java Edition, which automatically weaves elegant road networks between in-游戏 结构s such as villages."
+,6jk8Pote,1358489,RoadWeaver is Fabric mod designed f或Minecraft Java Edition, which automatically weaves elegant road networks between in-游戏 结构s such as villages.
 ,7GNdjsfs,1141472,A mod th在添加a toggleable view cell to AE2
 ,AqwE7J9O,1033117,添加the ability to duplicate dyes efficiently
 ,XVnHT1wv,597165,A mod th在let you decide (using Data Packs) wh在happens when fluids flow
 ,rNkQ2ybI,1023515,Search 和simulate keybinds
-,M8z7jPlu,821617,"Customise your overlays 和screen effects, 资源 pack compatible"
+,M8z7jPlu,821617,Customise your overlays 和screen effects, 资源 pack compatible
 ,w8avchdW,920570,Nerfed Teleports. Perfect f或survival servers.
 ,2YGR9qPp,1062752,This mod aims to add immersive music-writing.
 ,rKZ6fcjp,1034001,Addon f或Hex Casting adding programmable Constructs 和m矿石.
@@ -8792,8 +8792,8 @@ name,modrinth,curseforge,description
 ,eV0rTOBa,1056345,A Really simple mod which enable 玩家 to Shift Right Click on bo在使用a chest on h和to make Chest Boat.
 ,rVrGcXB6,497846,TreeBark+ Addon f或Biomes O' Plenty
 ,pJXYIIFx,880678,Share options.txt across instances
-,gR4YXm1s,1464437,"Ensures user always has c矿石 mods f或the modpack, 和allows prompting them to download optional mods on startup"
-,fcs7k7de,1100774,"Inspired 由the team system 在famous 游戏 Terraria, it also supports teaming up 使用all 怪物s"
+,gR4YXm1s,1464437,Ensures user always has c矿石 mods f或the modpack, 和allows prompting them to download optional mods on startup
+,fcs7k7de,1100774,Inspired 由the team system 在famous 游戏 Terraria, it also supports teaming up 使用all 怪物s
 ,PCGR5Y1W,563780,A container GUI replacement mod th在hopes to match menu to every one of Minecraft's colourful interactable 方块s.
 ,CaW5ZgHH,1195348,添加cloudy entity th在hunts you when it's getting night
 ,iNJJU8Ib,1220638,添加compatibility between popular mods 和Farmer's Delight.
@@ -8801,21 +8801,21 @@ name,modrinth,curseforge,description
 ,aNPQU8kd,1289564,a library mod f或effects 和other stuff in SCP: Overtime 和The Box of Horrors
 ,oAKswYFJ,575134,Change audio settings 使用hotkeys 在Minecraft中 Fabric.
 ,Zo3Rf4Xd,1024478,This Slash Blade addon add Slash Blade master of Illager...
-,eACdwdU7,1132129,"Wynncraft ch在floats above 玩家s' heads 和changes colors f或party, guild, 和private chat. A fork of TalkBubbles."
+,eACdwdU7,1132129,Wynncraft ch在floats above 玩家s' heads 和changes colors f或party, guild, 和private chat. A fork of TalkBubbles.
 ,QOkEkSap,630716,Put your server in Maintenance Mode
 ,twfrqvOT,1116006,Counting days 到100 day challenge
 ,PkOdTEHd,828638,New bloody 动物s try to infect others like in zombie apocalypse
-,nELKzJ5C,1098672,"A stateful Carpenter's Blocks style framed 方块 mod, put any 方块s texture on various cursed shapes!"
+,nELKzJ5C,1098672,A stateful Carpenter's Blocks style framed 方块 mod, put any 方块s texture on various cursed shapes!
 ,q5SZGtGt,1209304,添加40+ 新的dishes using only vanilla ingredients. Add 更多decorative variety
-,k2HyfPfj,834599,"添加Jewelry, using Curios, which 玩家 can craft 和customize 使用附魔s."
+,k2HyfPfj,834599,添加Jewelry, using Curios, which 玩家 can craft 和customize 使用附魔s.
 ,cVconmno,1247193,A method about egg production 使用create.
 ,nNu0ihsJ,1073551,Right-click plants th在are fully grown to harvest 和replant them
 ,vkZX5K0d,367816,A Minecraft Splatoon Mod
-,duHnibkK,1134943,"Bringing back string duper functionality 从previous Minecraft versions, this mod 添加a 方块 使用some additional quality of life."
+,duHnibkK,1134943,Bringing back string duper functionality 从previous Minecraft versions, this mod 添加a 方块 使用some additional quality of life.
 ,1D8O3rrq,821190,Displays current weather status 在你的hud.
 ,4re46yuE,337099,添加an edible cookie storage 方块.
 ,Gcr3s1P7,368921,添加一个工具 to Harvest glass quickly 使用the 方块 intact
-,upqlzEF3,1018179,"A 1.20.1 Mod, based on A Weapons Upgrade to Minecraft, Adding over 10+ 新武器s (as of right now). 和tonnes of 新的建筑 方块s f或freeroam-, when your not killing your friends 使用traps."
+,upqlzEF3,1018179,A 1.20.1 Mod, based on A Weapons Upgrade to Minecraft, Adding over 10+ 新武器s (as of right now). 和tonnes of 新的建筑 方块s f或freeroam-, when your not killing your friends 使用traps.
 ,zSJW5sNv,985388,a hero mod th在works 使用palladium mod
 ,gRYeIzgX,845907,添加6 turrets 和drones f或protection 和comb在assistance
 ,bGfsSwPy,286348,移除the glint effect 从药水s
@@ -8825,185 +8825,363 @@ name,modrinth,curseforge,description
 ,DGaH8Rh0,898963,一个添加属性图形用户界面的库，以及一系列可供使用的新属性
 ,7pSQejNy,1553844,一款带有额外修饰符的趣味物品速通模组。
 ,UzkWePRG,1388926,《发生入侵》是一款心理恐怖数据包，引入了3种新实体以及大量事件，如随机出现的告示牌、世界事件、诡异的地形、奇怪的声音、令人毛骨悚然的音乐、阴森的氛围以及相当庞大的故事线。
-,ocbOUiHH,,
-,mlaUPhrZ,,
-,X6YTb3G1,,
-,zpkKPhbq,,
-,u2goKIIl,,
-,nGLLzNcJ,,
-,ACLWFBlU,,
-,mBHOL0vT,,
-,xdpXVpMJ,,
-,tnr41XhG,,
-,Hforxth5,,
-,E6GusVzz,,
-,BbtQr1GV,,
-,BpcmlKS9,,
-,uDJkuFRe,,
-,v8gHddm5,,
-,ZazGNjSE,,
-,AVJV62Cj,,
-,n3D4BPgL,,
-,b8DiFMOK,,
-,aosv29zK,,
-,oxBNHOmi,,
-,JudjzCsX,,
-,zhKDhaPQ,,
-,YYlTINeM,,
-,alDYMU7T,,
-,hTHPfI2S,,
-,3uT4J18I,,
-,7dbCGUGr,,
-,Z7xAH01M,,
-,W0k70zwu,,
-,SzO1O63Q,,
-,MzU6Lh9B,,
-,3jCkacxI,,
-,Rtw99Org,,
-,A2pNL8T7,,
-,vOjCavUT,,
-,LQRvkGba,,
-,gQo4x6RW,,
-,1R7NOWFk,,
-,mva5q4qZ,,
-,eSqcuS1j,,
-,2Ot6MryC,,
-,7FckdYcx,,
-,LNjUMo5H,,
-,HqOAZ03k,,
-,qHxCUweJ,,
-,mZzTkAcs,,
-,5ZDVVebS,,
-,ax5T2Swr,,
-,A8WM17FM,,
-,76K6HCCc,,
-,gaSdoMMO,,
-,io20Ajyj,,
-,6Uocsa4f,,
-,KbnBpU9P,,
-,gEqbzplo,,
-,isSnF43I,,
-,nQF3JYgP,,
-,xpR9bZMi,,
-,gkfOQk9U,,
-,QHl6W6lh,,
-,SRpMdE4d,,
-,v6M4YOww,,
-,ptrYIoww,,
-,AQGahqU5,,
-,JmqA4Alf,,
-,RSYs97F8,,
-,YJqoniYI,,
-,wI13khII,,
-,3F9H5wFy,,
-,vOwWxw5n,,
-,IHdW24gt,,
-,vT5p53cB,,
-,1ZkzxaSr,,
-,4q2Q9rk1,,
-,jkyv18V9,,
-,rQaI1dyQ,,
-,x9RObZ4h,,
-,fRpkaLG9,,
-,JC3FsJyt,,
-,Xlqo0QhO,,
-,2l5OnFsL,,
-,Ghd3HFvP,,
-,B2w7wF1e,,
-,apfFXHUY,,
-,koTibmqV,,
-,WUM2EgJz,,
-,S7acyZiI,,
-,cUKAwA2j,,
-,50V9AhxE,,
-,TEjXXybF,,
-,3qNitUjN,,
-,2nwF7mhs,,
-,Pc0FsTTj,,
-,q9JlrVdz,,
-,kwpTgbCk,,
-,QuQIhqzt,,
-,3aFJ6Iut,,
-,3zaeCSlT,,
-,PbuWXPc4,,
-,rTjtMUJ5,,
-,fe1B3FmQ,,
-,fDIomi6C,,
-,dHAUbDDr,,
-,PtKWXzEG,,
-,sLoWG5Zu,,
-,SUO5nSik,,
-,qYtXvlBc,,
-,FpLBlLy3,,
-,H15yTr2V,,
-,nc9lbKI9,,
-,rjoEH39n,,
-,yxvBuRLC,,
-,fUIcgq6j,,
-,tKWZHEND,,
-,yLb3uUWC,,
-,gmLQspOo,,
-,CMTgYi0U,,
-,peFeF6AS,,
-,DvHuHssf,,
-,KMvVDXMP,,
-,lkSkdJn8,,
-,UEWEVYL4,,
-,Os7n2ju4,,
-,pMbgd3XW,,
-,1qIqmuxK,,
-,xDLk8c0z,,
-,YfXFXkam,,
-,MqQSMXiY,,
-,9c8y2aTK,,
-,vFyS9YeL,,
-,t99XTZpf,,
-,nkzQ25Lf,,
-,6CNzxq9s,,
-,HTNaPgCx,,
-,fKxEkSCn,,
-,bSQ5escX,,
-,fgzREf1Q,,
-,OA72FRY8,,
-,cn0mri3g,,
-,A1LLhSQH,,
-,F9UuswAo,,
-,yCMwuZRP,,
-,M3Sm0Jml,,
-,fjBStYT8,,
-,XPOEMEGh,,
-,iRLdgJ1I,,
-,ZOL8bi7N,,
-,DLGp9dCX,,
-,k8JvyaXM,,
-,ccCnrDqT,,
-,uDy6bd7M,,
-,TiI55Eev,,
-,zQn4lLJU,,
-,NvvAkdnN,,
-,1jz4xzV9,,
-,GUjmOTOL,,
-,nWd6eJgM,,
-,VICZDzwx,,
-,hGjvfSAC,,
-,EbNeGOjo,,
-,bv375mrr,,
-,9JSaKu0u,,
-,uVtLpckQ,,
-,aRYJ88Zs,,
-,Hrk3Eic4,,
-,RSrO9pbx,,
-,cE2up1pW,,
-,yOxNUxrc,,
-,YFQtn2DW,,
-,GfIohcSp,,
-,QWjICHan,,
-,zPjLSNux,,
-,8Ma7UEPx,,
-,o9C05z7R,,
-,mX31zAOV,,
-,rZ8br2UQ,,
-,dxa0Bm8m,,
+,ocbOUiHH,,This Mod adds the ability to add custom capes to your player including gifs and normal images with a resolution up to 2048x1024 you can also see other capes and vice versa and it also works with elytra models and wavey capes
+,mlaUPhrZ,,"Recover arrows from struck entities, take arrows out of your own body and more!"
+,X6YTb3G1,,A Fabric port of NarcolepticFrog's Redstone Multimeter mod
+,zpkKPhbq,,An AE2 addon that adds an ME-powered mob spawner.
+,u2goKIIl,,"A Minecraft Mod that just tweaks some stuff and adds must-have features to the game, while keeping it super vanilla-friendly."
+,nGLLzNcJ,,"Create custom crafting recipes and custom crafts in-game with a Fabric recipe editor. Manage vanilla/modded recipes, worlds, recipe books, and servers. Now supports custom items (NBTs)."
+,ACLWFBlU,,"A technology mod featuring an EU energy system, machines, generators, and ore processing for Minecraft."
+,mBHOL0vT,,A reliable backpack mod with configurable sizes and shortcut support.
+,xdpXVpMJ,,"Customise Matcha Flavoured textures, browse custom items in built-in JEI and Creative inventory, and explore larger advancements."
+,tnr41XhG,,Keep your items after death inside a soul
+,Hforxth5,,"This mod fixes: MC-194284, MC-200131, MC-218145, MC-274182, MC-274183, MC-274184. Bugs caused some sounds to vanish after reloading resource packs or pressing F3 + T."
+,E6GusVzz,,Create & The Factory Must Grow addon implementing real-world chemistry and industrial processes
+,BbtQr1GV,,Allows customization of attack cooldowns and invincibility frames.
+,BpcmlKS9,,Minecraft But Backwards completely reverses progression; you begin in the End and slowly work your way back to the Overworld.
+,uDJkuFRe,,Create scripts for handling complex operations in Integrated Dynamics
+,v8gHddm5,,"Multiply ore drops, mob drops, XP and furnace speed. Configurable, server-side, for Fabric, NeoForge & Forge."
+,ZazGNjSE,,"S.T.A.L.K.E.R.-inspired survival mod: anomalous zones with contamination, upgradeable artifacts, emissions, detectors, and scientific armor. Zone survival, minecraft-flavored. Requires Terrablender and Curios to work."
+,AVJV62Cj,,Own customizable armies for multiplayer that you can setup easily before playing; summon living NPC like guards to fight monsters or enemy to fight. Features different kind of NPC with different purpose
+,n3D4BPgL,,Adds music from Pokémon Black&White to Cobblemon battles
+,b8DiFMOK,,A Iron man addon for palladium
+,aosv29zK,,"Adds a soulslike HUD featuring equipment slots, boss bar, status gauges and team display."
+,oxBNHOmi,,Shippy Ships adds immersive ships to the game to explore your world!
+,JudjzCsX,,A client side mod that allows you to stop picking up items you don't want.
+,zhKDhaPQ,,"This mod completely overhauls Minecraft's chat system, adding a separate global and private chat."
+,YYlTINeM,,Customize the Wardens health and attack damage. Get rewarded with loot.
+,alDYMU7T,,Whimsical automation powered by critters
+,hTHPfI2S,,"Compiler, IDE and Importer for Hypixel Housing."
+,3uT4J18I,,(26.1.2 port) No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.
+,7dbCGUGr,,Create programmable logistics and automation networks
+,Z7xAH01M,,"Open combat Gateways in the Overworld, Nether and End. Survive randomized waves and face four bosses. Includes 20 custom mobs, automatic events, Hell Wards and an in-game editor for modpack creators."
+,W0k70zwu,,A modern port of iChun's iconic Morph mod
+,SzO1O63Q,,A clean/simple armour hud which is made in a modern style and can be used easily.
+,MzU6Lh9B,,An immersive and fully functioning computer that provides an anternative to the stale and overused quest book and guide book
+,3jCkacxI,,adds military style armor to the game
+,Rtw99Org,,Mod blending various projections to get an uncapped FOV (based on Flex FOV)
+,A2pNL8T7,,Disabling other types of vision through F5 except for first-person vision
+,vOjCavUT,,The Naruto Destination branch and rework of the well known Mathioks Naruto Anime Mod. Multiplayer focused with a lot of changes!
+,LQRvkGba,,"A lime-green themed sci fi tech mod that adds machines, weapons, tools, as well as a variety resources for you to discover and gather."
+,gQo4x6RW,,"Displays player coordinates, the biomes they are located in, and the time of day or night."
+,1R7NOWFk,,ShibaGrace is a server-side Fabric mod granting new players a 45-min PvP protection grace period. It features smart chat warnings and visual indicators—like a scoreboard prefix and floating feather drone—to easily identify protected players.
+,mva5q4qZ,,Submarine and boat in Create Aeronautics!
+,eSqcuS1j,,Adds a simple command to respawn yourself from spectator in hardcore mode.
+,2Ot6MryC,,"A collection of custom advancements achievable in the mid to late-game, complete with unique reward items."
+,7FckdYcx,,Central library dependency for the Lima series of mods.
+,LNjUMo5H,,This datapack adds new mechanics and adjustments to improve gameplay in your single-player or multiplayer Minecraft world.
+,HqOAZ03k,,Lightning Apocalypse that adds a secret ritual for summoning lightning.
+,qHxCUweJ,,No-compromises drop-in optimizations for Minecraft Commands/Datapacks.
+,mZzTkAcs,,A library mod for Neoloxal's mods.
+,5ZDVVebS,,Burst enemies into piles of gibs!
+,ax5T2Swr,,"The shared library behind ZambieD's mods. If a mod sent you here, just install it; it does the rest on its own."
+,A8WM17FM,,"Take control of your Discord Rich Presence (RPC) from in game. Click the live Discord card to edit text, images and buttons, use 26 real time placeholders, and set a custom Discord status per server. Client side only. Fabric, NeoForge and Forge."
+,76K6HCCc,,"A mod for Cobblemon that adds real time attack system, outside a pokemon battle. With a UI attack wheel selector and animations."
+,gaSdoMMO,,"j4mc lets you open your singleplayer world to friends without port forwarding. Open your world to LAN, wait a moment, and the mod gives you a public address that your friends can join through. Now you can invite your friends through the game in one click!"
+,io20Ajyj,,"Explore a unique sky dimension with bosses, biomes and a new progression system beyond Netherite. Also adds vanilla friendly content to the overworld, nether, and end."
+,6Uocsa4f,,"Part of the Traveler's Series; provide a player with a book upon joining, with its content dynamically managed and continuously updated by the admin from a markdown file."
+,KbnBpU9P,,"Vanilla Friendly mod that adds new Amethyst Tools, Amethyst Armor, new Advancements and more.."
+,gEqbzplo,,"The system behind Sword Art Online, with the known UI from the show."
+,isSnF43I,,"Client-side radial quick-action menu with configurable wheels, profiles, shortcuts, and multiplayer-safe command and keybind access."
+,nQF3JYgP,,"This mod adds the Nautilus. Work will also be done to add some aquatic mobs and mob votes, such as the crab and The Monster Of The Ocean Depths, as well as others."
+,xpR9bZMi,,"Circle of Craft is a massive Lion King–inspired total conversion. Explore three new dimensions — the Pride Lands, Outlands, and Upendi — befriend and battle savanna wildlife, and follow a story-driven questline with Rafiki, Simba, Scar, and more."
+,gkfOQk9U,,The largest unofficial utility mod for the Lifesteal Network (LSN)
+,QHl6W6lh,,"'A large-scale content add-on for Tinkers' Construct 3 (1.20.1) that introduces new weapons, materials, modifiers, and distinctive gameplay mechanics with a Lovecraftian/Cthulhu Mythos theme.'"
+,SRpMdE4d,,"Adventure time inspired dungeon crawler on a train. Procedurally generated carriages on a infinite sable physics train. Rich narrative, with custom made mods for a completely unique experience."
+,v6M4YOww,,Fun content and features for roleplay servers. Survival-friendly!
+,ptrYIoww,,Upgrade Snowballs for your happy ghast!
+,AQGahqU5,,Lightweight and highly accurate Metrics (not just FPS!) with a fully customizable HUD
+,JmqA4Alf,,Displays a list of materials and the chests in which they are located
+,RSYs97F8,,"Adds 17+ ores and cool items like wireless redstone, logic gates, magic staffs, tools and more.. beyond normal ores mod with just armours and weapons."
+,YJqoniYI,,Extends Aerowroks with compatibility to ComputerCraft
+,wI13khII,,"A realistic weather engine with volumetric clouds, supercells, destructive tornadoes, dynamic wind, 3D lightning, and an interactive radar."
+,3F9H5wFy,,"Machines, gadgets, multiblocks, modular power suits and more! New tech in a retro world."
+,vOwWxw5n,,"FCF is a highly configurable elytra enhancement, compatible with do a barrel roll and fresh player animations."
+,IHdW24gt,,BTA mod adding random things I came up with.
+,vT5p53cB,,Advanced modding library for special and legacy versions of Minecraft.
+,1ZkzxaSr,,"Added an exclusive trail enchantment for the original elytra. When players fly with the elytra, a colorful particle trail will follow behind them."
+,4q2Q9rk1,,Sable-Player-Ragdoll and Sable-Ragdoll-Corpse have been fixed and improved.
+,jkyv18V9,,This mod adds a frequency system that allows players to remotely transmit redstone signals across the Create Network using waves.
+,rQaI1dyQ,,A mod that adds new siren blocks with 3D Models that will play an Alarm if its powerd by redstone.
+,x9RObZ4h,,"Shows your health and target health around the crosshair with configurable icons, colors, and HUD placement."
+,fRpkaLG9,,Inspect your items with cool animations!
+,JC3FsJyt,,"An unofficial fan-made Wuthering Waves-inspired aerial gliding mod for Minecraft 1.21.1, with momentum flight, boost, camera follow, stamina, effects, and optional Curios support."
+,Xlqo0QhO,,A mod for Fabric to scan and add mods into fabric loader in subfolders
+,2l5OnFsL,,Unofficial port of CREATE: LOVE & WAR (the gun mod where everything is made with Create machinery) FOR 1.21.1 NEOFORGE!
+,Ghd3HFvP,,The World Presets mod allows defining world presets; templates that modpack authors can make to replace standard world creation.
+,B2w7wF1e,,A small data pack that makes stone tools require real stone instead of cobblestone.
+,apfFXHUY,,"A tiny data pack that adds a single shapeless crafting recipe: 2 Gravel → 1 Flint Works in the 2×2 inventory grid, the crafting table and the crafter."
+,koTibmqV,,The required data pack to the Resource Pack 'Drew's Christmas Jukebox'. It makes it so the songs play the whole suration of the song instead of the snippet
+,WUM2EgJz,,This datapack adds crafting recipes for ores (including deepslate and nether variants!)
+,S7acyZiI,,This project makes players instantly spawn in paradis using danny attack on titan mod.
+,cUKAwA2j,,Straw Beds explode in the nether and the end!
+,50V9AhxE,,"With this project, you can throw away any item you want."
+,TEjXXybF,,Make ice balls craftable by using 1 blue ice!
+,3qNitUjN,,stack shulkerbox empty or full of the same type of material at stack of 64
+,2nwF7mhs,,Oxidize Copper in Cauldrons
+,Pc0FsTTj,,Adds a crafting recipe to combine shields with totems
+,q9JlrVdz,,"a better version of eternal set powerless, but with superpowers."
+,kwpTgbCk,,"A minimap and world map drawn at an angle, like a model of your world on a table. Towers stand up, cliffs have faces and trees cast shadows."
+,QuQIhqzt,,A minecraft datapack/mod that makes wandering traders have a chance to be illusioners in disguise!
+,3aFJ6Iut,,This datapack enhances your exploration experience as part of Survival Tweaks.
+,3zaeCSlT,,This mod fixes: MC-206561 - A bug involving transparency and the rendering of water.
+,PbuWXPc4,,a mod that adds more enchants and advanced ones
+,rTjtMUJ5,,Foxes love to help! Let them give you a hand.
+,fe1B3FmQ,,"Adds a custom renderer using Gecklib that allows cosmetics to be rendered on players, including animation and custom particle support. Also has support for key items from Cobblemon addons."
+,fDIomi6C,,Awesome player animations for your Minecraft world
+,dHAUbDDr,,A lightweight rework of how Sniffers work to make them more useful.
+,PtKWXzEG,,"A tech mod of power, heat, and steel: build machines, automate production, and scale up to industrial multiblock plants."
+,sLoWG5Zu,,A quiet mistake-correction layer for vanilla Minecraft
+,SUO5nSik,,"Show information about the battery of your computer on the HUD, and toast notifications when the battery is low."
+,qYtXvlBc,,Discover mysterious monoliths and uncover the ancient powers hidden within!
+,FpLBlLy3,,"A Minecraft 1.21 Fabric mod that adds Ruby ores, Ruby armor, and Ruby tools."
+,H15yTr2V,,Experience DELTARUNE in Minecraft
+,nc9lbKI9,,Simple speed limit mod for Sable contraptions
+,rjoEH39n,,"Client-side Fabric mod that enhances the Locator Bar with player skins, clean nicknames, and customizable badge bubbles and much more in future."
+,yxvBuRLC,,A server side mod to edit the default components of items using a command
+,fUIcgq6j,,This simple mod allows you to use keybind chords and modifier keys (like Ctrl or Alt) in your minecraft keybinds.
+,tKWZHEND,,"Preview the trajectory of arrows, ender pearls, tridents, snowballs and other projectiles before you throw or shoot them"
+,yLb3uUWC,,"The Tickle Monster is your best friend... or is he! This mod adds a humourus but creepy friend to your world, he wants to tickle you; he is the tickle monster after all! Every 15 minutes, he gets sick of you not answering him, and he chases you around."
+,gmLQspOo,,"Keeps your cursor inside Minecraft while your inventory is open, so a quick flick won’t send it onto your second monitor. Windows only."
+,CMTgYi0U,,Adds the sift dimension to the base game.
+,peFeF6AS,,A horror mod with a focus on practical usage and providing equipment for general usage outside of the mod itself
+,DvHuHssf,,A shard library for MythicWorld mods.
+,KMvVDXMP,,Hypixel Skyblock mod focused on vampire slayer
+,lkSkdJn8,,"Lightweight AFK autoclicker with click/hold modes, configurable timing, and anti-AFK camera nudge."
+,UEWEVYL4,,Add slightly stronger hostile mobs and girl mobs!
+,Os7n2ju4,,"Ragdollified Reactions adds ragdoll interactions for things such as explosions, hitting collisions hard, pistons, etc. Adds togglable ragdolling."
+,pMbgd3XW,,"Place connected glass by default, and normal glass when you hold Shift"
+,1qIqmuxK,,Yet another mod that adds various flowers.
+,xDLk8c0z,,"Turn into any entity. It can be vanilla or modded. Just type '/morph [entity]' to transform into any creature, mob, or custom modded entity that you killed in your game. Fine for creative gameplay, and roleplay."
+,YfXFXkam,,Added close button for inventory and so on. Also close window by click the around
+,MqQSMXiY,,Just A Library Mod For My Mods
+,9c8y2aTK,,"Play as almost any Halloween monster! A mysterious dark force makes everything it touches monstrous, including players! Get infected and join one of several monster factions, each with its own unique abilities. A spooky variation on the RPG play style."
+,vFyS9YeL,,"Vanilla's tangle of noodle caves is gone. In its place the underground is solid rock cut by eight hand-designed cave systems, each with its own shape, biome rules and reward for finding it."
+,t99XTZpf,,This Project is made to make projectiles Client Sided to make them faster/zero delay.
+,nkzQ25Lf,,"SlashBlade Resharped Recipe Fix,it is a old bug,the mod fixed it!"
+,6CNzxq9s,,"This datapack adds a unique structure belonging to the Nimari Magic Tower, bringing its distinctive style to your Minecraft world! Compatible with versions 1.20 through 26.3."
+,HTNaPgCx,,"CL Miner is an automatic miner for NeoForge 1.21.1, inspired by the classic IC2 Miner."
+,fKxEkSCn,,The 'Cars for the Ultimate Sigmas' mod is all about gaining and losing aura.
+,bSQ5escX,,"A Minecraft library for registering and handling custom interaction events, including click actions and other player interactions. Useful for when working with Minecraft's Dialog framework and custom event handling."
+,fgzREf1Q,,"Use soybeans, sugar, milk, kelp ashes, nickel sulfate and heat to have fun, create cool products, develop new features, and more!"
+,OA72FRY8,,Shows an ender pearl icon and each player’s observed pearl throw count beside their nametag. Client-side Fabric mod for Minecraft 1.21.11.
+,cn0mri3g,,"Shows the trajectory of throwable and interactable items, including: Ender Pearls Bows Crossbows Tracks the path of projectiles in real time to help improve accuracy."
+,A1LLhSQH,,A GregTech addon providing an intricate nuclear fission simulation.
+,F9UuswAo,,"This mod adds the Epic Gem, which requires rare materials to craft, along with a full set of gear made from it and a powerful boss."
+,yCMwuZRP,,"Получили урон? И вы уже в другом месте. Этот мод телепортирует вас в случайное место каждый раз, когда вы получаете урон. Took damage? Fly! This mod teleports you to a random location every time you take damage."
+,M3Sm0Jml,,gain's Sidebar is dependency-less mod allowing you to modify sidebar / scoreboard to your liking.
+,fjBStYT8,,replay audio recorder for replaymod and Flashback
+,XPOEMEGh,,A mod for BTA 8.0.1 that aims to improve hotbar switching controls.
+,iRLdgJ1I,,"Random Item Effects shakes up vanilla gameplay by assigning every item in the game a random status effect that applies while it's held or worn, anything from Speed and Regeneration to Poison and Wither. Effects are seeded, so you can reroll the whole pool"
+,ZOL8bi7N,,A toolbelt mod that stays somewhat true to vanilla
+,DLGp9dCX,,"Customize your Minecraft skins and capes with local PNG and GIF files. No external links, simple in-game commands, and automatic saving!"
+,k8JvyaXM,,"Adds scaling controls inside Sable Photomancy's blueprint UI, with comprehensive physical‑value resizing for structures."
+,ccCnrDqT,,A vanilla plus mod adding some variety to exploring.
+,uDy6bd7M,,Lets you build Lego Bricks easily out of normal wool / concrete stair blocks with a simple stack feature.
+,TiI55Eev,,"This mod adds cobblestone, bricks and iron/gold/diamond blocks with their old texture as craftable blocks."
+,zQn4lLJU,,A mod that lets you see the in-game time as a clean HUD element!
+,NvvAkdnN,,Keep a running total of your left and right clicks. Set a goal for each button and track your progress in a movable HUD.
+,1jz4xzV9,,Adds randomized houses and junk.
+,GUjmOTOL,,Expands world generation with new Create-themed structures and machinery.
+,nWd6eJgM,,Helpful Fletchers is a Minecraft Fabric mod that gives fletcher villagers a new defensive role: they can protect villages with bows.
+,VICZDzwx,,"My First Mod, If there are any issues, message me on Discord: Gabrileu1"
+,hGjvfSAC,,just throw mobs or something i dont know bro
+,EbNeGOjo,,A 30 Second Cooldown On The Mace
+,bv375mrr,,This mod adds a single block automatic fisher machine.
+,9JSaKu0u,,Player Heads Drop Upon Death
+,uVtLpckQ,,Toggles The Visibility Of Armor With A Set Keybind
+,aRYJ88Zs,,🎵 MP3 Player Mod — The mod integrates a full-fledged audio player into the game.
+,Hrk3Eic4,,Adds a configurable netherite armor limit for servers.
+,RSrO9pbx,,A multiplayer horror mod where something watches you from the darkness.
+,cE2up1pW,,"The Faerie Realm is Mod that allows you to visit a dimension that is odd, but magical. Inspired the Celtic mythos of a place called the Otherside. Build a portle or find the mounds of the faerie to go; Get rewards above all imagination. Can you leave?"
+,yOxNUxrc,,"This is a content pack for the mod Immersive Vehicles that adds Polish crossing gates, signals and others."
+,YFQtn2DW,,A mod that adds very hostile fighterz to your world!
+,GfIohcSp,,uncrafting armor and some items
+,QWjICHan,,A Minecraft mod that lets players easily share their coordinates with other players through a simple and convenient interface.
+,zPjLSNux,,"Fully-fledged Pokemon bikes with drifting, e-braking, jumping, headlights, bells, and deep customization!"
+,8Ma7UEPx,,"MineRec is a client-side mod for Minecraft (Fabric) that records your gameplay to MP4 with a single press of F8, powered by FFmpeg."
+,o9C05z7R,,This mod aims to add vanilla style structures to the game
+,mX31zAOV,,This mod adds Blue the Velociraptor from Jurassic World. Blue can be tamed using raw meat. NEED GECKOLIB
+,rZ8br2UQ,,Mod library for faster development.
+,dxa0Bm8m,,Veinminer Addon - Use a hotkey to veinmine with a dynamic crosshair & block highlighting
+,ZOLG8qOW,,Add 88 Sounds(Piano) For DiscJockeyPlus.
+,Kb2hvEzq,,"Custom crosshair editor with a drawble grid provided in a simple, easily understandable and modern fashon and many other utility features."
+,ZjTnyWt7,,"（Play Note Block Songs In Minecraft!） NBS SONGS!! Original mod is Disc Jockey. This project just upgraded it and added some features. 原作品为 Disc Jockey,此项目只是对它进行了升级，加装了一些功能。 仅此而已"
+,rUqAxhy1,,Display damage information on the UI
+,FWHrtGGT,,"Bind Touhou Little Maid companions to weapons, manifest them in combat, and grow together through Contract Resonance."
+,u4vX6gq2,,"A Minecraft Fabric client-side mod that lets the player locally fake time, weather, and biome ambience."
+,piJ0iKUG,,An add-on for the GTNH edition of Thaumic Energistics (Minecraft 1.7.10) that introduces an interface capable of outputting both items and essentia simultaneously for automated alchemy.
+,86iPxuL3,,A Create integrated variant of the mechanical healing machine from Cobblemon.
+,5qOEjgCD,,Luck benefits all chests now
+,5PQiDrTN,,Mod adding custom world height limits and 3D biomes to 1.12.2!
+,FQEd7PyG,,IC2ex Addon which adds bunch of new things related to the main mod
+,zJ5aaMEg,,"Minecraft decorations in a Modern Style, with a Vanilla-like note. Сomputers, laptops, consoles, appliances and more!"
+,k7nDRpb7,,Hover an item and press a key to make indexed nearby containers containing it emit particles.
+,rey0tGe0,,"A cozy vanilla+ farming mod: richer soils speed up your crops, shy edamame fairies grow your fields at night, and late game they build you a lantern-lit garden. Inspired by Stardew Valley's crop fairy."
+,VYSSzW0p,,"All the soul based mob farming technology you'd ever need! Craftable spawners, compact single block mob farms, mob transport and killing, item collection and more."
+,14puKsN4,,Add a lot of new Right-Click features to tools and items adding a more dynamic mechanic to them
+,zZO0N3W6,,"KilaGraph builds on LDLib2's Node Graph Toolkit to provide in-game programmable graphs for mods. It is aimed at authors who want visual logic graphs, and ShaderGraph-style authoring for custom RenderTypes."
+,J59WTWPf,,"CreativeTabsTweaker (Forge 1.12.2) lets you remove modded creative tabs, add custom ones, and move items between tabs for better organization."
+,HiKJz0ZM,,Adds tactical weapon presentation to the TaCZ mod.
+,uxgTrwJT,,"An Incubation add-on that lets eggs hatch from nests, among other features."
+,XpwimMng,,This is a mod which aims to improve the Minecraft Crash Report so that it will be clearer to know what the error is and why it happens.
+,2rLn4T4L,,Adjust individual or every stack to any size from 1 to 2147483646. Highly compatible & realtime update configuration.
+,ascOcgHZ,,"An advanced Minecraft mod that expands anvils with custom progression, durability, and unique effects."
+,IJtBNhjX,,"Gives every villager an extra 'Trade Anything' slot that accepts any item and exchanges it for goods the villager buys, at configurable rarity-based values."
+,yCUos12C,,JuxtOpposed's Redesign of the Minecraft UI
+,84zcagOb,,Render distant Voxy LODs on servers
+,lKiXKLvv,,Voxy multiplayer support and Distant Horizons compatability (unofficial). See fully rendered chunks and players thousands of blocks away in multiplayer.
+,xc1R7sOR,,Adds enchantments you've never seen before
+,Cmbmrahm,,Choose any vanilla cape to use client-side.
+,xFYtgzrQ,,a remake of the roblox game fencers & co in minecraft
+,KeY5Fc8p,,"Player mobs with behaviours, items / chest interactions and motives"
+,dWMHBEAQ,,Adds Accurate Elytra Trails with a Mod!
+,WHujL40i,,Makes Hypixel Housing more modern-version friendly with various item utilities!
+,NM6mnXVj,,The revamped version of the mod that adds alternate dimensions!
+,mCwfHLCf,,"A Mod that add to Crops n Corpses´s Mod new things like recipes, loot, and items. For the Survival Experience"
+,kBdBLg6M,,"This mod sets the colorspace of Minecraft in 26.2+ on macOS back to Display P3, making the colors more saturated."
+,KfDGY1yX,,A complete Russian translation of Wynncraft dialogues in the original style. The Cyrillic characters are hand-drawn to match the server's original bitmap font. (Полноценный русский перевод диалогов Wynncraft в стиле оригинала. Кириллица нарисована вручную)
+,LQqNW36K,,generates Overworld biomes in a logarithmic spiral pattern
+,k233t5Y1,,"This mod adds a new entity to Minecraft, providing players who want to simulate civilizations or build cities with a way to inject vitality and energy into their worlds."
+,FY87QDxY,,A tech mod for generating energy and process materials using familiar and novel machines
+,mksguUIH,,"记得安装资源包！Remember to install the resource pack! One of the most advanced open-source pool and billiards games for Minecraft Java Edition, featuring realistic physics, snooker, eight-ball, nine-ball, multiplayer, and AI opponents."
+,8LwUzpuE,,"Shows combined mining efficiency and attack damage, including enchantment bonuses, on tooltips."
+,b4corH6v,,"Port of bren-reforged for NeoForge 1.21.1, with fixes and additional new content."
+,Nr051px7,,Impossiblecore is a modification that improves on the survival and hardcore aspects of Minecraft by modifying progression and adding other features to help or hinder you while you progress through the game.
+,34YfAvB2,,"DMZLayers+ expands DragonMine Z race customization by allowing up to 12 skin layers, including the default DMZ layers and 6 additional custom colors."
+,MrqGWooa,,A combat focused datapack that revolves around powerful new weaponry and deadly bosses.
+,Kx0hbyT1,,"Adds true multi-character support to DragonMine Z, allowing each player to create and switch between fully independent characters with separate inventories, progression, races, transformations, and data."
+,Pb6zNbyB,,A library mod for Engie's other mods.
+,xT0lnNE9,,"A extremely efficent and optimized generator for voxy, with SERVER support! Previously 'Voxy WorldGen'"
+,T13rrCSg,,The mods let you customize your block outline
+,vOBTyVQ6,,"A liminal horror adventure mod with interconnected dimensions, sanity pressure, and relentless woodbound entities."
+,wMHXiTpn,,"Adds 3 Origins that support yourself and/or other players. The Groved is passive, α-02 is utilitarian, and the Soul Weaver is a linking force"
+,YqoCY2Gm,,修复mc的长矛手感 Fix the spear feel
+,D837oPXR,,A highly configurable mod that disables specific tools and items based on regex patterns. Supports blacklist/whitelist system with visual tooltip feedback.
+,Ofye1Fpp,,Fight against smart PvP Bots
+,6zlA12VE,,A modified version of All About Engie by EngieGames with full permission from DevEngie to reupload All About Engie.
+,vnyV74Zs,,This mod adds a parachute to Sable
+,fokFjwwh,,Keybind overlay for modpacks that shows what every key does at a glance.
+,5piZC07n,,A Fabric implementation of the bug fixes offered by the Paper project.
+,leOr65N0,,Forces Stairs to be upright/can't connect. Prevents fences/walls from connecting to diff blocks. Forces bottom slab placements. Disables Waterlogging + More. All configurable!
+,LUSDWwLk,,Adds a list of all name based CIT (Custom Item Textures) that were added by your resource pack.
+,XjUhLAwV,,"Shows invisible players' nametags and skins at full opacity. Client-side, with persistent settings, keybinds and a Cloth Config screen."
+,RWtUJXS3,,"Video, GIF and photo wallpapers for Minecraft menus. Built-in Store, Astral UI and in-game wallpaper settings. Fabric, Forge and NeoForge."
+,LkxC6kKT,,A transition between the world select screen and in-game
+,MK4m8nd3,,"This mod adds weapons from SAO, Genshin Impact, Fate Series and much more."
+,r0tit6tM,,"This mod adds a colour difference effect to the original visual, and changes the colour difference intensity according to the speed. The client mod."
+,tZn2RW1V,,A modern multiloader port of Brute Force Rendering Culling Revived!
+,DAMBDZ9M,,"This mod adds Lucky Blocks to Cobblemon, with 100% configurable events via JSON."
+,uDwJAaHz,,"Replaces vanilla music with a dynamic soundtrack that reacts to biomes, time of day, weather, battles, bosses, structures, etc. Fully customizable via resource packs and JSON; no programming required"
+,gH2XNhDh,,"A server-side, fully configurable zombie apocalypse with custom waves, hordes, blood moons, scaling, and optional base pressure."
+,B5C84kmv,,A mod added all offensive stratagems from Helldivers 2
+,kVcsjKMB,,Adds chests in many materials that hold far more than a vanilla chest.
+,y03vFU8g,,Adds barrels in many materials that hold far more than a vanilla barrel.
+,KS96oD0m,,Adds per-player and server-unique progression modes to FTB Quests.
+,7sPvWzag,,"Adds neon signs, calendars, wall clocks, wallpaper and frames."
+,B1b1Wy77,,"Adds clay and bone decorations, the planter pot and a fountain."
+,elAFM3L4,,"Adds paint rollers that recolor wool, concrete, siding, fluro blocks and road markings."
+,DSUt52tm,,"Companion bots that woodcut, mine, fish, farm, build, fight and follow you, with persistent inventories. Optional beta: local-AI companions that talk, remember and banter, with voices."
+,jE4d4DOP,,An FTBQuests Addon that adds 14~ new tasks and 11~ new rewards!
+,KLBCNhsn,,Adds many features from the popular manga/anime jojo's bizzare adventure (jjba)
+,X65VeKBn,,A lightweight Fabric client mod focused on chat translation and useful client-side features.
+,ISPVJPP4,,Unofficial mod that brings legacy Extra Utilities to the new minecraft versions!
+,cj0x1quL,,"This mod adds crafting recipes for you to craft every slab back into its block form. Made by TaleTellers Available on Forge, Fabric & Neoforge. Feel free to use in a modpack."
+,sp83lvOW,,"Ruby, Sapphire and Peridot are back!"
+,GR9gtj6y,,Minecraft Legends-inspired piglin content.
+,whcoHyco,,critters skitter from leaf litter
+,oJ0rUyva,,Make vanilla food more diverse and fun
+,I3sH0Yi9,,"A data pack for Overgrown's Origins that adds 14 classes, with each class granting two small perks."
+,KNnbmSwb,,"Dirt path to dirt with hoe, and farmland to path with shovel"
+,Of1FH2L9,,"survive in pure chaos (atleast, try to.). check the galery to see what a chaos looks like!"
+,ugD5AJho,,This datapack currently under development and support only on 1.21.1. This datapack adds very overpowered furnace recipes that feel balanced...t
+,E6iijWss,,"An old project of mine, a really annoying boss"
+,2JF4xcni,,Fabric Mod to view texturepack assets ingame
+,y1VtWY5S,,Greetings! This is a datapack I made for me and my friend's server that adds quite a few things!
+,Ta6w7RkG,,"An addon for Mystical Agriculture, adding new mechanics, seeds and essences — new resource crops, essence blocks, growth accelerators and Botany Pots support."
+,SIIABIqO,,A tool to carve blocks directly into their stair (or slab) counterparts while in the world
+,ItsHDv6O,,Teleport villagers by tapping them with a stick!
+,X9XZdbKl,,This mod adds a customizable widget to your screen showing the distance between the player and bedrock
+,5XcesSWX,,"Ashes to ashes, dust to XP"
+,5DxI88oJ,,"The mod adds new pets that you can summon into your world using the summoning table (after summoning them, you must right-click to claim them). You need to obtain the materials to craft the gems corresponding to each of the animals."
+,WGmJSoH5,,Removes enchantment restrictions.
+,mUtmYtFv,,"Winter survival mod for Minecraft 1.21.11. Snow falls constantly, cold kills slowly, and warmth becomes something you have to earn."
+,3VKvJy9A,,Adds the ability to rename a minecraft:player_head in an anvil and update it to the corresponding player's skin. Requires a way to acquire the player_head object. I use a custom recipe to craft zombie_head → player_head.
+,DZ1K2Cdy,,"A lightweight Minecraft mod for tracking players using their username or UUID, with customisable markers and last-seen locations. Easily manage tracked players and configure the tracker to suit your preferences."
+,bjltTBgw,,Backports and improves upon the Smithing Table!
+,phB5SOtn,,Dirt Mod is a mod that adds new dirt without gray pixels.
+,sx3mCCnJ,,Jerry mod is a mod that adds Jerry Smith from rick and morty.
+,dkRcK4Gn,,An unofficial Fabric fan mod inspired by BastiGHG’s challenge: spend XP levels to unlock block columns and grow a shared survival area.
+,JxGfFTxY,,"Spotify in Minecraft: now-playing widget, playback keys, and a full client to search, play and manage your library and playlists."
+,vvgTqF0n,,"Place blocks how you think they should be placed, off the grid! Multiparts, mixed slabs, windowlogging, and many other features included."
+,FYg0zGyC,,Four independently configurable terrain quadrants in one dimension
+,jH8ws8o0,,A Minecraft Forge 1.20.1 Mod that seamlessly integrates Timeless and Classics Zero (TaCZ) weapon statistics into Future Shops and standard tooltips.
+,9gAczTy1,,"A free, feature-rich client-side mod with visual enhancements."
+,u8eiln7X,,'Adds dangerous sand sharks and alpha sand sharks that roam deserts and hunt players.'
+,w8U96FVl,,Create: mass producing is a continuation of create: mass production without random trash items
+,lppAKstk,,Adds powerful books to all loot tables that add an extra heart and give a potion effect.
+,MS64Baf5,,Polymer patch for More Axolotl Variants API
+,DJVsjgm4,,Helpful utility to skip to the end of a editable/readable book using the UI back arrow on page 1
+,eik7sBuZ,,CustomBurger lets you combine multiple food items into a single burger so you can get all their effects at once.
+,fVJnfGcO,,Find the first invalid beacon-base block or beam obstruction without changing the structure.
+,x1nPAmWQ,,"A tier expansion mod in which allows you to start a tier-5 (above netherite) and gives better progression for your mod. This means that if you tried to mine a tier_8 ore with a tier_5 pickaxe, it would not break. Is an addon for kubejs"
+,ULCw7CiK,,"Sodium Profiles Slug: sodium-profiles Summary: Switch between Sodium video presets with a single key while you play. Performance, Balanced, Quality and up to five of your own, no menus involved."
+,xBCyRrW4,,This mod adds a Superflat Dimension where you can use a crafted Superflat Pass to freely travel between the Superflat Dimension and your original world.
+,AllIxWgj,,"A Minecraft mod that adds all Champion abilities (and their enhanced versions), Ancient armor, weapons, and materials from The Legend of Zelda: Breath of the Wild. Currently no crafting recipes"
+,AYqLF422,,"Zhuravel HandView is a simple, lightweight client-side Fabric mod designed to give you full control over your first-person viewmodel and hand position in Minecraft. It allows you to easily adjust hand offsets on the X, Y, Z"
+,VSKNDKRG,,A mod about poisoning yourself and your enemies!
+,zLh9TMhC,,"Your tunes, right on your screen. A lightweight, plug-and-play media overlay for Minecraft."
+,ygrX3nKx,,"Ancient Creature adds prehistoric discoveries to Minecraft. Explore dig sites, uncover fossil fragments and ancient eggs, identify remains, and piece together creatures from the distant past."
+,ZFRdy4pk,,"SuperBuild is a Minecraft speed-building challenge mod that lets players save structures and recreate them as quickly as possible. It includes timed building rounds, build management, automatic block supplies, reveal animations, countdowns, particles, and"
+,r8NDizFv,,"WingDepo automatically deposits selected blocks into MysticMC wing-linked chests when your inventory fills up. Configure multiple wings, block presets, inventory/hotbar slots, and optional /wb or /stonecutter pauses before depositing."
+,5hCJylAO,,This mod is for keeing track of rankups in game making progression easier to track.
+,cIsk6QFg,,"Procedural Biology, Genetic Evolution, and Ecosystem Research for Minecraft."
+,5UfZwygX,,A simple mod that lets you use souls to turn spawners into spawners for any mob.
+,x2wzSiRX,,"A game mode that starts you in a single chunk. Sell what you gather to buy your way outward, one chunk at a time."
+,kco7p0Ti,,"In real life, cornflowers are weeds that grow in grain fields, so I made them have a chance to grow in developing wheat fields as a renewable source."
+,EadAcHPP,,A set of cobblestone armor.
+,rRBop65Y,,Adds Quivers and Satchels as way to store Arrows & Potions.
+,N6PPg3uL,,"A client-side Fabric mod that detects overloaded minecarts and displays a clear 3D ! ! ! warning above them, with customizable size, height, spacing, color, and number mod."
+,Z4m4ZXxj,,You can now EAT Moss and Moss Carpet! And they give a little bit of saturation!
+,XX8nG3Oh,,Improved UI scaling for Minecraft!
+,xwIsZd7D,,"Real ELO ranked PvP for Minecraft — per-kit ratings, placement matches, match history, and leaderboards for pvp club & minemen club"
+,ycU0qGkM,,A lightweight Fabric creative utility mod that makes common testing and Creative Mode actions faster and easier.
+,wAvth8VI,,Makes some Epic Fight combat features more balanced
+,5wxZVAZo,,"The stools which can be placed, sit, and even thrown into the air as a bomb."
+,xoGfb0IA,,"Break a block, get a random block."
+,2YVycKkR,,a weebified skyblock rpc mod! with 4 different anime you can choose from with its main cast icons to display!
+,XWElVR8c,,"A ClownPierce themed scythe mod with lifesteal, kill progression, Blood Beam, custom enchantments, and a boss dungeon — inspired by Doctor4t."
+,PzNBY0IN,,Expands the TierTagger mod with official support for PvPHQ ranked tiers.
+,3HO3APHb,,"Storage, computation and crafting extensions for Neo ECO AE Extension, with KubeJS integration for custom infinite matrices."
+,cI45mTGT,,"Crossy Road, but inside Minecraft."
+,bQAfLFc3,,Minecraft Player identity & display customization mod
+,Mocj0FRP,,"Slabs, stairs and walls for most chipped blocks variants"
+,7rGhCjXM,,Hot Potato adds a throwable potato crafted with a lava bucket and potato which sets the area around its impact on fire and ignites entities it directly hits.
+,F3DwhfYd,,A simple recipe for those who dont like looting bastions
+,HyEjCdzQ,,"Call your friends in different worlds, servers or title screens!"
+,y0Ge2cRt,,An FTB Ultimine addon that lets brushes excavate multiple suspicious blocks at once
+,cDRRmFlV,,"mod that adds various things, from ores, weapons and armors. to dimensions and biomes"
+,Hx3fFVzE,,"Add a lot of color blocks to your game, make your world more colorful."
+,gRKEWoVj,,This mod adds a little variations to have a good time in minecraft. Use the Platyer Version if you're not a youtuber or don't find your edition.
+,aexqqCCR,,"This datapack adds several interactable new plants, 3D cactus and more, in the vanilla world generation. No resource pack required, compatible with worldgen datapacks & mods"
+,VRoxNraU,,turns surfaced parts of the ocean into Islands
+,c6f7idqK,,"汽油柴油1:1混合生成航空煤油，适配工业类模组燃油体系。Gasoline and diesel 1:1 mix to make aviation kerosene, compatible with industrial mod fuel systems."
+,53tW6NxT,,Add a Kazakh vibe to your Minecraft!
+,PybyEHlC,,"This is a lightweight feature-rich macro GUI allowing you to bind keys, chat messages, and commands to an output, a repeated output, or a series of normal/repeated outputs."
+,VN0crPZw,,"A client mod (Fabric, Quilt, NeoForge, Forge) plus a Paper plugin or server mod that brings real-time, 3D positional voice chat to Minecraft. Unlike other mods, SocketSVC completely drops UDP for WebSockets."
+,pKtSeDYo,,This project adds a photorealistic TARDIS to b1.7.3 along with other features from Doctor Who.
+,bFf5HUC8,,A psychological horror mod where the familiar Minecraft world slowly becomes something you can no longer trust.
+,w6nBXsw1,,"A Minecraft Forge 1.8.9 mod that automatically displays Bedwars stats such as Stars/Level, FKDR, and cheater detection in the game tablist/playerlist with a chat alert and a beautiful UI."
+,QWmEiCWc,,"A server-side voting and reward mod with built-in Votifier support, offline rewards, item rewards, milestones and more."
+,kZMlsGQp,,Adds the Halcyon server map to the game.
+,qqzoN5WN,,"A live isometric and top-down web map for Paper servers, with an optional Fabric mod that brings the same map in game as a minimap and world map."
+,57g0cUdx,,A Minecraft server management panel for Paper / Folia / Fabric / Forge / Neoforge servers
+,AFWFy1md,,Tiertagger for Moonhex Tiers
+,omzSygsa,,"Automatically store pickups and refill building, crafting and IPN materials from carried shulker boxes, with personal settings. / 自动收纳拾取物，从随身潜影盒补充建造、合成与 IPN 材料，支持个人设置。"
+,L7cI8p0P,,Library/API for messing with time and space
+,bOsfeOzN,,"Bring your Equipment, Curios, Cosmetic Armor, Crafting Grid and Attributes together in one"
+,ujus3nbN,,This is a Mod that that provides multiple features by using inspirations of other mods.
+,ahRR7tAt,,"Recording tools for minecraft which will help people, /recmode on / off to toggle and rightshift to open menu."
 “你将去的生物群系”修复模组,,518623,
 “通量”机械,2s2tmYs0,395269,让 Mekaverse 充满 Flux 之力
 [AS]失落废墟,TWsbC6jW,297680,新增200+完美融入世界的建筑结构
@@ -9040,7 +9218,7 @@ Binnie's植物学,jcZf13lh,223525,Forestry 模组扩展，添加新的蜜蜂、�
 Bobo的超市,,238047,
 bspkrs核心,,323993,
 B测往昔,,247840,
-C^2M 引擎,VSNURh3q,533097,优化区块性能的Fabric模组
+C^2M 引擎,COlSi5iR,533097,优化区块性能的Fabric模组
 Calemi的实用设备,,320196,
 Carpet拓展,VX3TgwQh,349240,地毯模组功能扩展
 CHENZIQIU的创意,,532027,
@@ -9057,7 +9235,7 @@ CrT集成,,435298,
 CT 小型煤炭,,280766,
 DayZ 重制版,K8e1iRHs,461566,Minecraft 里的 DayZ
 Delta 困难模式,,318459,
-Derec的地球生物,BEI4l3AD,392290,"下载量超过 300,000，添加一批色彩丰富的新生物供你发现！这是我高中时为大学申请制作的项目。"
+Derec的地球生物,BEI4l3AD,392290,下载量超过 300,000，添加一批色彩丰富的新生物供你发现！这是我高中时为大学申请制作的项目。
 DFU载入优化,hvFnDODi,433518,延迟非必要初始化以加速游戏启动
 Doctor Who - Regeneration​,8gkWtwQu,274275,获得12次重生机会而非死亡
 Dooglamoo的世界,,272835,
@@ -9126,7 +9304,7 @@ JEI物品管理器,u6dRKJwZ,238222,JEI - 物品与配方查看器
 JEI猪灵以物易物,,437558,
 JEI绘画预览,,546740,
 JEI药水效果,EO27GKs1,532286,JEI插件：显示状态效果信息
-JEI进度,5JY3QNIB,444941,JEI扩展：进度搜索功能（发音同"yeah"）
+JEI进度,5JY3QNIB,444941,JEI扩展：进度搜索功能（发音同yeah）
 JEI附魔信息,,392748,
 JER集成,,506948,
 JoJo-波纹时代,jO5CSnvG,362961,添加《JOJO的奇妙冒险》第一部的新装备、武器与能力
@@ -9604,7 +9782,7 @@ Yuo的更多附魔,,698171,
 动态的树：神秘时代附属,,292752,
 动态的树：禁忌与奥秘附属,,416698,
 动态的树：科技复兴附属,,386772,
-动态的树：群峦传说附属,rTzlIrI4,362368,TerraFirmaCraft 与 Dynamic Trees 的兼容模组。世界生成树木和种植树木都会动态生长。
+动态的树：群峦传说附属,8u5EZQJb,362368,TerraFirmaCraft 与 Dynamic Trees 的兼容模组。世界生成树木和种植树木都会动态生长。
 动态的树：自然灵气附属,,403135,
 动态的树：超多生物群系附属,8QHjGuhP,1336681,动态树与更多生物群系模组的兼容补丁
 动态的树：遍历附属,,407056,
@@ -9931,7 +10109,7 @@ Yuo的更多附魔,,698171,
 夸克,qnQsVE2z,243121,Quark——微小特性的集合体
 夸克-奇思妙想,qeEEslrN,301051,Quark扩展：为建筑党设计的精巧功能
 夸克背包饰品,,445208,
-奇奇怪怪的燃料,plz4dLKx,0,以"燃料"为核心的实用冒险模组
+奇奇怪怪的燃料,plz4dLKx,0,以燃料为核心的实用冒险模组
 奇才妙械,NWkx0rbj,297414,由热空气和奇特材料驱动的科技模组。
 奇点,,280741,
 奕 秉甲,,570421,
@@ -9974,7 +10152,7 @@ Yuo的更多附魔,,698171,
 实体旗帜,,470149,
 实体模型JSON,,521687,
 实体模型特性,4I1XuqiY,844662,EMF是适用于Fabric和Forge的OptiFine格式自定义实体模型替换模组
-实体渲染机制优化,NNAgCjsB,448233,异步路径追踪隐藏不可见方块/实体
+实体渲染机制优化,mAHz905I,448233,异步路径追踪隐藏不可见方块/实体
 实体纹理特性,BVzZfTc1,568563,支持Fabric端实体发光/随机/自定义纹理（类似Optifine）
 实时聊天翻译,,240908,
 实用世界,,228979,
@@ -10779,7 +10957,7 @@ Yuo的更多附魔,,698171,
 极限反应堆,idkvShUy,250277,极端反应堆是经典模组Big Reactors的重制版，适配多版本
 极限末地生存,TdMpuC7n,228015,全面改造末地，加入大量可探索区域、可挑战 Boss 和可获取奖励。
 松鼠,,638108,
-林业,MHni9gjy,59751,树木、蜜蜂及其他内容
+林业,2oORTOi2,59751,树木、蜜蜂及其他内容
 果树 🍊,4bZDWNlG,355467,引入水果种植与养蜂的深度内容
 枪，炮，原子弹！,,405952,
 枫林,,689679,
@@ -11973,7 +12151,7 @@ Yuo的更多附魔,,698171,
 连锁采集,bRAPbNyF,431910,高度可配置的轻量级工具连锁采集附魔
 迫真原版增强,,591818,
 迷上城建,rItLmRo4,583071,打造美丽城市的全套建筑方块与物品
-迷你HUD,UMxybHE8,1207445,"迷你F3"信息显示模组，含光照等级、刷怪区块、史莱姆区块等覆盖层
+迷你HUD,UMxybHE8,1207445,迷你F3信息显示模组，含光照等级、刷怪区块、史莱姆区块等覆盖层
 迷你刷怪场,,311880,
 迷你实用设备,,460341,
 迷宫,ZaPPjG9h,0,添加充满迷宫结构的维度世界
@@ -12060,7 +12238,7 @@ Yuo的更多附魔,,698171,
 铜制工艺,,654429,
 铜锅！,,485539,
 铜锅！,YJa9l8Zi,485539,对「食物不该提供状态效果」论调的有力回击
-铟,Orvt0mRa,459496,基于Indigo的Sodium扩展，支持Fabric渲染API
+铟,gcXgGZ7R,459496,基于Indigo的Sodium扩展，支持Fabric渲染API
 铱矿产,,280896,
 银橡前哨,,411725,
 铷,,574856,
