@@ -1,246 +1,369 @@
 name,modrinth,curseforge,description
-,Q1vvjJYV,322506,
-,dEAKT8y9,345953,
-,PYhc7nNa,338898,
-,UaS8ROxa,602290,
-,R6NEzAwj,385587,
-,ygChbn8J,855381,
-,BS9T99lD,832754,
-,71EyVfCn,486209,
-,EpQFjzrQ,678384,
-,sclYVqbt,759541,
-,ZvitaqQh,449652,
-,Xl42lc6c,669144,
-,ZvMtQlho,610844,
-,LMIZZNxZ,534748,
-,xEItlMn3,326302,
+,Q1vvjJYV,322506,"Shaderpack for Minecraft: Java Edition. It's bright, colorful, and distinct."
+,dEAKT8y9,345953,A shaderpack that tries to stay as simple as possible while still adding dynamic shadows and preserving as much of the vanilla rendering as possible.
+,PYhc7nNa,338898,Shaders that aim for a nice mix of natural and fantasy.
+,UaS8ROxa,602290,Extremely lightweight with shadows and reflections
+,R6NEzAwj,385587,"Transforming the visuals of Minecraft with exceptional quality, detail, and performance."
+,ygChbn8J,855381,A fast and high-quality shaderpack with realistic visuals and PBR atmospherics.
+,BS9T99lD,832754,"A simple Minecraft Java shader that attempts to maintain the vanilla aesthetic while adding optional shadows, colored lighting, and ray-tracing."
+,71EyVfCn,486209,A shader that add realism for Minecraft with a good look
+,EpQFjzrQ,678384,A modern fantasy stylized shaderpack with colored lighting and stunning visuals
+,sclYVqbt,759541,"Using clever lighting techniques and powerful customization to create clean, immersive, and enjoyable visuals."
+,ZvitaqQh,449652,A shaderpack based on older versions of Chocapic13 Shaders.
+,Xl42lc6c,669144,A minimalistic and performant path-traced shaderpack.
+,ZvMtQlho,610844,A well performing fantasy styled shaderpack with emphasis on scene variation and customization.
+,LMIZZNxZ,534748,A shader pack created to convey the style of the cancelled Super Duper Graphics Pack and other popular Minecraft titles.
+,xEItlMn3,326302,Capturing the essence of old shaderpacks to create a stylized and modern Minecraft-look.
 ,y0Lb3GNS,544096,
-,sC1oZTSS,920167,
-,UDDa70lE,363825,
-,WX4iF5Cj,467280,
-,Y8161YLz,322270,
-,EPsIYDj1,322360,
-,HVnmMxH1,627557,
-,izsIPI7a,431203,
-,RphJSnEs,406081,
-,EQWX2WiO,618217,
-,iHC8BZn4,1040578,
-,6uJCfiCH,921717,
-,by2i3tnt,1093481,
-,w8N6pbsN,758336,
-,pgzM6RBY,1085570,
-,BkTdFBUU,813185,
-,CiFGzRV9,969143,
+,sC1oZTSS,920167,A lightweight & gameplay friendly shaderpack!
+,UDDa70lE,363825,"This shaderpack is basically just a loose recreation of an old SEUS Mod of mine, but without using any of its code."
+,WX4iF5Cj,467280,A very lightweight shaderpack that is still fancy in its own way.
+,Y8161YLz,322270,"A high-quality realistic, yet also somewhat stylized shaderpack."
+,EPsIYDj1,322360,A shaderpack that gives Minecraft a modern visual overhaul while staying faithful to its original look.
+,HVnmMxH1,627557,"Preserving the elements of Minecraft with exceptional quality, detail, and performance."
+,izsIPI7a,431203,"MakeUp aims to provide the best quality / performance ratio, building a shader that can be adapted to anyone's resources."
+,RphJSnEs,406081,"Shaderpack with very high customization. If you like effects, this shaderpack is made for you!"
+,EQWX2WiO,618217,"A stylized, horror themed Iris shaderpack with high customizability and performance."
+,iHC8BZn4,1040578,"Atmospheric, highly customizable horror shaderpack, successor of Insanity Shader."
+,6uJCfiCH,921717,"A Spooky, very moody and atmospheric Complementary Shaders Edit"
+,by2i3tnt,1093481,Adds a body camera effect
+,w8N6pbsN,758336,OPAL Shaders is a shaderpack for Minecraft Java Edition based on BSL Shaders created by Capt Tatsu. It aims to blend a fantasy atmosphere with natural colors and contrast while staying true to Minecraft's original style.
+,pgzM6RBY,1085570,[DISCONTINUED] Shaderpack for Minecraft: Java Edition. It's oriented towards vanilla aesthetics.
+,BkTdFBUU,813185,"An aesthetic, performant pastel-colored shaderpack with multiple color presets."
+,CiFGzRV9,969143,"A shader pack that is created to improve the graphics of your game, leaving it in vanilla style"
 ,fMpu8QDi,273654,
-,YU49BElv,676136,
-,sAZ9WsJP,1159841,
-,e2fAZfFz,1016013,
-,BUxf36AP,1113130,
-,4kHmJd4i,508365,
-,yhuqxlbn,1038016,
-,Ah4Q0Hhi,1112674,
-,XaonJnsc,1167228,
-,LTvf5Tji,1155908,
-,lLqFfGNs,1110131,
-,1BZ68dI8,1092607,
-,bNFqrJXS,996289,
-,7eXucZxq,331780,
-,D5k8BTVz,883885,
-,BWnGghPW,1058040,
-,tLyAc6iV,1086316,
-,Kqx96bgP,914435,
-,hgAKxFQg,1078762,
-,5aFJgbak,1091924,
-,HpOC6pyc,665460,
-,SvynK6FG,1109406,
-,TH4ZChbH,,
-,Ex07lTtc,,
-,4NqVZgit,,
-,Q1ICdkzj,,
-,l6di6hYz,,
-,8g4QdJbB,,
-,bXCmt4WM,,
-,Ida6ckCG,,
-,M0BPI7hI,,
-,yFimxtNu,,
-,kNFcEjhS,,
-,i4HaUoDk,,
-,v0ls167y,,
-,vG5QtNwT,,
-,VUMmIDj7,,
-,b6eOhxbm,,
-,ufTCN3P7,,
-,T9AnY83f,,
-,UuwCHIS3,,
-,r0nZtcNz,,
-,E3OFlt83,,
-,EJ1dyMxD,,
-,GWRThy8E,,
-,wrmFZVdg,,
-,iK4iV8VO,,
-,itGx8EqQ,,
-,pcMKaDsV,,
-,XeTLx0Ts,,
-,Y2J6yRI1,,
-,99fE9cOJ,,
-,aE6ouBYi,,
-,HIReN4tM,,
-,WWnqhWeH,,
-,ZMDDXGl0,,
-,g8XFxSeP,,
-,cOY8vlyQ,,
-,JMcDg496,,
-,WwzQD0SU,,
-,2cw8yKvY,,
-,pWeVnXDz,,
-,1I3dfiuC,,
-,W5bzJMwc,,
-,pH4riL7j,,
-,fIae0ZD5,,
-,9rdRg62O,,
-,JrocOsNB,,
-,uKUzCNsg,,
-,WTBaGxsU,,
-,cdZAl3l6,,
-,HSeYKX4p,,
-,crTs8oka,,
-,oAeXD5jG,,
-,HkMe13oU,,
-,UqY4RQhr,,
-,JH3s1XBW,,
-,4j2IMXWX,,
-,R9p5LgWC,,
-,FASazh1z,,
-,GXne9Rh0,,
-,9Rg9KKDK,,
-,yFRLQ6nx,,
-,8d8lkScD,,
-,dti7mEIx,,
-,pC9mvjo2,,
-,z9uzFtZT,,
-,SkEg5Q6H,,
-,4X4NFRB3,,
-,whtMJjFZ,,
-,rigq3TbB,,
-,tDNoLyAo,,
-,o3z6MbSg,,
-,yHwtds5X,,
-,a7BJsHow,,
-,nXx7itrW,,
-,Xng19eSP,,
-,SQvhCttl,,
-,bWgFkY1H,,
-,b8176M1z,,
-,y4W832kH,,
-,quyQHxX7,,
-,cp1mknH2,,
-,HgWVd3hC,,
-,DoODk4HD,,
-,dJEvIEin,,
-,8Pp5Mitp,,
-,dECMsfLq,,
-,j4zLgsSj,,
-,F02G3fXw,,
-,GboFX9a3,,
-,ioPkf1jI,,
-,iSAqbF7x,,
-,L5dehyse,,
-,qpA3SxtS,,
-,F03D4KFh,,
-,V2DYYxvS,,
-,1L9qsAbm,,
-,ZZVgotgI,,
-,frac8sks,,
-,Rn5nNhVt,,
-,ZQ2ILXE5,,
-,69WtIL3W,,
-,j5OKSjVO,,
-,YBxHE85X,,
-,1x0tnMFF,,
-,fjTCryQj,,
-,8riXSAMP,,
-,y5vfr9HA,,
-,QtsvJBsT,,
-,94NeFeu4,,
-,CNDxwBeO,,
+,YU49BElv,676136,A simple vanilla plus shader with screen space reflections! In Alpha!
+,sAZ9WsJP,1159841,"Creepy, tense shaders that will tickle your nerves."
+,e2fAZfFz,1016013,"Forget about the boring look of vanilla chests, now you will have more realistic textures!"
+,BUxf36AP,1113130,Shaderpack with a painterly aesthetic made for people who want to actually play the game. It's easy on your eyes and on your computer!
+,4kHmJd4i,508365,A High Performance Shaderpack with great shadowless Visuals and PBR support
+,yhuqxlbn,1038016,A very Vanilla high performance shader with live Texture Upscaling/Filtering and optional shadows. Configurable subtly enhanced vanilla feel.
+,Ah4Q0Hhi,1112674,A shader intended to make Minecraft render only with ASCII characters!
+,XaonJnsc,1167228,Retro stylized shader that brings artifacts from CRT and VCR / VHS
+,LTvf5Tji,1155908,"A MakeUp - Ultra Fast shaders edit that is highly customizable, beautiful, and fast!"
+,lLqFfGNs,1110131,A gameplay-focused shader pack with a semi-realistic style
+,1BZ68dI8,1092607,"A shader that blends high performance range with new features, and lots of stylistic range!"
+,bNFqrJXS,996289,"A simple but very good low performance motion blur pack, which enhances the vanilla experience!"
+,7eXucZxq,331780,Vanilla Minecraft with a little extra!
+,D5k8BTVz,883885,Improves visuals without interrupting gameplay
+,BWnGghPW,1058040,Add a VHS TV Effects Shader and MORE
+,tLyAc6iV,1086316,A stylized shader aimed to make your game look retro!
+,Kqx96bgP,914435,Energy Shaders for Java. A vanilla Minecraft shaderpack that aims on making the game more vibrant and aesthetic. Giving Minecraft a completely new Style. No Optifine/Iris required!
+,hgAKxFQg,1078762,"Based on Complimentary Unbound, a beautifully colorful Vanilla+ shader meant for making the game look good while maintaining good performance and vanilla feel."
+,5aFJgbak,1091924,Add Motion Blur in Minecraft
+,HpOC6pyc,665460,Shaders dedicated for beauty.
+,SvynK6FG,1109406,Make the world turn to Winter
+,TH4ZChbH,,"Soft sunlight, clear water and warm nights. An Iris shader pack for the worlds you already love."
+,Ex07lTtc,,"A lightweight, performance friendly shaderpack featuring realistic water, vibrant god rays, and handheld emissive lightning, carefully optimzed to deliver 60 FPS on low-end devices and IGPUs."
+,4NqVZgit,,"A lightweight, vanilla-plus shader to truly bring Minecraft to life!"
+,Q1ICdkzj,,A shader that aims to give a fantasy setting for those who like color.
+,l6di6hYz,,"Colors of fantasy, vivid and striking"
+,8g4QdJbB,,"This is a new shader project that is still under development. The shader is inspired by Eclipse shader, IterationRP. Shader was developed by a Vietnamese author."
+,bXCmt4WM,,🇬🇧 Transform your Minecraft world with immersive lighting and atmospheric visuals. 🇷🇺 Преобрази свой мир Minecraft с помощью реалистичного освещения и атмосферной графики.
+,Ida6ckCG,,"A lightweight, semi-realistic shader pack with cinematic fog, smooth sky gradients, a round sun and moon, and optional motion blur. Includes an in-game settings menu."
+,M0BPI7hI,,"Mojang's promo art inspired shader. Smooth details, shadows, edge highlights, bubble-gum leaf blocks, and more!"
+,yFimxtNu,,a shader for rain lovers  on low end pc
+,kNFcEjhS,,"Atmospheric, warm-toned shaders for Iris with realistic waves, godrays, soft shadows and natural grey-teal water. Six profiles, from Potato to Ultra."
+,i4HaUoDk,,SimplifyShaderPack — this is a shader. Thanks for downloading XD
+,v0ls167y,,"An anime-inspired Iris shaderpack with illustrated skies, soft pastel colors, outlines, and sunlight shadows."
+,vG5QtNwT,,"Bright Iris shader with a real sky, realistic water, glowing ores, rainy weather, desert and snow storms, and 60+ settings including a My Own Shader menu. Low to Ultra profiles for any PC."
+,VUMmIDj7,,This Minecraft Shader Adds Custom Outlines to Every Mob!
+,b6eOhxbm,,A simple and lightweight shader designed for weak devices
+,ufTCN3P7,,"A high-end shader focused on great visuals, packed with features like blocklight shadows, colored block lighting, CSM shadows, realistic water physics (vertex manipulation), shader grass, snow footprints, volumetric clouds, god rays and much more."
+,T9AnY83f,,"Light but not just light, make you enjoy advanced render with no lag."
+,UuwCHIS3,,"As light as light, as beautiful as painting. Make you have both high FPS and good image quality."
+,r0nZtcNz,,An in-development shader with global ray tracing and some interesting features.
+,E3OFlt83,,A lightweight Minecraft shader for players who want better visuals without demanding high-end hardware.
+,EJ1dyMxD,,Mello is a shader with high performance and great visuals.
+,GWRThy8E,,"A high-quality, realistic shaderpack with macbooks in mind"
+,wrmFZVdg,,"Transform your Minecraft worlds with reflective water, soft shadows, atmospheric skies and waving foliage. Choose your look with customizable quality profiles."
+,iK4iV8VO,,Lightweight shader designed for low-end hardware. like GT 750M / i7-4700HQ #SuperMeltedMatter #light #low end #savetf2
+,itGx8EqQ,,"Brisa Lite is a lightweight Minecraft shader focused on smooth performance, vibrant lighting, soft shadows, and beautiful visuals without sacrificing FPS."
+,pcMKaDsV,,"Advanced ray tracing(PT+SSRT,GI) shader with dynamic weather and post processing effects.Translation 高级光影包，支持光线追踪(PT路径追踪+SSGI)、动态天气、多层云和高级后期处理效果"
+,XeTLx0Ts,,Performance-focused Minecraft shaders that bring beautiful lighting to potato PCs.
+,Y2J6yRI1,,A shader created simply for fun and as a hobby
+,99fE9cOJ,,"Experimental shader that distorts the world with noise, creating a surreal and atmospheric visual effect. Compatible with Iris and OptiFine."
+,aE6ouBYi,,Lightweight Temporal Anti-Aliasing shaderpack.
+,HIReN4tM,,"A beautiful, extremely customizable and performant shader edit of MakeUp-UltraFast focused on fantasy visuals."
+,WWnqhWeH,,"Warm, low sunlight against quiet shade, soft volumetric clouds and dark water that mirrors the shore. A deferred shaderpack for Iris with a calm, cinematic look."
+,ZMDDXGl0,,"Fork of minecraft-miniature-shader by Mateus A. Kreuch, with a large visual extension layer."
+,g8XFxSeP,,"It’s colorful, nostalgic vibes with a mix of vintage aesthetics and a timeless, retro feel"
+,cOY8vlyQ,,A shader with some shadows! Colors!
+,JMcDg496,,This project is gonna make you vomit!
+,WwzQD0SU,,"A Smooth Shader, That can run on any System"
+,2cw8yKvY,,This shader is for low performance pcs or just if you want an simply shader.
+,pWeVnXDz,,"Light and Shadow enhances Minecraft with improved block and sky lighting, shadow-map based shadows, GI occlusion, LabPBR material support, and atmospheric visual effects."
+,1I3dfiuC,,Doruk's Shader Plus is a Mellow based premium shader.
+,W5bzJMwc,,It is a lightweight shader pack that makes Minecraft look amazing and ensures compatibility with mobile devices.
+,pH4riL7j,,my own little shader which is very weird lol
+,fIae0ZD5,,"PlusM1 is a shaderpack designed for players seeking a modern graphical experience without sacrificing the essence and visual identity of Minecraft. It combines dynamic shadows, immersive atmospheric lighting, and fluid weather effects."
+,9rdRg62O,,60-100 FPS on Intel HD - No GPU Needed! Lite shader with God Rays & Dark Caves
+,JrocOsNB,,"Shaderpack for Minecraft Java,adds Bright Light and Shadows"
+,uKUzCNsg,,Anti-aliasing (SMAA) and sharpening for vanilla or Iris
+,WTBaGxsU,,"Discover Minecraft like never before with Sublime Visuals, delivering stunning sunsets, crystal-clear water, dynamic lighting, atmospheric effects, and optimized performance for every adventure"
+,cdZAl3l6,,"Phero Visuals Minecraft shader pack featuring vibrant lighting, realistic water, dynamic skies, soft shadows, cinematic atmosphere, and optimized performance for an immersive, smooth, and visually stunning gameplay experience."
+,HSeYKX4p,,This shader just adds a few colors and shadows specific to the blocks. It’s made to work on minimal setups.
+,crTs8oka,,Adding lite shaders while retaining performance.
+,oAeXD5jG,,"Well I was bored out of my mind, and so I did an edit of makeup ultrafast, so it looks like Kane and Lynch or wtv"
+,HkMe13oU,,"Ultimate Fusion Shaders is a Minecraft Java Edition shader pack designed to transform the game with beautiful skies, realistic lighting, dynamic clouds, reflective water, and immersive atmospheric effects. Featuring glowing sunrises and sunsets, detail"
+,UqY4RQhr,,"WINDOWS A simple, light weight shader for those who want great visuals, while still maintaining fps."
+,JH3s1XBW,,"MACOS A simple, light weight shader for those who want great visuals, while still maintaining fps."
+,4j2IMXWX,,Replace vanilla glowing shader with optimized and prettier one imo
+,R9p5LgWC,,Adds a working 2008 client hud
+,FASazh1z,,"Nivora Shaders featuring balanced colors, softer sunlight, gentle bloom, and a beautiful vanilla-inspired atmosphere without excessive visual effects."
+,GXne9Rh0,,LumaVale Shaders is a visual enhancement shader project designed to give Minecraft a more atmospheric and visually pleasing look while keeping the overall appearance balanced and close to the vanilla experience.
+,9Rg9KKDK,,"A Pretty, Stylized Shader trying to be extremey lightweight"
+,yFRLQ6nx,,This is a Minecraft Java Edition Version 26.2 shader. This shader is Iris Version 1.11.1 compatible. This shader adds realistic lights and shadows and blooming to Minecraft.
+,8d8lkScD,,Inverts all colors to opposites.
+,dti7mEIx,,Allows panini projection rather than default rectilinear projection of minecraft with very little performance cost
+,pC9mvjo2,,"Matrix-inspired shaders for Iris with animated code, neon outlines, digital rain, aurora skies, and five visual profiles."
+,z9uzFtZT,,Makes the screen orange like settings on phones and computers
+,SkEg5Q6H,,Sculk under the ever-sifting disco ball with this enchantment glint.
+,4X4NFRB3,,"An anime-inspired Minecraft shader pack featuring crisp cel-shaded block outlines, fluffy clouds, and glowing ores. It gives the game a vibrant, cozy aesthetic with a sleek and satisfying block selection outline"
+,whtMJjFZ,,"Warm Lite colors, sun shadows, swaying plants, and water and lava with a real surface. Heavier than Lite, still fine on a normal PC."
+,rigq3TbB,,Shader pack that makes everything a blinding void.
+,tDNoLyAo,,"Lightweight shaders that run on old PCs and New PC's but look super realistic: clear water, a real night sky, a dreamy End, soft shadows. 5 presets from Potato to Ultra. Iris & OptiFine, 1.21+."
+,o3z6MbSg,,"An ultra-light shader built for max FPS on low-end devices. Adds soft lighting and gentle water waves while keeping vanilla water untouched. Works with Iris and OptiFine, 1.19 to 26.3."
+,yHwtds5X,,A own and cool Minecraft Shader to upgrade your World
+,a7BJsHow,,"Cinematic...Lively,vivid,bright,colorful..."
+,nXx7itrW,,Beyond Minecraft. Into Reality
+,Xng19eSP,,A simple Minecraft Shaders for Low end device
+,SQvhCttl,,"Realistic lighting and atmospheric visuals, carefully optimized for smooth performance."
+,bWgFkY1H,,"A vibrant Minecraft shader with animated nature, dynamic lanterns and chains, glowing portals, atmospheric lighting, water effects, and extensive customization."
+,b8176M1z,,Cinematic Fantasy made fun and colorful for almost any device.
+,y4W832kH,,"A shader pack for Iris with a physical sky, soft shadows, volumetric clouds and clear water, at vanilla brightness in caves and at night."
+,quyQHxX7,,"A realistic, professional, premium Minecraft shader"
+,cp1mknH2,,A lightweight brightening shader for Crystal PvP.
+,HgWVd3hC,,This shaderpack can go beyond you low-end PC limits as it gives high FPS but also shows stunning visuals. The visuals are completely configurable in shaderpack settings. Enjoy!
+,DoODk4HD,,A shader that improves minecraft's style instead of replacing it
+,dJEvIEin,,"A lightweight shaderpack with beautiful lighting, soft shadows, vibrant skies, and realistic water, optimized for low- and mid-end PCs."
+,8Pp5Mitp,,"EarthShade EarthShade is a modern realistc shader pack for iris/optifine which has very good overworld,the nether and end are still a work in progress,(still has visual bugs please support my project)"
+,dECMsfLq,,A shaderpack to acheive rocket league style lighting!
+,j4zLgsSj,,"A lightweight, dreamy shaderpack for low-end PCs and integrated graphics. Soft light, hazy skies, gentle atmosphere, and high FPS — no ray tracing, no bloat, just smooth, dreamy vanilla+ visuals."
+,F02G3fXw,,A shader that attempts to recreate the 'Depth Style' effect seen in TikTok edits.
+,GboFX9a3,,"Ultra-lightweight shaderpack for low-end PCs with waving foliage, optimized performance, and zero lag."
+,ioPkf1jI,,"Godrays, soft colored shadows, waving water & plants, dynamic skies, and filmic bloom — a shaderpack that makes Minecraft look incredible."
+,iSAqbF7x,,"A fantasy Minecraft shader with nice visuals, and runs well."
+,L5dehyse,,Shader so good your computer can't handle it. Or load it really
+,qpA3SxtS,,A higher performance shader forked from Mellow. Support low end and higher end builds. Even runs on integrated graphics!
+,F03D4KFh,,"Near-vanilla shaders with realistic lighting: sun and moon shadows, warm torchlight with soft shadows, backlighting (rim lighting), and corner shading. OptiFine and Iris; Minecraft 1.16.5–26.3."
+,V2DYYxvS,,"Good Performing, Very Customizable, Fake Ray Tracing/RTX Bedrock inspired shader."
+,1L9qsAbm,,"A lightweight Minecraft shader pack that simulates Protanopia, Deuteranopia, Tritanopia and Achromatopsia in real time."
+,ZZVgotgI,,So Vanilla- a little shader for vanilla minecraft
+,frac8sks,,Shader with a foggy and warm look. It leverages new features added by Iris for effects previously impossible to achieve.
+,Rn5nNhVt,,"A high-performance cinematic shader pack featuring realistic procedural clouds, smooth water waves, and vibrant colors optimized for smooth gameplay."
+,ZQ2ILXE5,,"An enhanced edition of Photon Shaders featuring critical fixes for beacon beams across all dimensions, entity nametag darkening, and improved rendering."
+,69WtIL3W,,"A warm, nostalgic shaderpack that makes every Minecraft afternoon feel like a memory. Golden light, soft haze, drifting god rays, painted clouds and clear, living water."
+,j5OKSjVO,,"Turns Minecraft into a printed comic: halftone ink dots, muted colours, ink outlines and a Ben-Day sky."
+,YBxHE85X,,"Lightweight, RTX-like vanilla shaders are perfect for low-end devices and are also supported in the render dragon engine"
+,1x0tnMFF,,"A cinematic yet lightweight shader focused on beautiful lightings, atmospheric skies and immerisve world."
+,fjTCryQj,,"A Lightweight Stylized Shaderpack With Soft Lighting, Rich Shadows And Atmospheric Skies, Built For Performance."
+,8riXSAMP,,这个光影为游戏增加了光照，为低性能电脑玩家提供良好的游戏光影体验 This shader adds illumination to the game and provides a good lighting experience for players with low-performance computers.
+,y5vfr9HA,,"Realistic shader pack for Iris: physically based sky, volumetric clouds, detailed water, rain with puddles and drops, soft shadows, coloured block light and northern lights."
+,QtsvJBsT,,"A vibrant shader with glowing clouds, colorful lighting, and improved atmosphere."
+,94NeFeu4,,Optimized version of SalicylicShaders with better clouds and shadows.
+,CNDxwBeO,,a nice shader for minecraft iris
 ,vU3ltJcl,,
-,grDZyCea,,
-,xRdgoveU,,
-,Bw9ayJxa,,
-,wzS9q73B,,
-,nshTeIRo,,
-,YyPJLm6m,,
-,cOGguazG,,
-,y2DJU4H3,,
-,S3qxPklg,,
-,wZuaoPKt,,
-,tc4vX1kU,,
-,PPtMEiLU,,
-,FXpJpBF6,,
-,uh5zMOHB,,
-,PccXNiQo,,
-,woNcvB9X,,
-,T3DBNJDQ,,
-,UfByrKDb,,
-,prStxnfl,,
-,Sg9Xk4th,,
-,sp1FliB0,,
-,wlMXrWqB,,
-,wbbGdolS,,
-,JS0DDk1D,,
-,elg5yc8k,,
-,OLiD3cNr,,
-,jbA7c5LN,,
-,eyZ7qEt5,,
-,MDCHjtuJ,,
-,4c91isIL,,
-,b3S7fxCy,,
-,meyJP1eJ,,
-,kmwfVOoi,,
-,W3QK7DQz,,
-,l6Uqs2fS,,
-,Q6RQF9Oa,,
-,BrRak9pu,,
-,rinvvngy,,
-,DiGQENDV,,
-,yY9oI7oz,,
-,6NnvPzWJ,,
-,Gdq9dXUk,,
-,z8EjLYqN,,
-,chKtnjkM,,
-,McUqXQ0J,,
-,yhXP52S3,,
-,VP9picRm,,
-,PgdT4v4a,,
-,xJNabPID,,
-,s8ZCVd1a,,
-,LypdYQ63,,
-,OT1P0oHO,,
-,bvDpxd8c,,
-,EQs4Ewl7,,
-,hNGQT69K,,
-,68DAChCV,,
-,a8nz2nHG,,
-,2euhaJq5,,
-,2jvH1Rcl,,
-,5FTpbyBl,,
-,gGrRQIse,,
-,MVFwE4xD,,
-,XuGx9Ezb,,
-,IsJZJfNT,,
-,kih5VmNo,,
-,jiOSfcba,,
-,2vBMeaEW,,
-,ZuJPfLHp,,
-,xM96NJmk,,
-,9gxVXUDr,,
-,m9mH4vjB,,
-,gxUihgVw,,
-,zf7q9mVY,,
-,7FjF4us6,,
-,3cdrsl5X,,
-,dzx2zisP,,
-,iZBu2k8u,,
-,RC7Z2EaZ,,
-,iCrp3Ew5,,
-,ZUcNZHzL,,
+,grDZyCea,,"WarmToon: warm, cartoon-style shaders for OptiFine and Iris. Minecraft as it looks in the trailers: soft golden light, gentle shadows and cozy warm colors."
+,xRdgoveU,,"The shader draws two bars, top and bottom, exactly like a film."
+,Bw9ayJxa,,Best Shader To Make Videos Without Sacrificing FPS With Better Resolution
+,wzS9q73B,,"Dark echo vision: expanding rings of light sweep over a black world and reveal block outlines. 37 colors, 7 profiles, 100-step sliders, one cheap pass. Тёмное эхо-зрение: расходящиеся волны света подсвечивают контуры блоков в темноте. 37 цветов, 7 профиле"
+,nshTeIRo,,"Miniature Shader fork. Adding Bloom, Colored Lighting, emissive, Sunrays and Voxy support."
+,YyPJLm6m,,"A realistic vanilla+ shaderpack focused on calm, warm lighting, natural skies, soft shadows, and immersive water."
+,cOGguazG,,"A simple Shader that increases vibrnacy, adds simple shadow and is performant"
+,y2DJU4H3,,Every effect is tuned for depth and realism.
+,S3qxPklg,,"Built as a cleaned-up, brighter, more natural-looking fork of Body Camera Shaders."
+,wZuaoPKt,,"A lightweight, single-pass Minecraft shader pack focused on PBR-style reflections and material response"
+,tc4vX1kU,,"A performance-focused, customizable shaderpack currently locked to a 'Realistic' preset style."
+,PPtMEiLU,,"A warm, cartoon-style shader pack for Iris: living water, colorful skies, a Nether tinted by each biome, and an End turned into outer space with planet Earth, a galaxy, space shuttles and an astronaut."
+,FXpJpBF6,,"Transforming the visuals of Minecraft with exceptional quality, detail, and performance."
+,uh5zMOHB,,"Minimalist shader, designed to retain the original minecraft vibe"
+,PccXNiQo,,Adds a retro static noise and security camera glitch effect inspired by Five Nights at Freddy’s (FNAF).
+,woNcvB9X,,"A world on the brink of collapse: eerie liminal spaces melt into neon glitches, warping blocks and flashes. A reality being erased."
+,T3DBNJDQ,,Ultra-lightweight shader for every version but not yet. Pure GPU math for stable 30 FPS on low-end laptops. 0% VRAM waste.
+,UfByrKDb,,"Bring your Minecraft world to life with vibrant anime-inspired lighting, dynamic weather, realistic water, atmospheric fog, and immersive environmental effects."
+,prStxnfl,,"Dappled Shaders by Eptune is a re-colored, autumn-themed fork of Complementary Shaders."
+,Sg9Xk4th,,"This shaderpack adds semi realistic clouds, very good godrays, auroras in snowy biomes. And best of all. A potato could run this!"
+,sp1FliB0,,"A lightweight Minecraft shader with soft lighting, realistic water, beautiful skies, and smooth performance."
+,wlMXrWqB,,an AI coded base Shader by Yt:@AmiChoiGame
+,wbbGdolS,,A Shader with a Black Hole and Stars from Space
+,JS0DDk1D,,This project includes a lot of anti-aliasing.
+,elg5yc8k,,a extremely light-weight shader that adds super dense fog and a way to clear said fog with light sources
+,OLiD3cNr,,Minecraft through fossilized amber.
+,jbA7c5LN,,"A dark, atmospheric shader for you"
+,eyZ7qEt5,,"Sunlit Shaders is a darker, cinematic Minecraft shader pack featuring soft shadows, warm sunlight, glowing sunsets, reflective water, animated foliage, clouds, bloom, and improved lighting."
+,MDCHjtuJ,,Makes the Moon render in front of the Sun so that eclipses become possible via data packs. Optional Panini Projection toggle that is off by default.
+,4c91isIL,,"An experimental shaderpack that anchors shadows, bounced light and reflections to Minecraft’s texels, with a fully native Vulkan renderer planned."
+,b3S7fxCy,,Ths shader increases the game brightness.
+,meyJP1eJ,,The most realistic black hole in Minecraft.
+,kmwfVOoi,,[WIP] A gameplay shaderpack based on complementary reimagined that has coloured block light with sharp shadows
+,W3QK7DQz,,"Vanilla rendering, but with TAA"
+,l6Uqs2fS,,An attempt at recreating the new 'Vibrant Visuals' for Iris.
+,Q6RQF9Oa,,A shader aimed at maximum speed while maintaining good visuals. Scalable from low to high end computers.
+,BrRak9pu,,"Clean, high performance shaders for modern hardware"
+,rinvvngy,,FullBright2 is now named Clarity and it removes all shadows and fog wich makes you see clearly everywhere and can be used for mining or travelling at night.
+,DiGQENDV,,Lux is a high fidelity Minecraft: Java Edition shader pack based on Capt Tatsu's BSL Shaders.
+,yY9oI7oz,,An attempt at a mostly realistic shader that maintains decent performance; for Minecraft Java.
+,6NnvPzWJ,,A lightweight shader pack designed to enhance the vanilla aesthetic.
+,Gdq9dXUk,,"Shaders with no mods or FPS loss. Compatibility with 26.1-1.20.5 Vanilla, Sodium, and other mods!"
+,z8EjLYqN,,"Very optimized shaderpack for MC: Java edition, around since 2012! Runs on any hardware and supports every MC version since 1.7.10."
+,chKtnjkM,,Very Simple and Best shader for You!
+,McUqXQ0J,,"Just Colored Lighting and Dynamic Lights added to a very fast shader for Potato computers, with optional shadows, texture upscaling, and great PBR support. Voxy and Distant horizons are also supported."
+,yhXP52S3,,"A relatively simple shader for minecraft, made to emulate the look of old VHS recordings."
+,VP9picRm,,A performant and vibrant Minecraft shader.
+,PgdT4v4a,,Glimmer is a Minecraft shaderpack designed to be simple and performant whilst maintaining a physically based and natural look.
+,xJNabPID,,Iris shader that gives you a flashlight!
+,s8ZCVd1a,,"A Revamped Version of EclipseLite, In Cooperation with Gamer Ben"
+,LypdYQ63,,"[WIP] A Semi-Realistic Minecraft Shaderpack, with a Vibrant Visuals Style.  Based on Complementary Reimagined."
+,OT1P0oHO,,"Shadows, Waving Water and Lava"
+,bvDpxd8c,,High-quality realistic Minecraft shaderpack.
+,EQs4Ewl7,,"Allium, a Complementary Unbound edit. Push creativity to it's limits."
+,hNGQT69K,,A very very vibrant shader that has good performance!
+,68DAChCV,,A fresh and clear shader pack themed around spring.
+,a8nz2nHG,,Retrocomputing in Minecraft
+,2euhaJq5,,A lightweight Shader for low end Hardware - Vanilla styled
+,2jvH1Rcl,,"Improves the look of vanilla MC with shadows, reflections and more. Runs on any Potato!"
+,5FTpbyBl,,"Simple shader, the goal is to imitate the look of the PSX Games."
+,gGrRQIse,,Make your game look like a Minecraft trailer — but with higher FPS.
+,MVFwE4xD,,A performant vanilla-inspired shader for Minecraft Java
+,XuGx9Ezb,,A shaderpack that aims on giving brightness everywhere while keeping the game aesthetic.
+,IsJZJfNT,,A vintage and Lo-Fi emulating shader.
+,kih5VmNo,,A simple shaderpack which aims to recreate the visual style of Lethal Company.
+,jiOSfcba,,BTB is a shader that emulates the looks of old retro PS1 3D games.
+,2vBMeaEW,,Realistic & Fantasy Shader based on Derivative shader
+,ZuJPfLHp,,"Transform Minecraft into a magical fantasy world featuring glowing night fireflies, shimmering Auroras, vibrant cinematic lighting, and dynamic weather."
+,xM96NJmk,,YoFPS is a Chocapic13's Shaders edit that focuses on quality and performance.
+,9gxVXUDr,,"Cinematic shaders for Minecraft Java featuring a black hole and white hole in the End, atmospheric lighting, volumetric clouds, water reflections and cinematic autofocus."
+,m9mH4vjB,,"[WIP] A Minecraft shader that strives to capture some of the beauty of real life, mixed with the unique ambience and blocky beauty of the Minecraft we've all come to love"
+,gxUihgVw,,Makes armor trims glow in the dark. No mods needed!
+,zf7q9mVY,,"A path tracing shaderpack for vulkanite mod, better than demo pack"
+,7FjF4us6,,"A vanilla-style shader with colored lights, many quality of life features and visual improvements aiming for the highest performance."
+,3cdrsl5X,,PixelCraft Shaders is a Complementary Shaders edit aiming to replicate pixel art. Every screenshot is a new piece of art brought to life!
+,dzx2zisP,,"Vanilla+ Shader, that supports Optifine and Iris Barely affects performance"
+,iZBu2k8u,,"Stylized, bright fantasy atmosphere"
+,RC7Z2EaZ,,This shader transforms your game into a beautiful winter wonderland.
+,iCrp3Ew5,,Stylized fantasy shader designed to revitalize your mc world (very work in progress)
+,ZUcNZHzL,,Adds a simple slider which allows you to change saturation
+,BUM3ET0U,,"A warm, stylized cartoon shaderpack with glowing light, soft hazy skies and bright foamy water."
+,bnYOUpip,,"Colored lighting, glowing blocks and a living night sky: nebula, Milky Way, moon phases and twinkling stars. Presets from Potato to Ultra."
+,jgYsD3FV,,"Unbound Visual+ is a modified version of Complementary Unbound, featuring various added effects and visual enhancements."
+,yRGF57K6,,"Performance-focused visuals with sculpted clouds, organic water, warm lighting, and flexible presets for lower-end PCs."
+,ex3sx5Wn,,"A cinematic and highly customizable visual experience for Minecraft. Explore new skies, dynamic lighting, volumetric clouds and planetary atmospheres without needing a high-end GPU."
+,xxW7JsXp,,"Enhance vanilla visuals, effortlessly."
+,MEwabHnq,,Quick shader with a slider to switch between grayscale/normal/oversaturated.
+,8gcPgAgn,,Jasper (Jasper Shaders) is a medium weight Minecraft shaderpack designed to enhance your visual experience with various visual shader tweaks!
+,gThDVEWq,,"Cel-shaded lighting, crisp rim lights, ink outlines and puffy cartoon clouds for Iris on Minecraft 1.21.11."
+,QaOzWwtJ,,A semi-realistic LabPBR Iris shaderpack.
+,CCbTFfDg,,"A physically based shader pack for Iris: volumetric clouds, reflective water, colored voxel lighting with soft shadows, and skies of its own."
+,8awftNvW,,"A realistic Minecraft shader with beautiful skies, better lighting, shadows, and water, designed to look amazing while keeping good FPS."
+,2cKvwlEZ,,Trying to make minecraft weather look beautiful.
+,z0NF17Hp,,"Lightweight OpenGL 4.6 shaders for Minecraft 1.16–26.3 with volumetric godrays, HDR rendering, 3D clouds, and LabPBR support."
+,VuboLDKb,,"Atmospheric Minecraft shaders with reflective water, dramatic skies, and warm lighting—all while keeping Minecraft’s familiar blocky look. Currently in beta."
+,PHSgj26l,,[WIP] A Colorful Shaders Based on Complementary Unbound.
+,UUCL14oZ,,[WIP] A Colorful Shaders Based on Complementary Unbound.
+,ZqKbFLAg,,"A fantasy-styled shader pack that turns Minecraft into a magical world: glowing auroras, nebula skies, shooting stars, enchanted water and warm, living light. Supports Iris, Oculus and OptiFine."
+,qxUeQ92X,,"The Nexus Unbound, is a modern and cool shaderpack, for Iris, and OptiFine more details in description"
+,SAiL7h1f,,A Minecraft Shaderpack For Minecraft: Java Edition. Simple Shaders.
+,z67DnolW,,DeBodycam  Camera Effect of using a body camera
+,1QFTrMBL,,"Shiroi Visuals is a Minecraft Java Edition shader pack inspired by Bedrock's Vibrant Visuals, featuring vanilla-style lighting, blocky shadows, volumetric fog, and vibrant water."
+,WsoFVMgc,,Stylized meets performance
+,KEkpf55D,,"High-FPS Minecraft shader for iGPUs & laptops, with insane visuals that you could imagine running this fast."
+,1ksnvL62,,"A vibrant cartoon-style Minecraft shader featuring soft lighting, colorful skies, dynamic water, enhanced nature, and advanced visual effects."
+,X3QpgVMv,,This shader allows you to be able to have way more Minecraft colour features
+,2Q0I5Wkh,,"This is a really simple shader that doesn't use any extra textures or render passes, meaning your FPS doesn't drop. It just modifies the stuff that is already there.  You can tweak all the settings to your liking and disable stuff you don't want."
+,1YIPfAv7,,"A Minecraft shader pack derived from ohjey’s Metallum Extra shaders, with colored lighting, soft shadows, reflective water, and a cinematic sky."
+,n48y4QW0,,"A clean Minecraft shaderpack with smooth lighting, atmospheric visuals, and balanced effects for everyday gameplay."
+,1ZRjfLk9,,"Grounded, period-film lighting for Minecraft 26.3: physically based sky, soft shadows, flickering firelight, morning mist, fluffy volumetric clouds, wet stone in the rain and full LabPBR support. Potato to Ultra profiles."
+,HPkbgOtW,,"Fix rendering aliasing (TAA, FXAA)"
+,KHsmLorf,,"Brings the nostalgic visuals, warm lighting, and iconic horizon fog of Minecraft: Xbox 360 Edition to modern Java."
+,Bn8iCdvB,,"Noverune is a Minecraft shader pack featuring enhanced lighting, atmospheric skies, water effects, improved shadows, and customizable settings"
+,sG4BIOzS,,"Black world, glowing rainbow outlines. A retro vector-style shader with smooth colour flow, optional neon glow and full control over speed, hues and brightness."
+,6uMq4dka,,"An atmospheric shader featuring warm lighting, volumetric clouds, lively water, and extensive customization."
+,c87XIrbq,,"Reshady lets light do what it does in the real world, bounce off every block, bend through glass, and pool in shimmering water, while keeping the game looking true to vanilla Minecraft."
+,5osaryhm,,First Fully Customizable Minecraft Shader!
+,buxmjLmK,,"Elysium Shaders is a shader pack that adds soft shadows, pleasing colors, and natural phenomena."
+,7g3wIAG2,,A spooky shader for halloween
+,ZVdK80Lp,,A shader for PvP and beautiful replays for video recording.
+,SGcxdEn8,,"Cinematic, physically based shaders: real wave physics and ripples, volumetric clouds, soft shadows, global illumination and labPBR support, with 170 settings."
+,J9wFMEaL,,"A high-end, pure math shader pack. Transforming the End into a jaw-dropping procedural universe using path tracing, raymarching, and PBR. No PNG textures—just raw code!"
+,RRCbhkMA,,A Minecraft Addition Enabling Colored Enchantment Glints.  For Vanilla And Modded Clients.
+,zm2doYmF,,Light? Nah. Choose OverLight.
+,tE2TCUD2,,"Vanilla look with ray-traced light and shadows: coloured torch light, held lights, sun and moon shadows, rays, water. Overworld, Nether, End."
+,Lyan9gn0,,LiteMc is the Lover for Low-End PC.
+,XoKGcqo7,,It's a vanilla shader that adds lighter shadows and nicer lighting
+,KO5bdqAG,,"A Shader that is so beautiful, you'll feel flashbanged"
+,bnTzH8Kc,,The new MOST realistic and optimized shaders that was made in Minecraft!
+,Xfax1OvJ,,"An original shader pack for Iris with a soft, colourful, cinematic look: warm sunsets, deep starry nights, a spectacular End sky and light that behaves — it is recoloured by stained glass and reflected by polished blocks."
+,yEtjSPos,,"EmberVoid Shader – High Contrast, High Performance & Realistic Atmospheres"
+,1cVbuPXx,,A Mid-end shader pack for Minecraft
+,t6fe7kkn,,This project is a shader designed for PC gamers
+,j8vzmojd,,"A lightweight, optimized shader designed specifically for low-end and potato PCs."
+,cimA9SgF,,"It adds better shadows, reflections, and atmosphere to the game. Since this is the first version of Shader, there may be some bugs. You can report them to me via Discord. Discord: Cinar459"
+,1ge79IiH,,a shader that dosent lag too much!
+,AqkOagyS,,"A more vibrant world, a more beautiful Minecraft. Global illumination, colored light, volumetric clouds and stylized water, inspired by Vibrant Visuals."
+,162KpUhg,,"A lightweight shader pack for Iris Shaders that preserves. The vanilla look while adding camera-style post-processing effects such as exposure, color temperature, saturation, and depth of field."
+,3PrdwOBX,,This is my definitive way on how Minecraft should look.
+,GEuwLKq2,,Is this a place you've been before?
+,l4AV2nit,,Every moment has its own atmosphere.
+,okTlQWvo,,A lightweight and highly optimized Vanilla+ shader pack designed to enhance Minecraft's visuals and lighting without losing FPS.
+,ch1yZBko,,A remarkably fast and unobtrusive shader pack with exceptional attention-to-detail.
+,bkRolebi,,"A highly customizable, BSL-style shader for Iris and OptiFine. Delivers gorgeous lighting, cinematic post-processing, and soft shadows optimized to be beautiful without melting your GPU."
+,NC2zNonW,,"Rose Shaders - Unbound Rose Shaders - Unbound is a shader pack for Minecraft focused on delivering a refreshed visual experience, vibrant colors, and improved lighting, while maintaining solid performance across various hardware configurations."
+,hRvBGTbj,,"Top-down-friendly shaders for Iris: a fixed sun with crisp shadows, warm days, blue nights, amber lamp pools and light from the items in your hands."
+,HEhd6OXA,,this is shader purely focused on mix of Anime and minecraft style (in Lite version)
+,peNOJKNV,,GTNH Compatible cinematic shader for PDIM
+,AVGUUr2q,,"FocusCam adds a depth-of-field effect to Minecraft and nothing else. The game keeps its vanilla look: same colors, lighting, sky and fog."
+,a3neasXk,,Different styles of Lense Flare with Depth of field
+,M8LIx21K,,A non-bouncy fork of ckosmic's Minecraft PSX Shader
+,LVPSDBcb,,"A troll shader that makes the whole world wave, spin, bend and stumble around you. Prank your friends, but maybe not on a full stomach."
+,t6rCq4oJ,,"A lightweight cartoon shader with cel-shading, bold outlines and punchy colors that runs smooth even on low-end PCs."
+,gMyKpCbg,,A photography-inspired shaderpack. light enough to leave on all the time.
+,haOTAFvY,,"Experience Minecraft like never before with Creeped Shaders — a cinematic atmosphere featuring immersive fog, dramatic lighting, and realistic environmental effects, designed to transform your world."
+,NPKlYU6I,,"An very optimized shaderpack for minrcraft,mostly very adaptable for low end pc too"
+,E0Qg3miW,,"Plasma Shader is a realistic Minecraft Java shader for Iris and Sodium, featuring PBR lighting, dynamic clouds, atmospheric skies, reflective water and cinematic visuals."
+,l2palkeG,,A Minecraft shader pack that balances stunning visuals and smooth performance.
+,8oTJaBO3,,"Geometry-aware ink, painted light bands, and a warm storybook palette with stable motion and readable depth."
+,rTd7Xg3p,,"Dedicated Distant Horizons terrain and water shading, clean LOD handoff and a stable high-visibility atmosphere for huge landscapes."
+,fNoa1dli,,"Continuous storm skies, readable rain, wet surfaces and real lightning response in one weather-first shaderpack."
+,O6YJsa1n,,"A clean everyday renderer with optional bounded depth of field, bokeh and anamorphic character for screenshots and films."
+,dtK0qOhZ,,"Clean natural lighting, stable real-time shadows, reflective water and a warm cinematic atmosphere designed for everyday play."
+,WeJ7BUmH,,A cartoon / anime stylized shaderpack meant to forget about themed limitations and just make the game look as cool as possible.
+,XUPdRkWv,,zyko shaders are made for lowend pcs it runs perfectly with good graphics
+,r7pO04ED,,"A lightweight, FPS-friendly shader with soft shadows, reflective waving water, warm sunlight, atmospheric fog and waving plants. Includes Low to Ultra presets."
+,NNQm5EFZ,,"The shader adds a yellowish tint to all light sources, enhancing the visuals with almost zero performance impact."
+,i3jpEcec,,A realistic yet vanilla-friendly shader pack featuring volumetric clouds
+,xHyUigBK,,this shaders add Gsl & Vertex settings & dimension properties
+,sDlPWfkq,,"Lightweight cinematic shader pack for Iris: real soft shadows, bloom, film grain and Lightroom-style color grading. Built for macOS (OpenGL 4.1) and runs on Windows and Linux too."
+,XKILmyzV,,A Minecraft Shader made from scratch. Made with Lumen
+,VTQzIzrg,,Adds night vision but shader
+,Q1uBa54j,,"A cinematic Iris shader for Minecraft 26.2 and 26.3: a real sun and moon, its own clouds, water that reads from a distance, glowing leaves and TAA."
+,PIUhnxAu,,"Atmospheric shader with soft shadows, aurora borealis, glowing ores, night vision, bloom, waving foliage and water reflections. Includes a big Extras menu, quality profiles and 60+ settings."
+,ntZg4OwH,,"A cinematic Iris shader for Minecraft 1.21.x with raymarched volumetric clouds, soft shadows, reflective animated water, post-rain rainbows and god rays. It also adds a signature purple End with glowing light pillars and deep fog."
+,1bD9aT8d,,"Allay Shader delivers a beautiful experience, even on very low-end PCs. It’s bright, vibrant, and... just good!"
+,XwLmgNjZ,,"Shader for Iris designed for low-end PCs, without sacrificing visual quality."
+,quLkHKMZ,,"Aetheria Lite Shaders is a lightweight, performance-focused GLSL shader pack designed to enhance lighting, atmospheric fog, and water visuals in Minecraft for integrated GPUs such as Intel HD Graphics 4000 and low-end hardware."
+,wWsuEccz,,Pweety is a Minecraft Shader that makes the visuals vibrant while staying optimized
+,1ti4nX0c,,Transforming the visuals to achieve a warm atmosphere in daytime and a cold fantasy atmosphere in the night for minecraft 1.12.2-26.3.
+,PH6UxJwh,,"Dreadfog is a horror and spooky edit of mmy own shaders - evelite shaders. it has aesthetic blackhole in the overworld night sky, nebula in the end and very good environment in the nether."
+,qq3K4xrl,,"A Shader that adds new and improved visuals to the game, along with a customizable black hole in place for the sun and moon."
+,nmkOQKZu,,A Shader that Adds realistic Depth of Field to Minecraft with smooth blur.
+,kbuhuwmF,,"A lightweight shader pack designed for low-end devices, delivering improved visuals with minimal performance impact."
+,feSnQ448,,"Realistic Edition enhances Minecraft with realistic lighting, atmospheric fog, god rays, soft bloom, improved water visuals, and flexible performance profiles for immersive gameplay."
+,H0ATJW2K,,"Lively-Nature,Nature world."
+,1bgY0tc8,,These shaders were created specifically for those who love vibrant colors!
+,YRTkyY7a,,A light shaderpack that is optimized for the MacBook Neo (Can be used on other lower end devices)
+,tg0Y5Iue,,"A cinematic shader pack built for storytelling: drifting fog, rain that soaks the world, mirror-like water, sun rays through the trees, and a camera that knows when a cutscene is rolling."
+,Vw2mE0fs,,"ModernShaders is a lightweight Iris/OptiFine shader pack with soft shadows, animated reflective water, godrays and warm torchlight. It's built to look cinematic while staying tunable for mid-range PCs. Early release, Overworld-focused."
+,ZXNtBtRA,,"An light weight aesthetic, pastel-colored shaderpack with multiple color presets based on Pastel and Super Duper Vanilla Shaders"
+,jgPoCNT0,,"True colored block lighting with a clean custom menu. Redstone glows real red, soul torches cyan, froglights in their proper colors. Profiles change light intensity. Tilted sun & moon path."
+,nCHBhUFd,,"New SimpleShader for mini youtubers, and potato pc users."
+,Jx7OUSdw,,"This is modification of the PELAGIC shader, tailored for a nuclear winter vibe."
+,1G5IaTGd,,"Simple shaderpack with glowing ores, sharp dynamic shadows, murky water physics, and great rain effect."
+,tVM7nBUg,,Just slightly more realistic lighting.
+,P3dG72kd,,"Halcyon is a super-optimized Iris shaderpack with a warm, 'golden hour' look: soft coloured shadows, a procedural sky with auroras, rolling reflective water, a custom End and built in Voxy support. It is forward shaded with a single render target and only"
+,E977wyJc,,"A high-quality ocean-focused shader pack that completely overhauls underwater graphics, adding path-traced lighting, volumetric rays, and dynamic caustics."
+,8TfLK6Fa,,This shader simulates having an astigmatism in minecraft
+,e9xluLqx,,A Advanced Voxel Path-Traced Shaderpack for Iris.
+,hj1bzwpv,,VoidLight Cinematic low minecraft shade
+,1dEYicrh,,"Natural Comfort is a lightweight Minecraft shader designed for beautiful, realistic visuals, smooth lighting, natural reflections, and balanced performance without demanding high-end hardware."
+,4A1AZFli,,"A good-performing, dreamy, stylized shader pack with colored lighting and fancy visuals."
